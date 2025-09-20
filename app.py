@@ -1,6 +1,5 @@
 # app.py
 from flask import Flask, jsonify, render_template, request
-import pandas as pd
 import json
 import os
 import re
@@ -26,14 +25,14 @@ if not GEMINI_API_KEY:
 if not SUPABASE_URL or not SUPABASE_KEY:
     raise RuntimeError("ERROR: SUPABASE_URL or SUPABASE_KEY not found. Add them to .env")
 
-# Initialize clients - FIXED for current Gemini API
+# Initialize clients
 genai.configure(api_key=GEMINI_API_KEY)
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 print("Gemini client initialized ✅")
 print("Supabase client initialized ✅")
 
 # --------------------- DATA LOADING ---------------------
-HEALTH_DATA_CACHE = pd.DataFrame()
+HEALTH_DATA_CACHE = []
 GEO_DATA_CACHE = None
 
 def load_health_data():
@@ -65,28 +64,14 @@ def load_health_data():
         print(f"📊 Total rows loaded from Supabase: {len(all_data)}")
         
         if all_data:
-            HEALTH_DATA_CACHE = pd.DataFrame(all_data)
+            HEALTH_DATA_CACHE = all_data
             print(f"✅ Complete Supabase data loaded: {len(HEALTH_DATA_CACHE)} rows")
-            print(f"📋 DataFrame columns: {list(HEALTH_DATA_CACHE.columns)}")
-            
-            # Convert date strings back to proper format if needed
-            date_columns = ['Date of start', 'Date of reporting']
-            for col in date_columns:
-                if col in HEALTH_DATA_CACHE.columns:
-                    HEALTH_DATA_CACHE[col] = pd.to_datetime(HEALTH_DATA_CACHE[col], errors='coerce')
-            
         else:
             print("❌ No data found in Supabase")
             
     except Exception as e:
         print(f"❌ Failed to load data from Supabase: {e}")
-        # Fallback to CSV if Supabase fails
-        try:
-            csv_path = os.path.join(APP_ROOT, "static", "data", "govdata.csv")
-            HEALTH_DATA_CACHE = pd.read_csv(csv_path).fillna(0)
-            print(f"Fallback: CSV loaded with {len(HEALTH_DATA_CACHE)} rows")
-        except FileNotFoundError:
-            print("❌ CRITICAL: Both Supabase and CSV failed!")
+        HEALTH_DATA_CACHE = []
 
 # Load data on startup
 load_health_data()
@@ -123,33 +108,45 @@ def parse_intent(query: str):
 
     return intent
 
-# --------------------- DATA FILTERING (Fixed for actual Supabase column names) ---------------------
+# --------------------- DATA FILTERING (Native Python) ---------------------
 def filter_data(intent):
-    if HEALTH_DATA_CACHE.empty:
-        return pd.DataFrame()
+    if not HEALTH_DATA_CACHE:
+        return []
 
-    df = HEALTH_DATA_CACHE.copy()
+    filtered_data = []
+    
+    for row in HEALTH_DATA_CACHE:
+        # Filter by year
+        if intent["year"] and int(row.get("Year", 0)) != intent["year"]:
+            continue
+            
+        # Filter by diseases
+        if intent["diseases"]:
+            disease = str(row.get("Disease", "")).lower()
+            if not any(d in disease for d in intent["diseases"]):
+                continue
+                
+        # Filter by areas
+        if intent["areas"]:
+            area = str(row.get("Area", "")).lower()
+            if not any(a in area for a in intent["areas"]):
+                continue
+        
+        # Convert numeric fields
+        row_copy = row.copy()
+        row_copy["deaths_numeric"] = int(row.get("No of deaths", 0) or 0)
+        row_copy["cases_numeric"] = int(row.get("No of cases", 0) or 0)
+        
+        filtered_data.append(row_copy)
 
-    # Use actual Supabase column names (with capitals and spaces)
-    if intent["year"]:
-        df = df[df["Year"] == intent["year"]]  # ✅ Updated
-    if intent["diseases"]:
-        df = df[df["Disease"].str.lower().str.contains("|".join(intent["diseases"]), na=False)]  # ✅ Updated
-    if intent["areas"]:
-        df = df[df["Area"].str.lower().str.contains("|".join(intent["areas"]), na=False)]  # ✅ Updated
+    return filtered_data
 
-    # Convert to numeric using actual column names
-    df["deaths_numeric"] = pd.to_numeric(df["No of deaths"], errors="coerce").fillna(0)  # ✅ Updated
-    df["cases_numeric"] = pd.to_numeric(df["No of cases"], errors="coerce").fillna(0)   # ✅ Updated
-
-    return df
-
-def summarize_data(df, intent):
-    if df.empty:
+def summarize_data(filtered_data, intent):
+    if not filtered_data:
         return ["No matching data found."]
 
-    total_deaths = int(df["deaths_numeric"].sum())
-    total_cases = int(df["cases_numeric"].sum())
+    total_deaths = sum(row["deaths_numeric"] for row in filtered_data)
+    total_cases = sum(row["cases_numeric"] for row in filtered_data)
 
     result = []
     year_txt = f" in {intent['year']}" if intent['year'] else ""
@@ -161,18 +158,22 @@ def summarize_data(df, intent):
     else:
         result.append(f"Summary{year_txt}: {total_cases} cases and {total_deaths} deaths")
 
-    # Breakdown by disease using actual column name
-    disease_summary = (
-        df.groupby("Disease")[["cases_numeric", "deaths_numeric"]]  # ✅ Updated
-        .sum()
-        .sort_values("cases_numeric", ascending=False)
-        .head(5)
-    )
+    # Group by disease
+    disease_summary = {}
+    for row in filtered_data:
+        disease = row.get("Disease", "Unknown")
+        if disease not in disease_summary:
+            disease_summary[disease] = {"cases": 0, "deaths": 0}
+        disease_summary[disease]["cases"] += row["cases_numeric"]
+        disease_summary[disease]["deaths"] += row["deaths_numeric"]
 
-    for disease, row in disease_summary.iterrows():
-        result.append(
-            f"{disease}: {int(row['cases_numeric'])} cases, {int(row['deaths_numeric'])} deaths"
-        )
+    # Sort by cases and take top 5
+    sorted_diseases = sorted(disease_summary.items(), 
+                           key=lambda x: x[1]["cases"], 
+                           reverse=True)[:5]
+
+    for disease, data in sorted_diseases:
+        result.append(f"{disease}: {data['cases']} cases, {data['deaths']} deaths")
 
     return result
 
@@ -183,13 +184,8 @@ def index():
 
 @app.route("/data")
 def get_health_data():
-    """Return data for frontend - now from Supabase"""
-    if not HEALTH_DATA_CACHE.empty:
-        return jsonify(HEALTH_DATA_CACHE.to_dict(orient="records"))
-    else:
-        # Try to reload from Supabase
-        load_health_data()
-        return jsonify(HEALTH_DATA_CACHE.to_dict(orient="records") if not HEALTH_DATA_CACHE.empty else [])
+    """Return data for frontend"""
+    return jsonify(HEALTH_DATA_CACHE)
 
 @app.route('/refresh-data')
 def refresh_data():
@@ -206,7 +202,6 @@ def chat():
         return jsonify({"response": "Please enter a question."})
 
     try:
-        # DEBUG: Print the original query
         print(f"\n🔍 USER QUERY: {user_message}")
         
         # Parse intent
@@ -214,22 +209,16 @@ def chat():
         print(f"🎯 INTENT: {intent}")
 
         # Filter data
-        filtered_df = filter_data(intent)
-        print(f"📊 FILTERED DATA: {len(filtered_df)} rows")
+        filtered_data = filter_data(intent)
+        print(f"📊 FILTERED DATA: {len(filtered_data)} rows")
         
-        if not filtered_df.empty:
-            # DEBUG: Show actual totals
-            total_cases = int(filtered_df["cases_numeric"].sum())
-            total_deaths = int(filtered_df["deaths_numeric"].sum())
+        if filtered_data:
+            total_cases = sum(row["cases_numeric"] for row in filtered_data)
+            total_deaths = sum(row["deaths_numeric"] for row in filtered_data)
             print(f"💯 ACTUAL TOTALS: {total_cases} cases, {total_deaths} deaths")
-            
-            # Show sample data
-            print(f"📝 SAMPLE ROWS:")
-            for _, row in filtered_df.head(3).iterrows():
-                print(f"   {row['Year']} | {row['Area']} | {row['Disease']} | {row['cases_numeric']} cases | {row['deaths_numeric']} deaths")
         
         # Get structured summary
-        structured_summary = summarize_data(filtered_df, intent)
+        structured_summary = summarize_data(filtered_data, intent)
         print(f"📋 SUMMARY: {structured_summary}")
 
         if structured_summary and "No matching data" not in structured_summary[0]:
@@ -244,7 +233,6 @@ USER QUESTION: {user_message}
 
 Provide a clear, factual answer using only the data above:"""
 
-            # FIXED: Use the correct method for current Gemini API
             model = genai.GenerativeModel('gemini-1.5-flash')
             response = model.generate_content(prompt)
             
@@ -262,13 +250,19 @@ Provide a clear, factual answer using only the data above:"""
 
 @app.route("/map_data/<int:year>")
 def get_map_data(year):
-    if GEO_DATA_CACHE is None or HEALTH_DATA_CACHE.empty:
+    if GEO_DATA_CACHE is None or not HEALTH_DATA_CACHE:
         return jsonify({"error": "Data not available"}), 500
 
-    # Use actual Supabase column names
-    df_year = HEALTH_DATA_CACHE[HEALTH_DATA_CACHE["Year"] == year].copy()  # ✅ Updated
-    df_year["No of cases"] = pd.to_numeric(df_year["No of cases"], errors="coerce").fillna(0)
-    case_counts = df_year.groupby("Area")["No of cases"].sum().astype(int).to_dict()  # ✅ Updated
+    # Filter data for the year
+    year_data = [row for row in HEALTH_DATA_CACHE if int(row.get("Year", 0)) == year]
+    
+    # Group by area and sum cases
+    case_counts = {}
+    for row in year_data:
+        area = row.get("Area", "")
+        cases = int(row.get("No of cases", 0) or 0)
+        if area:
+            case_counts[area] = case_counts.get(area, 0) + cases
 
     map_data_copy = json.loads(json.dumps(GEO_DATA_CACHE))
     for feature in map_data_copy.get("features", []):
@@ -277,8 +271,8 @@ def get_map_data(year):
         
         # Check for matches (case insensitive)
         cases = 0
-        for area_csv, count in case_counts.items():
-            if str(area_csv).strip().lower() == district_name:
+        for area_name, count in case_counts.items():
+            if str(area_name).strip().lower() == district_name:
                 cases = count
                 break
         
@@ -291,7 +285,6 @@ def get_map_data(year):
 def approve_doctors():
     return render_template('approve_doctors.html')
 
-# Debug routes remain the same...
 @app.route('/debug-supabase')
 def debug_supabase():
     """Debug Supabase connection and table access"""
