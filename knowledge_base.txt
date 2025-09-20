@@ -1,0 +1,532 @@
+For the year 2022, the disease (PV) had 5 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease 13 had 0 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease 15 had 0 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease 160 had 1 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease 5 had 1 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease AES had 3 reported cases and 1 deaths in Maharashtra.
+For the year 2017, the disease AES/JE had 61 reported cases and 1 deaths in Maharashtra.
+For the year 2019, the disease AES/JE had 101 reported cases and 10 deaths in Maharashtra.
+For the year 2018, the disease Acute had 35 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Acute had 24 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Acute had 78 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Acute Diarrheal had 97 reported cases and 1 deaths in Maharashtra.
+For the year 2016, the disease Acute Diarrhoeal had 365 reported cases and 2 deaths in Maharashtra.
+For the year 2016, the disease Chickenpox had 88 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Chickenpox had 312 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Chickenpox had 27 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Chickenpox had 11 reported cases and 0 deaths in Maharashtra.
+For the year 2020, the disease Chickenpox had 67 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Chickenpox had 4 reported cases and 0 deaths in Maharashtra.
+For the year 2022, the disease Chickenpox had 5 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Chickenpox had 18 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Chickenpox had 22 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Chickungunya had 48 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Chikungun had 32 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Chikunguniya had 25 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Chikungunya had 466 reported cases and 2 deaths in Maharashtra.
+For the year 2017, the disease Chikungunya had 541 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Chikungunya had 493 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Chikungunya had 25 reported cases and 0 deaths in Maharashtra.
+For the year 2020, the disease Chikungunya had 267 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Chikungunya had 331 reported cases and 2 deaths in Maharashtra.
+For the year 2022, the disease Chikungunya had 113 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Chikungunya had 207 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Chikungunya had 322 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Chikungunya had 50 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Chikungunya? had 13 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Chikungunya? had 46 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Cholera had 1254 reported cases and 6 deaths in Maharashtra.
+For the year 2017, the disease Cholera had 5911 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Cholera had 310 reported cases and 3 deaths in Maharashtra.
+For the year 2019, the disease Cholera had 512 reported cases and 3 deaths in Maharashtra.
+For the year 2020, the disease Cholera had 264 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Cholera had 590 reported cases and 1 deaths in Maharashtra.
+For the year 2022, the disease Cholera had 355 reported cases and 5 deaths in Maharashtra.
+For the year 2024, the disease Cholera had 428 reported cases and 4 deaths in Maharashtra.
+For the year 2025, the disease Cholera had 12 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Complicate had 2 reported cases and 2 deaths in Maharashtra.
+For the year 2016, the disease Dengue had 679 reported cases and 9 deaths in Maharashtra.
+For the year 2017, the disease Dengue had 1329 reported cases and 24 deaths in Maharashtra.
+For the year 2018, the disease Dengue had 1049 reported cases and 18 deaths in Maharashtra.
+For the year 2019, the disease Dengue had 1268 reported cases and 32 deaths in Maharashtra.
+For the year 2020, the disease Dengue had 155 reported cases and 2 deaths in Maharashtra.
+For the year 2021, the disease Dengue had 444 reported cases and 20 deaths in Maharashtra.
+For the year 2022, the disease Dengue had 235 reported cases and 8 deaths in Maharashtra.
+For the year 2023, the disease Dengue had 1594 reported cases and 59 deaths in Maharashtra.
+For the year 2024, the disease Dengue had 897 reported cases and 17 deaths in Maharashtra.
+For the year 2025, the disease Dengue had 75 reported cases and 2 deaths in Maharashtra.
+For the year 2016, the disease Diarrhea had 22 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Diarrheal had 1696 reported cases and 7 deaths in Maharashtra.
+For the year 2017, the disease Diarrheal had 1860 reported cases and 2 deaths in Maharashtra.
+For the year 2018, the disease Diarrheal had 2085 reported cases and 3 deaths in Maharashtra.
+For the year 2019, the disease Diarrheal had 741 reported cases and 0 deaths in Maharashtra.
+For the year 2020, the disease Diarrheal had 1169 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Diarrheal had 719 reported cases and 1 deaths in Maharashtra.
+For the year 2022, the disease Diarrheal had 834 reported cases and 3 deaths in Maharashtra.
+For the year 2023, the disease Diarrheal had 1429 reported cases and 1 deaths in Maharashtra.
+For the year 2024, the disease Diarrheal had 4606 reported cases and 9 deaths in Maharashtra.
+For the year 2025, the disease Diarrheal had 394 reported cases and 1 deaths in Maharashtra.
+For the year 2017, the disease Diarrhoeal had 53 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Diarrhoeal had 88 reported cases and 2 deaths in Maharashtra.
+For the year 2020, the disease Diarrhoeal had 227 reported cases and 1 deaths in Maharashtra.
+For the year 2021, the disease Diarrhoeal had 108 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Diarrhoeal had 26 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Dysentery had 214 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Dysentery had 98 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Encephalitic had 21 reported cases and 1 deaths in Maharashtra.
+For the year 2019, the disease Encephalitis had 16 reported cases and 5 deaths in Maharashtra.
+For the year 2021, the disease Encephalitis had 2 reported cases and 2 deaths in Maharashtra.
+For the year 2016, the disease Fever had 205 reported cases and 7 deaths in Maharashtra.
+For the year 2017, the disease Fever had 146 reported cases and 8 deaths in Maharashtra.
+For the year 2018, the disease Fever had 30 reported cases and 1 deaths in Maharashtra.
+For the year 2019, the disease Fever had 4 reported cases and 1 deaths in Maharashtra.
+For the year 2020, the disease Fever had 74 reported cases and 2 deaths in Maharashtra.
+For the year 2021, the disease Fever had 133 reported cases and 4 deaths in Maharashtra.
+For the year 2022, the disease Fever had 63 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Fever had 302 reported cases and 6 deaths in Maharashtra.
+For the year 2025, the disease Fever had 333 reported cases and 3 deaths in Maharashtra.
+For the year 2016, the disease Fever Rash had 9 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Fever/Dengue had 7 reported cases and 1 deaths in Maharashtra.
+For the year 2025, the disease Food had 74 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Food Poisoning had 3467 reported cases and 19 deaths in Maharashtra.
+For the year 2017, the disease Food Poisoning had 1300 reported cases and 9 deaths in Maharashtra.
+For the year 2018, the disease Food Poisoning had 1010 reported cases and 10 deaths in Maharashtra.
+For the year 2019, the disease Food Poisoning had 862 reported cases and 19 deaths in Maharashtra.
+For the year 2020, the disease Food Poisoning had 406 reported cases and 7 deaths in Maharashtra.
+For the year 2021, the disease Food Poisoning had 893 reported cases and 12 deaths in Maharashtra.
+For the year 2022, the disease Food Poisoning had 632 reported cases and 1 deaths in Maharashtra.
+For the year 2023, the disease Food Poisoning had 647 reported cases and 4 deaths in Maharashtra.
+For the year 2024, the disease Food Poisoning had 2844 reported cases and 4 deaths in Maharashtra.
+For the year 2025, the disease Food Poisoning had 1590 reported cases and 1 deaths in Maharashtra.
+For the year 2021, the disease FoodFood PoisoningPoisoning had 18 reported cases and 3 deaths in Maharashtra.
+For the year 2016, the disease Gastroenter had 45 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Gastroenterit had 26 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Gastroenterit had 16 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Gastroenteriti had 14 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Hepatitis had 79 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Hepatitis had 82 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Hepatitis had 184 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Hepatitis had 26 reported cases and 0 deaths in Maharashtra.
+For the year 2020, the disease Hepatitis had 44 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Hepatitis had 19 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Hepatitis had 472 reported cases and 2 deaths in Maharashtra.
+For the year 2025, the disease Hepatitis had 112 reported cases and 1 deaths in Maharashtra.
+For the year 2023, the disease Hepatitis-A had 16 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Hepatitis-A had 9 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Human Rabies had 1 reported cases and 1 deaths in Maharashtra.
+For the year 2019, the disease JE had 1 reported cases and 1 deaths in Maharashtra.
+For the year 2021, the disease Japanese had 1 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease Jaundice had 64 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Jaundice had 16 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Jaundice had 12 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Leptospirosis had 26 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Leptospirosis had 4 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Leptospirosis had 1 reported cases and 1 deaths in Maharashtra.
+For the year 2020, the disease Leptospirosis had 25 reported cases and 6 deaths in Maharashtra.
+For the year 2021, the disease Leptospirosis had 56 reported cases and 3 deaths in Maharashtra.
+For the year 2022, the disease Leptospirosis had 28 reported cases and 1 deaths in Maharashtra.
+For the year 2023, the disease Leptospirosis had 34 reported cases and 2 deaths in Maharashtra.
+For the year 2024, the disease Leptospirosis had 18 reported cases and 3 deaths in Maharashtra.
+For the year 2025, the disease Leptospirosis had 15 reported cases and 1 deaths in Maharashtra.
+For the year 2016, the disease Malaria had 160 reported cases and 3 deaths in Maharashtra.
+For the year 2017, the disease Malaria had 318 reported cases and 5 deaths in Maharashtra.
+For the year 2018, the disease Malaria had 28 reported cases and 2 deaths in Maharashtra.
+For the year 2019, the disease Malaria had 113 reported cases and 3 deaths in Maharashtra.
+For the year 2020, the disease Malaria had 90 reported cases and 8 deaths in Maharashtra.
+For the year 2021, the disease Malaria had 114 reported cases and 11 deaths in Maharashtra.
+For the year 2022, the disease Malaria had 401 reported cases and 8 deaths in Maharashtra.
+For the year 2023, the disease Malaria had 317 reported cases and 16 deaths in Maharashtra.
+For the year 2024, the disease Malaria had 1100 reported cases and 17 deaths in Maharashtra.
+For the year 2025, the disease Malaria had 70 reported cases and 3 deaths in Maharashtra.
+For the year 2016, the disease Measles had 105 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Measles had 239 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Measles had 568 reported cases and 2 deaths in Maharashtra.
+For the year 2019, the disease Measles had 6 reported cases and 0 deaths in Maharashtra.
+For the year 2022, the disease Measles had 6 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Measles had 43 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Measles had 47 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Mixed had 9 reported cases and 1 deaths in Maharashtra.
+For the year 2022, the disease Mouth had 19 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Mumps had 26 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Mumps had 16 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Mumps had 5 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Pertussis had 9 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Poisoning had 22 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Poisoning had 17 reported cases and 1 deaths in Maharashtra.
+For the year 2016, the disease Raigad had 43 reported cases and 2 deaths in Maharashtra.
+For the year 2016, the disease Rubella had 86 reported cases and 0 deaths in Maharashtra.
+For the year 2017, the disease Rubella had 18 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Rubella had 13 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Rubella had 6 reported cases and 0 deaths in Maharashtra.
+For the year 2019, the disease Scrub had 5 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Scrub had 9 reported cases and 1 deaths in Maharashtra.
+For the year 2017, the disease Scrub Typhus had 2 reported cases and 1 deaths in Maharashtra.
+For the year 2019, the disease Scrub Typhus had 5 reported cases and 1 deaths in Maharashtra.
+For the year 2021, the disease Scrub Typhus had 18 reported cases and 1 deaths in Maharashtra.
+For the year 2023, the disease Scrub Typhus had 3 reported cases and 1 deaths in Maharashtra.
+For the year 2024, the disease Scrub Typhus had 35 reported cases and 2 deaths in Maharashtra.
+For the year 2019, the disease Shigellosis had 32 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Suspected had 92 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Typhoid had 14 reported cases and 0 deaths in Maharashtra.
+For the year 2025, the disease Typhoid had 30 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Typhus had 63 reported cases and 6 deaths in Maharashtra.
+For the year 2016, the disease Viral Fever had 32 reported cases and 1 deaths in Maharashtra.
+For the year 2017, the disease Viral Fever had 21 reported cases and 0 deaths in Maharashtra.
+For the year 2018, the disease Viral Fever had 13 reported cases and 1 deaths in Maharashtra.
+For the year 2020, the disease Viral Fever had 24 reported cases and 0 deaths in Maharashtra.
+For the year 2016, the disease ViralHepatitis had 20 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Zika had 21 reported cases and 0 deaths in Maharashtra.
+For the year 2021, the disease Zika Virus had 1 reported cases and 0 deaths in Maharashtra.
+For the year 2023, the disease Zika Virus had 11 reported cases and 0 deaths in Maharashtra.
+For the year 2024, the disease Zika Virus had 46 reported cases and 0 deaths in Maharashtra.
+In the district of Ahmednagar during the year 2016, the most common diseases included: Food Poisoning (233 cases), Chikungunya (202 cases), Acute Diarrheal (71 cases).
+In the district of Ahmednagar during the year 2017, the most common diseases included: Food Poisoning (11 cases), Dengue (10 cases), Measles (5 cases).
+In the district of Ahmednagar during the year 2018, the most common diseases included: Diarrheal (82 cases), Dengue (16 cases), Rubella (13 cases).
+In the district of Ahmednagar during the year 2019, the most common diseases included: Dengue (119 cases), Food Poisoning (58 cases), Fever (4 cases).
+In the district of Ahmednagar during the year 2020, the most common diseases included: Chikungunya (79 cases), Diarrhoeal (14 cases).
+In the district of Ahmednagar during the year 2021, the most common diseases included: Food Poisoning (104 cases), Chikungunya (27 cases), Fever (7 cases).
+In the district of Ahmednagar during the year 2022, the most common diseases included: Food Poisoning (4 cases), Dengue (3 cases).
+In the district of Ahmednagar during the year 2023, the most common diseases included: Diarrheal (179 cases), Fever (120 cases), Dengue (28 cases).
+In the district of Ahmednagar during the year 2024, the most common diseases included: Diarrheal (271 cases), Dengue (23 cases), Cholera (14 cases).
+In the district of Akola during the year 2016, the most common diseases included: Measles (55 cases), Cholera (42 cases), Fever (32 cases).
+In the district of Akola during the year 2017, the most common diseases included: Measles (84 cases), Food Poisoning (34 cases).
+In the district of Akola during the year 2018, the most common diseases included: Food Poisoning (90 cases), Measles (29 cases), Chickenpox (27 cases).
+In the district of Akola during the year 2019, the most common diseases included: Food Poisoning (111 cases), Mumps (26 cases).
+In the district of Akola during the year 2020, the most common diseases included: Food Poisoning (40 cases), Chickenpox (10 cases).
+In the district of Akola during the year 2021, the most common diseases included: Malaria (21 cases), Chikungunya (10 cases), Dengue (3 cases).
+In the district of Akola during the year 2022, the most common diseases included: Food Poisoning (106 cases), Chikungunya (12 cases), Chickenpox (5 cases).
+In the district of Akola during the year 2023, the most common diseases included: Diarrheal (136 cases), Food Poisoning (88 cases), Dengue (34 cases).
+In the district of Akola during the year 2024, the most common diseases included: Hepatitis (96 cases), Cholera (83 cases), Dengue (48 cases).
+In the district of Akola during the year 2025, the most common diseases included: Typhoid (30 cases), Acute (15 cases).
+In the district of Amravati during the year 2016, the most common diseases included: Food Poisoning (100 cases), Cholera (62 cases), 13 (0 cases).
+In the district of Amravati during the year 2017, the most common diseases included: Measles (31 cases), Food Poisoning (7 cases).
+In the district of Amravati during the year 2018, the most common diseases included: Diarrheal (96 cases), Food Poisoning (35 cases), Measles (29 cases).
+In the district of Amravati during the year 2019, the most common diseases included: Food Poisoning (135 cases), Diarrheal (16 cases), Chickenpox (11 cases).
+In the district of Amravati during the year 2020, the most common diseases included: Diarrhoeal (79 cases), Diarrheal (53 cases), Dengue (15 cases).
+In the district of Amravati during the year 2021, the most common diseases included: Dengue (43 cases), FoodFood PoisoningPoisoning (18 cases), Food Poisoning (4 cases).
+In the district of Amravati during the year 2022, the most common diseases included: Diarrheal (61 cases).
+In the district of Amravati during the year 2023, the most common diseases included: Diarrheal (86 cases), Malaria (63 cases), Dengue (41 cases).
+In the district of Amravati during the year 2024, the most common diseases included: Diarrheal (385 cases), Dengue (64 cases), Malaria (64 cases).
+In the district of Amravati during the year 2025, the most common diseases included: Fever (143 cases), Diarrheal (31 cases), Malaria (27 cases).
+In the district of Aurangabad during the year 2016, the most common diseases included: Food Poisoning (119 cases), Dengue (39 cases), Cholera (9 cases).
+In the district of Aurangabad during the year 2017, the most common diseases included: Cholera (5825 cases), Diarrheal (264 cases), Dengue (43 cases).
+In the district of Aurangabad during the year 2018, the most common diseases included: Dengue (4 cases).
+In the district of Aurangabad during the year 2019, the most common diseases included: Dengue (120 cases).
+In the district of Aurangabad during the year 2021, the most common diseases included: Food Poisoning (19 cases).
+In the district of Aurangabad during the year 2022, the most common diseases included: Fever (24 cases), Diarrheal (20 cases), Food Poisoning (7 cases).
+In the district of Aurangabad during the year 2023, the most common diseases included: Dengue (59 cases), Diarrheal (40 cases), Fever (18 cases).
+In the district of Aurangabad during the year 2024, the most common diseases included: Food Poisoning (181 cases).
+In the district of Aurangabad during the year 2025, the most common diseases included: Fever (18 cases).
+In the district of Barnala during the year 2020, the most common diseases included: Chickenpox (20 cases).
+In the district of Beed during the year 2016, the most common diseases included: Food Poisoning (55 cases), Dengue (11 cases), Viral Fever (6 cases).
+In the district of Beed during the year 2017, the most common diseases included: Dengue (75 cases), Food Poisoning (25 cases), Chikungunya (21 cases).
+In the district of Beed during the year 2018, the most common diseases included: Dengue (22 cases), Fever (13 cases).
+In the district of Beed during the year 2019, the most common diseases included: Food Poisoning (74 cases), Dengue (16 cases).
+In the district of Beed during the year 2020, the most common diseases included: Fever (41 cases), Chikungunya (25 cases).
+In the district of Beed during the year 2021, the most common diseases included: Dysentery (135 cases), Food Poisoning (19 cases), Fever (16 cases).
+In the district of Beed during the year 2023, the most common diseases included: Dengue (73 cases), Fever (5 cases).
+In the district of Beed during the year 2024, the most common diseases included: Hepatitis (19 cases).
+In the district of Beed during the year 2025, the most common diseases included: Food Poisoning (206 cases).
+In the district of Bhandara during the year 2016, the most common diseases included: Diarrheal (219 cases), Food Poisoning (58 cases), Acute Diarrhoeal (19 cases).
+In the district of Bhandara during the year 2017, the most common diseases included: Food Poisoning (64 cases), Chickenpox (28 cases), Measles (8 cases).
+In the district of Bhandara during the year 2018, the most common diseases included: Measles (94 cases), Food Poisoning (5 cases).
+In the district of Bhandara during the year 2019, the most common diseases included: Diarrheal (19 cases), Food Poisoning (17 cases), Encephalitis (4 cases).
+In the district of Bhandara during the year 2020, the most common diseases included: Food Poisoning (106 cases), Viral Fever (24 cases), Chickenpox (16 cases).
+In the district of Bhandara during the year 2021, the most common diseases included: Diarrhoeal (108 cases), Food Poisoning (88 cases), Fever/Dengue (7 cases).
+In the district of Bhandara during the year 2022, the most common diseases included: Mouth (19 cases), Food Poisoning (8 cases).
+In the district of Bhandara during the year 2023, the most common diseases included: Diarrheal (49 cases), Dengue (30 cases), Malaria (4 cases).
+In the district of Bhandara during the year 2024, the most common diseases included: Diarrheal (88 cases), Food Poisoning (45 cases), Chickenpox (18 cases).
+In the district of Bhandara during the year 2025, the most common diseases included: Food (74 cases), Diarrheal (45 cases), Food Poisoning (28 cases).
+In the district of Bhandra during the year 2020, the most common diseases included: Fever (3 cases).
+In the district of Buldhana during the year 2019, the most common diseases included: Dengue (98 cases), Diarrheal (48 cases).
+In the district of Buldhana during the year 2021, the most common diseases included: Dengue (7 cases).
+In the district of Buldhana during the year 2023, the most common diseases included: Dengue (57 cases).
+In the district of Buldhana during the year 2024, the most common diseases included: Food Poisoning (301 cases), Diarrheal (26 cases), Mumps (5 cases).
+In the district of Buldhana during the year 2025, the most common diseases included: Diarrheal (12 cases).
+In the district of Cachar during the year 2021, the most common diseases included: Food Poisoning (1 cases).
+In the district of Chandrapur during the year 2016, the most common diseases included: Food Poisoning (73 cases), Diarrheal (68 cases), Malaria (28 cases).
+In the district of Chandrapur during the year 2017, the most common diseases included: Diarrheal (92 cases), Measles (9 cases).
+In the district of Chandrapur during the year 2018, the most common diseases included: Food Poisoning (132 cases), Dengue (112 cases), Diarrheal (22 cases).
+In the district of Chandrapur during the year 2019, the most common diseases included: Diarrheal (226 cases), AES/JE (101 cases), Malaria (93 cases).
+In the district of Chandrapur during the year 2020, the most common diseases included: Food Poisoning (98 cases), Malaria (58 cases), Chikungunya (54 cases).
+In the district of Chandrapur during the year 2021, the most common diseases included: Dengue (69 cases), Fever (69 cases), Malaria (17 cases).
+In the district of Chandrapur during the year 2022, the most common diseases included: Diarrheal (87 cases), Malaria (36 cases), Dengue (17 cases).
+In the district of Chandrapur during the year 2023, the most common diseases included: Malaria (56 cases), Dengue (9 cases).
+In the district of Chandrapur during the year 2024, the most common diseases included: Food Poisoning (258 cases), Diarrheal (61 cases), Malaria (57 cases).
+In the district of Chandrapur during the year 2025, the most common diseases included: Scrub (9 cases), Malaria (5 cases).
+In the district of Chhatrapati during the year 2025, the most common diseases included: Food Poisoning (255 cases).
+In the district of Chickenpox during the year 2019, the most common diseases included: Food Poisoning (11 cases).
+In the district of Chikungunya during the year 2016, the most common diseases included: 15 (0 cases).
+In the district of Damoh during the year 2020, the most common diseases included: Leptospirosis (1 cases).
+In the district of Dharashiv during the year 2025, the most common diseases included: Food Poisoning (122 cases), Malaria (24 cases), Fever (21 cases).
+In the district of Dhemaji during the year 2020, the most common diseases included: Food Poisoning (1 cases).
+In the district of Dhule during the year 2016, the most common diseases included: Diarrheal (72 cases), Fever (19 cases), Food Poisoning (18 cases).
+In the district of Dhule during the year 2017, the most common diseases included: Food Poisoning (115 cases), Measles (9 cases).
+In the district of Dhule during the year 2022, the most common diseases included: Dengue (4 cases).
+In the district of Dhule during the year 2023, the most common diseases included: Dengue (30 cases).
+In the district of Dhule during the year 2024, the most common diseases included: Diarrheal (170 cases), Dengue (37 cases), Food Poisoning (25 cases).
+In the district of Dhule during the year 2025, the most common diseases included: Cholera (12 cases), Malaria (7 cases).
+In the district of Diarrhoeal during the year 2016, the most common diseases included: Food Poisoning (41 cases).
+In the district of Ernakulam during the year 2021, the most common diseases included: Zika Virus (1 cases).
+In the district of Gadchiroli during the year 2016, the most common diseases included: Malaria (119 cases), Food Poisoning (58 cases), Measles (4 cases).
+In the district of Gadchiroli during the year 2017, the most common diseases included: Malaria (127 cases), Food Poisoning (7 cases).
+In the district of Gadchiroli during the year 2018, the most common diseases included: Diarrheal (62 cases), Malaria (28 cases), Chikungunya (27 cases).
+In the district of Gadchiroli during the year 2019, the most common diseases included: Diarrheal (35 cases), Food Poisoning (31 cases), Malaria (3 cases).
+In the district of Gadchiroli during the year 2020, the most common diseases included: Malaria (32 cases), Food Poisoning (1 cases).
+In the district of Gadchiroli during the year 2021, the most common diseases included: Malaria (55 cases), Scrub Typhus (18 cases), Dengue (4 cases).
+In the district of Gadchiroli during the year 2022, the most common diseases included: Malaria (318 cases).
+In the district of Gadchiroli during the year 2023, the most common diseases included: Food Poisoning (134 cases), Malaria (105 cases), Dengue (92 cases).
+In the district of Gadchiroli during the year 2024, the most common diseases included: Malaria (891 cases), Dengue (48 cases), Food Poisoning (29 cases).
+In the district of Gadchiroli during the year 2025, the most common diseases included: Mixed (9 cases), Malaria (7 cases), Complicate (2 cases).
+In the district of Godda during the year 2021, the most common diseases included: Diarrheal (12 cases).
+In the district of Gondia during the year 2021, the most common diseases included: Diarrheal (194 cases).
+In the district of Gondia during the year 2022, the most common diseases included: Malaria (47 cases).
+In the district of Gondia during the year 2023, the most common diseases included: Malaria (64 cases).
+In the district of Gondia during the year 2024, the most common diseases included: Malaria (28 cases), Cholera (17 cases), Pertussis (9 cases).
+In the district of Gondia during the year 2025, the most common diseases included: Food Poisoning (60 cases).
+In the district of Hingoli during the year 2018, the most common diseases included: Dengue (17 cases).
+In the district of Hingoli during the year 2023, the most common diseases included: Diarrheal (64 cases).
+In the district of Hingoli during the year 2024, the most common diseases included: Diarrheal (28 cases).
+In the district of Jalgaon during the year 2016, the most common diseases included: Dengue (125 cases), Cholera (99 cases), Diarrheal (59 cases).
+In the district of Jalgaon during the year 2017, the most common diseases included: Diarrheal (173 cases), Dengue (57 cases), Chikungunya (40 cases).
+In the district of Jalgaon during the year 2018, the most common diseases included: Cholera (32 cases), Measles (15 cases).
+In the district of Jalgaon during the year 2019, the most common diseases included: Dengue (76 cases), Shigellosis (32 cases).
+In the district of Jalgaon during the year 2020, the most common diseases included: Diarrheal (160 cases), Diarrhoeal (74 cases).
+In the district of Jalgaon during the year 2021, the most common diseases included: Food Poisoning (93 cases), Dengue (54 cases), Fever (25 cases).
+In the district of Jalgaon during the year 2022, the most common diseases included: Chikungunya (9 cases), Dengue (9 cases).
+In the district of Jalgaon during the year 2023, the most common diseases included: Diarrheal (90 cases), Dengue (40 cases).
+In the district of Jalgaon during the year 2024, the most common diseases included: Diarrheal (115 cases), Cholera (102 cases).
+In the district of Jalgaon during the year 2025, the most common diseases included: Dengue (22 cases), Measles (20 cases), Jaundice (12 cases).
+In the district of Jalna during the year 2016, the most common diseases included: Food Poisoning (113 cases), Dengue (31 cases), Fever (13 cases).
+In the district of Jalna during the year 2017, the most common diseases included: Chikungunya (11 cases), Food Poisoning (1 cases).
+In the district of Jalna during the year 2018, the most common diseases included: Measles (159 cases), Diarrheal (62 cases), Dengue (29 cases).
+In the district of Jalna during the year 2019, the most common diseases included: Dengue (9 cases).
+In the district of Jalna during the year 2023, the most common diseases included: Dengue (21 cases).
+In the district of Jalna during the year 2024, the most common diseases included: Diarrheal (81 cases).
+In the district of Karad during the year 2021, the most common diseases included: Food Poisoning (13 cases).
+In the district of Kheda during the year 2021, the most common diseases included: Food Poisoning (24 cases).
+In the district of Kokrajhar during the year 2020, the most common diseases included: Food Poisoning (4 cases).
+In the district of Kolhapur during the year 2016, the most common diseases included: Diarrheal (96 cases), Dengue (69 cases), Cholera (50 cases).
+In the district of Kolhapur during the year 2017, the most common diseases included: Chickenpox (174 cases), Diarrheal (173 cases), Malaria (38 cases).
+In the district of Kolhapur during the year 2018, the most common diseases included: Dengue (273 cases), Food Poisoning (181 cases), Diarrheal (150 cases).
+In the district of Kolhapur during the year 2019, the most common diseases included: Dengue (34 cases), Diarrheal (24 cases), Food Poisoning (17 cases).
+In the district of Kolhapur during the year 2020, the most common diseases included: Diarrheal (774 cases), Cholera (199 cases), Food Poisoning (57 cases).
+In the district of Kolhapur during the year 2021, the most common diseases included: Diarrheal (359 cases), Cholera (69 cases), Chikungunya (18 cases).
+In the district of Kolhapur during the year 2022, the most common diseases included: Cholera (233 cases), Diarrheal (124 cases), Dengue (37 cases).
+In the district of Kolhapur during the year 2023, the most common diseases included: Dengue (278 cases), Chikungunya (145 cases), Fever (43 cases).
+In the district of Kolhapur during the year 2024, the most common diseases included: Food Poisoning (347 cases), Diarrheal (309 cases), Hepatitis (219 cases).
+In the district of Kolhapur during the year 2025, the most common diseases included: Food Poisoning (697 cases), Hepatitis (40 cases), Dengue (6 cases).
+In the district of Kozhikode during the year 2020, the most common diseases included: Dengue (20 cases).
+In the district of Kyasanur Forest during the year 2016, the most common diseases included: Acute Diarrhoeal (346 cases).
+In the district of Lakhimpur during the year 2020, the most common diseases included: Food Poisoning (1 cases).
+In the district of Lakhimpur during the year 2021, the most common diseases included: Encephalitis (1 cases).
+In the district of Latur during the year 2017, the most common diseases included: Chickungunya (35 cases), Food Poisoning (35 cases), Diarrheal (17 cases).
+In the district of Latur during the year 2018, the most common diseases included: Diarrheal (161 cases), Food Poisoning (11 cases).
+In the district of Latur during the year 2019, the most common diseases included: Dengue (37 cases), Food Poisoning (13 cases).
+In the district of Latur during the year 2022, the most common diseases included: Food Poisoning (418 cases), Fever (39 cases), Diarrheal (21 cases).
+In the district of Latur during the year 2023, the most common diseases included: Chikungunya (9 cases), Measles (7 cases), Dengue (4 cases).
+In the district of Latur during the year 2024, the most common diseases included: Food Poisoning (103 cases), Hepatitis (65 cases), Dengue (5 cases).
+In the district of Latur during the year 2025, the most common diseases included: Measles (27 cases), Chickenpox (22 cases).
+In the district of Maharashtra during the year 2016, the most common diseases included: Raigad (43 cases).
+In the district of Mansa during the year 2021, the most common diseases included: Chickenpox (4 cases).
+In the district of Marigaon during the year 2020, the most common diseases included: Food Poisoning (3 cases).
+In the district of Mumbai during the year 2016, the most common diseases included: Food Poisoning (90 cases).
+In the district of Mumbai during the year 2018, the most common diseases included: Chikunguniya (5 cases), Measles (5 cases).
+In the district of Mumbai during the year 2019, the most common diseases included: Food Poisoning (207 cases), Scrub (5 cases).
+In the district of Mumbai during the year 2020, the most common diseases included: Food Poisoning (71 cases), Diarrhoeal (42 cases), Leptospirosis (20 cases).
+In the district of Mumbai during the year 2024, the most common diseases included: Poisoning (17 cases).
+In the district of Mumbai during the year 2025, the most common diseases included: Fever (17 cases).
+In the district of Nabarangpur during the year 2020, the most common diseases included: Chickenpox (13 cases).
+In the district of Nadu during the year 2020, the most common diseases included: Diarrhoeal (18 cases), Hepatitis (16 cases).
+In the district of Nagaon during the year 2021, the most common diseases included: Food Poisoning (1 cases).
+In the district of Nagpur during the year 2016, the most common diseases included: Cholera (858 cases), Food Poisoning (499 cases), Chickenpox (67 cases).
+In the district of Nagpur during the year 2017, the most common diseases included: Dengue (534 cases), Diarrheal (127 cases), Food Poisoning (76 cases).
+In the district of Nagpur during the year 2018, the most common diseases included: Diarrheal (180 cases), Dengue (85 cases), Food Poisoning (74 cases).
+In the district of Nagpur during the year 2019, the most common diseases included: Diarrheal (27 cases), Dengue (23 cases), Food Poisoning (13 cases).
+In the district of Nagpur during the year 2021, the most common diseases included: Dengue (19 cases), Food Poisoning (1 cases).
+In the district of Nagpur during the year 2022, the most common diseases included: Diarrheal (88 cases).
+In the district of Nagpur during the year 2023, the most common diseases included: Dengue (189 cases), Fever (6 cases), Scrub Typhus (3 cases).
+In the district of Nagpur during the year 2024, the most common diseases included: Diarrheal (171 cases), Chikungunya (40 cases), Dengue (33 cases).
+In the district of Nagpur during the year 2025, the most common diseases included: Diarrheal (221 cases), Suspected (73 cases), Acute (31 cases).
+In the district of Nanded during the year 2016, the most common diseases included: Diarrheal (40 cases), Measles (5 cases).
+In the district of Nanded during the year 2017, the most common diseases included: Food Poisoning (27 cases).
+In the district of Nanded during the year 2018, the most common diseases included: Diarrheal (201 cases).
+In the district of Nanded during the year 2021, the most common diseases included: Food Poisoning (250 cases), Chikungunya (9 cases).
+In the district of Nanded during the year 2022, the most common diseases included: Diarrheal (177 cases).
+In the district of Nanded during the year 2023, the most common diseases included: Dengue (78 cases), Diarrheal (46 cases), Diarrhoeal (26 cases).
+In the district of Nanded during the year 2024, the most common diseases included: Diarrheal (1056 cases), Dengue (45 cases), Food Poisoning (30 cases).
+In the district of Nanded during the year 2025, the most common diseases included: Food Poisoning (129 cases), Acute (27 cases).
+In the district of Nandurbar during the year 2016, the most common diseases included: Diarrheal (51 cases).
+In the district of Nandurbar during the year 2017, the most common diseases included: Chikungunya? (13 cases).
+In the district of Nandurbar during the year 2018, the most common diseases included: Cholera (43 cases).
+In the district of Nandurbar during the year 2019, the most common diseases included: Dengue (52 cases).
+In the district of Nandurbar during the year 2021, the most common diseases included: Diarrheal (43 cases), Food Poisoning (17 cases).
+In the district of Nandurbar during the year 2023, the most common diseases included: Dengue (27 cases).
+In the district of Nandurbar during the year 2024, the most common diseases included: Diarrheal (303 cases), Food Poisoning (22 cases).
+In the district of Nashik during the year 2016, the most common diseases included: Food Poisoning (722 cases), Cholera (79 cases), Dengue (53 cases).
+In the district of Nashik during the year 2017, the most common diseases included: Diarrheal (284 cases), Food Poisoning (114 cases), Chikungunya (60 cases).
+In the district of Nashik during the year 2018, the most common diseases included: Chikungunya (334 cases), Cholera (195 cases), Diarrheal (136 cases).
+In the district of Nashik during the year 2019, the most common diseases included: Cholera (289 cases), Dengue (27 cases), Food Poisoning (21 cases).
+In the district of Nashik during the year 2020, the most common diseases included: Chikungunya (49 cases).
+In the district of Nashik during the year 2021, the most common diseases included: Chikungunya (70 cases).
+In the district of Nashik during the year 2022, the most common diseases included: Cholera (120 cases), Chikungunya (6 cases).
+In the district of Nashik during the year 2023, the most common diseases included: Food Poisoning (40 cases), Dengue (13 cases), Chikungunya (8 cases).
+In the district of Nashik during the year 2024, the most common diseases included: Diarrheal (299 cases), Dengue (9 cases).
+In the district of Nayagarh during the year 2020, the most common diseases included: Food Poisoning (5 cases).
+In the district of Osmanabad during the year 2016, the most common diseases included: Food Poisoning (72 cases), Diarrheal (31 cases).
+In the district of Osmanabad during the year 2017, the most common diseases included: Diarrheal (368 cases), AES/JE (24 cases), Measles (23 cases).
+In the district of Osmanabad during the year 2018, the most common diseases included: Chikungunya (17 cases), Dengue (11 cases).
+In the district of Osmanabad during the year 2019, the most common diseases included: Chikungunya? (46 cases).
+In the district of Osmanabad during the year 2020, the most common diseases included: Dengue (9 cases), Food Poisoning (7 cases).
+In the district of Osmanabad during the year 2021, the most common diseases included: Chikungunya (20 cases), Dengue (7 cases), Food Poisoning (7 cases).
+In the district of Osmanabad during the year 2023, the most common diseases included: Dengue (91 cases), Fever (69 cases), Food Poisoning (24 cases).
+In the district of Osmanabad during the year 2024, the most common diseases included: Dengue (50 cases), Food Poisoning (44 cases), Diarrheal (27 cases).
+In the district of Palaghar during the year 2017, the most common diseases included: Food Poisoning (103 cases), Dengue (27 cases), AES/JE (18 cases).
+In the district of Palaghar during the year 2018, the most common diseases included: Measles (154 cases), Diarrheal (78 cases), Dengue (10 cases).
+In the district of Palaghar during the year 2019, the most common diseases included: Dengue (167 cases), Food Poisoning (14 cases), Diarrheal (9 cases).
+In the district of Palaghar during the year 2023, the most common diseases included: Dengue (12 cases).
+In the district of Palaghar during the year 2025, the most common diseases included: Diarrheal (23 cases).
+In the district of Palghar during the year 2017, the most common diseases included: Food Poisoning (85 cases), Fever (8 cases).
+In the district of Palghar during the year 2023, the most common diseases included: Dengue (7 cases).
+In the district of Palghar during the year 2024, the most common diseases included: Diarrheal (264 cases), Dengue (41 cases), Malaria (41 cases).
+In the district of Panchkula during the year 2021, the most common diseases included: Cholera (521 cases).
+In the district of Panchmahal during the year 2021, the most common diseases included: Food Poisoning (1 cases).
+In the district of Papumpare during the year 2020, the most common diseases included: Chickenpox (8 cases).
+In the district of Parbhani during the year 2016, the most common diseases included: Diarrheal (152 cases), Food Poisoning (52 cases).
+In the district of Parbhani during the year 2017, the most common diseases included: Food Poisoning (32 cases), Dengue (14 cases), AES/JE (10 cases).
+In the district of Parbhani during the year 2018, the most common diseases included: Acute (35 cases).
+In the district of Parbhani during the year 2019, the most common diseases included: Dengue (32 cases).
+In the district of Parbhani during the year 2020, the most common diseases included: Diarrheal (66 cases), Fever (30 cases).
+In the district of Parbhani during the year 2022, the most common diseases included: Chikungunya (76 cases).
+In the district of Parbhani during the year 2023, the most common diseases included: Dengue (62 cases), Food Poisoning (54 cases), Diarrheal (47 cases).
+In the district of Parbhani during the year 2024, the most common diseases included: Food Poisoning (983 cases), Diarrheal (109 cases), Chikungunya (54 cases).
+In the district of Pradesh during the year 2021, the most common diseases included: Rubella (6 cases).
+In the district of Pune during the year 2016, the most common diseases included: Food Poisoning (217 cases), Chikungunya (185 cases), Dengue (124 cases).
+In the district of Pune during the year 2017, the most common diseases included: Chikungunya (138 cases), Dengue (97 cases), AES/JE (9 cases).
+In the district of Pune during the year 2018, the most common diseases included: Food Poisoning (110 cases), Dengue (102 cases), Chikungunya (51 cases).
+In the district of Pune during the year 2019, the most common diseases included: Dengue (128 cases), Diarrheal (45 cases), Food Poisoning (4 cases).
+In the district of Pune during the year 2020, the most common diseases included: Dengue (21 cases), Chikungunya (7 cases).
+In the district of Pune during the year 2021, the most common diseases included: Chikungunya (90 cases), Dengue (33 cases).
+In the district of Pune during the year 2022, the most common diseases included: Dengue (103 cases), Diarrheal (97 cases), Food Poisoning (6 cases).
+In the district of Pune during the year 2023, the most common diseases included: Dengue (116 cases), Diarrheal (49 cases), Measles (13 cases).
+In the district of Pune during the year 2024, the most common diseases included: Cholera (92 cases), Diarrheal (72 cases), Food Poisoning (59 cases).
+In the district of Pune during the year 2025, the most common diseases included: Fever (20 cases), Acute (5 cases).
+In the district of Purnia during the year 2019, the most common diseases included: Measles (6 cases).
+In the district of Raigad during the year 2016, the most common diseases included: Hepatitis (66 cases), Food Poisoning (56 cases), Diarrheal (33 cases).
+In the district of Raigad during the year 2017, the most common diseases included: Hepatitis (32 cases).
+In the district of Raigad during the year 2018, the most common diseases included: Food Poisoning (120 cases), Diarrheal (50 cases).
+In the district of Raigad during the year 2019, the most common diseases included: Diarrheal (85 cases), Dengue (39 cases), Food Poisoning (13 cases).
+In the district of Raigad during the year 2020, the most common diseases included: Food Poisoning (5 cases).
+In the district of Raigad during the year 2021, the most common diseases included: Leptospirosis (52 cases), Malaria (19 cases), Dengue (18 cases).
+In the district of Raigad during the year 2022, the most common diseases included: Leptospirosis (28 cases), Dengue (11 cases).
+In the district of Raigad during the year 2023, the most common diseases included: Dengue (31 cases), Leptospirosis (20 cases), Malaria (7 cases).
+In the district of Raigad during the year 2024, the most common diseases included: Dengue (142 cases), Hepatitis (48 cases), Chikungunya (46 cases).
+In the district of Raigad during the year 2025, the most common diseases included: Diarrheal (62 cases), Food Poisoning (52 cases), Hepatitis (38 cases).
+In the district of Ramban during the year 2021, the most common diseases included: Food Poisoning (95 cases).
+In the district of Ratnagiri during the year 2016, the most common diseases included: Diarrheal (43 cases), Dengue (40 cases), Fever Rash (9 cases).
+In the district of Ratnagiri during the year 2017, the most common diseases included: Cholera (83 cases), Dengue (18 cases), Measles (17 cases).
+In the district of Ratnagiri during the year 2018, the most common diseases included: Hepatitis (177 cases), Food Poisoning (30 cases), Measles (9 cases).
+In the district of Ratnagiri during the year 2019, the most common diseases included: Diarrheal (71 cases).
+In the district of Ratnagiri during the year 2020, the most common diseases included: Cholera (65 cases), Food Poisoning (7 cases).
+In the district of Sangli during the year 2016, the most common diseases included: Food Poisoning (128 cases), Dengue (60 cases).
+In the district of Sangli during the year 2017, the most common diseases included: Chikungunya (70 cases), Dengue (69 cases), Diarrheal (59 cases).
+In the district of Sangli during the year 2018, the most common diseases included: Food Poisoning (78 cases), Diarrheal (64 cases), Dengue (37 cases).
+In the district of Sangli during the year 2019, the most common diseases included: Cholera (223 cases), Diarrheal (125 cases), Dengue (45 cases).
+In the district of Sangli during the year 2022, the most common diseases included: Diarrheal (83 cases), Dengue (48 cases).
+In the district of Sangli during the year 2023, the most common diseases included: Diarrheal (173 cases), Food Poisoning (34 cases), Mumps (9 cases).
+In the district of Sangli during the year 2024, the most common diseases included: Food Poisoning (266 cases), Cholera (50 cases), Diarrheal (49 cases).
+In the district of Sangli during the year 2025, the most common diseases included: Fever (101 cases), Hepatitis (34 cases), Food Poisoning (12 cases).
+In the district of Satara during the year 2016, the most common diseases included: Dengue (22 cases), Chikungunya (18 cases), Food Poisoning (16 cases).
+In the district of Satara during the year 2017, the most common diseases included: Chikungunya (163 cases), Dengue (111 cases), Diarrheal (71 cases).
+In the district of Satara during the year 2018, the most common diseases included: Dengue (182 cases), Diarrhoeal (88 cases), Chikungunya (55 cases).
+In the district of Satara during the year 2019, the most common diseases included: Dengue (81 cases).
+In the district of Satara during the year 2020, the most common diseases included: Diarrheal (116 cases), Dengue (63 cases), Chikungunya (12 cases).
+In the district of Satara during the year 2021, the most common diseases included: Dengue (153 cases), Diarrheal (80 cases), Dysentery (79 cases).
+In the district of Satara during the year 2022, the most common diseases included: Chikungunya (10 cases).
+In the district of Satara during the year 2023, the most common diseases included: Food Poisoning (101 cases), Dengue (31 cases), Chikungunya (30 cases).
+In the district of Satara during the year 2024, the most common diseases included: Diarrheal (190 cases), Dengue (55 cases), Chikungunya (28 cases).
+In the district of Satara during the year 2025, the most common diseases included: Dengue (33 cases), Chikungunya (17 cases).
+In the district of Sholapur during the year 2016, the most common diseases included: 160 (1 cases).
+In the district of Sholapur during the year 2018, the most common diseases included: Dengue (30 cases).
+In the district of Sholapur during the year 2019, the most common diseases included: Dengue (21 cases).
+In the district of Sindhudurg during the year 2016, the most common diseases included: Diarrheal (64 cases), Food Poisoning (46 cases), Dengue (23 cases).
+In the district of Sindhudurg during the year 2017, the most common diseases included: Malaria (112 cases), Food Poisoning (47 cases), Hepatitis (5 cases).
+In the district of Sindhudurg during the year 2018, the most common diseases included: Hepatitis (7 cases), Leptospirosis (4 cases).
+In the district of Sindhudurg during the year 2019, the most common diseases included: Hepatitis (16 cases), Diarrheal (11 cases), Food Poisoning (10 cases).
+In the district of Sindhudurg during the year 2021, the most common diseases included: Food Poisoning (66 cases).
+In the district of Sindhudurg during the year 2022, the most common diseases included: Food Poisoning (7 cases), (PV) (5 cases).
+In the district of Sindhudurg during the year 2023, the most common diseases included: Diarrheal (30 cases), Malaria (15 cases), Dengue (10 cases).
+In the district of Sindhudurg during the year 2024, the most common diseases included: Diarrheal (169 cases), Hepatitis (10 cases), Leptospirosis (1 cases).
+In the district of Sindhudurgspirosis during the year 2019, the most common diseases included: Food Poisoning (14 cases).
+In the district of Solapur during the year 2016, the most common diseases included: Food Poisoning (23 cases).
+In the district of Solapur during the year 2022, the most common diseases included: Food Poisoning (31 cases).
+In the district of Solapur during the year 2023, the most common diseases included: Food Poisoning (66 cases), Diarrheal (48 cases).
+In the district of Solapur during the year 2024, the most common diseases included: Zika Virus (1 cases).
+In the district of Thane during the year 2016, the most common diseases included: Diarrheal (638 cases), Food Poisoning (506 cases), Jaundice (64 cases).
+In the district of Thane during the year 2017, the most common diseases included: Dengue (262 cases), Food Poisoning (77 cases), Malaria (41 cases).
+In the district of Thane during the year 2018, the most common diseases included: Diarrheal (668 cases), Food Poisoning (38 cases), Jaundice (16 cases).
+In the district of Thane during the year 2019, the most common diseases included: Dengue (110 cases), Malaria (7 cases), Food Poisoning (5 cases).
+In the district of Thane during the year 2020, the most common diseases included: Dengue (6 cases), Leptospirosis (4 cases).
+In the district of Thane during the year 2021, the most common diseases included: Dengue (19 cases), Chikungunya (8 cases), Leptospirosis (4 cases).
+In the district of Thane during the year 2022, the most common diseases included: Dengue (1 cases).
+In the district of Thane during the year 2023, the most common diseases included: Dengue (61 cases), Fever (14 cases), Leptospirosis (7 cases).
+In the district of Thane during the year 2024, the most common diseases included: Diarrheal (312 cases), Dengue (49 cases), Cholera (25 cases).
+In the district of Thane during the year 2025, the most common diseases included: Chikungunya (15 cases), Dengue (6 cases).
+In the district of Udalguri during the year 2021, the most common diseases included: Encephalitis (1 cases), Japanese (1 cases).
+In the district of Wardha during the year 2016, the most common diseases included: Food Poisoning (26 cases), Cholera (24 cases).
+In the district of Wardha during the year 2017, the most common diseases included: Diarrheal (232 cases), Leptospirosis (26 cases), Fever (20 cases).
+In the district of Wardha during the year 2018, the most common diseases included: Dengue (62 cases).
+In the district of Wardha during the year 2019, the most common diseases included: Food Poisoning (33 cases), Encephalitis (9 cases).
+In the district of Wardha during the year 2020, the most common diseases included: Dengue (4 cases).
+In the district of Wardha during the year 2021, the most common diseases included: Dengue (4 cases).
+In the district of Wardha during the year 2023, the most common diseases included: Food Poisoning (31 cases), Fever (16 cases).
+In the district of Wardha during the year 2024, the most common diseases included: Dengue (50 cases), Food Poisoning (39 cases), Diarrheal (12 cases).
+In the district of Wardha during the year 2025, the most common diseases included: Food Poisoning (29 cases).
+In the district of Washim during the year 2016, the most common diseases included: Rubella (47 cases), Cholera (31 cases), Fever (28 cases).
+In the district of Washim during the year 2017, the most common diseases included: Food Poisoning (21 cases), Measles (13 cases).
+In the district of Washim during the year 2020, the most common diseases included: Dengue (6 cases).
+In the district of Washim during the year 2021, the most common diseases included: Fever (10 cases).
+In the district of Washim during the year 2022, the most common diseases included: Food Poisoning (30 cases), Cholera (2 cases).
+In the district of Washim during the year 2023, the most common diseases included: Diarrheal (75 cases), Dengue (57 cases), Food Poisoning (36 cases).
+In the district of Washim during the year 2024, the most common diseases included: Chikungunya (28 cases), Dengue (26 cases), Cholera (25 cases).
+In the district of Washim during the year 2025, the most common diseases included: Chikungunya (7 cases).
+In the district of Yamuna Nagar during the year 2021, the most common diseases included: Diarrheal (31 cases).
+In the district of Yavatma during the year 2018, the most common diseases included: Measles (21 cases).
+In the district of Yavatmal during the year 2016, the most common diseases included: Food Poisoning (61 cases), Diarrheal (43 cases), Measles (10 cases).
+In the district of Yavatmal during the year 2017, the most common diseases included: Food Poisoning (349 cases).
+In the district of Yavatmal during the year 2018, the most common diseases included: Diarrheal (60 cases), Food Poisoning (30 cases), Viral Fever (13 cases).
+In the district of Yavatmal during the year 2019, the most common diseases included: Food Poisoning (32 cases).
+In the district of Yavatmal during the year 2021, the most common diseases included: Food Poisoning (40 cases).
+In the district of Yavatmal during the year 2022, the most common diseases included: Diarrheal (76 cases), Food Poisoning (15 cases).
+In the district of Yavatmal during the year 2023, the most common diseases included: Diarrheal (294 cases), Food Poisoning (21 cases), Dengue (7 cases).
+In the district of Yavatmal during the year 2024, the most common diseases included: Food Poisoning (86 cases), Dengue (54 cases), Cholera (8 cases).
+In the district of unknown during the year 2023, the most common diseases included: Zika Virus (1 cases).
+The overall case fatality rate for AES is 33.33%, based on 3 cases and 1 deaths.
+The overall case fatality rate for AES/JE is 6.79%, based on 162 cases and 11 deaths.
+The overall case fatality rate for Acute Diarrheal is 1.03%, based on 97 cases and 1 deaths.
+The overall case fatality rate for Acute Diarrhoeal is 0.55%, based on 365 cases and 2 deaths.
+The overall case fatality rate for Chikungunya is 0.14%, based on 2815 cases and 4 deaths.
+The overall case fatality rate for Cholera is 0.23%, based on 9636 cases and 22 deaths.
+The overall case fatality rate for Complicate is 100.00%, based on 2 cases and 2 deaths.
+The overall case fatality rate for Dengue is 2.47%, based on 7725 cases and 191 deaths.
+The overall case fatality rate for Diarrheal is 0.17%, based on 15533 cases and 27 deaths.
+The overall case fatality rate for Diarrhoeal is 0.60%, based on 502 cases and 3 deaths.
+The overall case fatality rate for Encephalitic is 4.76%, based on 21 cases and 1 deaths.
+The overall case fatality rate for Encephalitis is 38.89%, based on 18 cases and 7 deaths.
+The overall case fatality rate for Fever is 2.48%, based on 1290 cases and 32 deaths.
+The overall case fatality rate for Fever/Dengue is 14.29%, based on 7 cases and 1 deaths.
+The overall case fatality rate for Food Poisoning is 0.63%, based on 13651 cases and 86 deaths.
+The overall case fatality rate for FoodFood PoisoningPoisoning is 16.67%, based on 18 cases and 3 deaths.
+The overall case fatality rate for Hepatitis is 0.29%, based on 1018 cases and 3 deaths.
+The overall case fatality rate for Human Rabies is 100.00%, based on 1 cases and 1 deaths.
+The overall case fatality rate for JE is 100.00%, based on 1 cases and 1 deaths.
+The overall case fatality rate for Leptospirosis is 8.21%, based on 207 cases and 17 deaths.
+The overall case fatality rate for Malaria is 2.80%, based on 2711 cases and 76 deaths.
+The overall case fatality rate for Measles is 0.20%, based on 1014 cases and 2 deaths.
+The overall case fatality rate for Mixed is 11.11%, based on 9 cases and 1 deaths.
+The overall case fatality rate for Poisoning is 2.56%, based on 39 cases and 1 deaths.
+The overall case fatality rate for Raigad is 4.65%, based on 43 cases and 2 deaths.
+The overall case fatality rate for Scrub is 7.14%, based on 14 cases and 1 deaths.
+The overall case fatality rate for Scrub Typhus is 9.52%, based on 63 cases and 6 deaths.
+The overall case fatality rate for Typhus is 9.52%, based on 63 cases and 6 deaths.
+The overall case fatality rate for Viral Fever is 2.22%, based on 90 cases and 2 deaths.

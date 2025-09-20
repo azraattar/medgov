@@ -1,0 +1,1564 @@
+Year,Week,Unique id,State,Area,Disease,No of cases,No of deaths,Date of start,Date of reporting
+2025,1,MH/AMR/2025/01/15,Maharashtra,Amravati,Diarrheal,20,0,29-12-2024,30-12-2024
+2025,1,MH/RIG/2025/01/16,Maharashtra,Raigad,Diarrheal,62,0,29-12-2024,30-12-2024
+2025,1,MH/STR/2025/01/17,Maharashtra,Satara,Chikungunya,17,0,01-01-2025,01-01-2025
+2025,2,MH/RAI/2025/02/25,Maharashtra,Raigad,Leptospirosis,15,1,31-12-2024,06-01-2025
+2025,3,MH/AMR/2025/03/79,Maharashtra,Amravati,Fever,133,0,12-01-2025,13-01-2025
+2025,3,MH/BLD/2025/03/80,Maharashtra,Buldhana,Diarrheal,12,1,14-01-2025,14-01-2025
+2025,4,MH/JAL/2025/04/145,Maharashtra,Jalgaon,Measles,17,0,13-01-2025,13-01-2025
+2025,5,MH/PNE/2025/05/171,Maharashtra,Pune,Fever,20,0,28-01-2025,29-01-2025
+2025,5,MH/SNG/2025/05/172,Maharashtra,Sangli,Fever,34,0,28-01-2025,29-01-2025
+2025,6,MH/AMR/2025/06/222,Maharashtra,Amravati,Gastroenterit,16,0,03-02-2025,04-02-2025
+2025,6,MH/KOL/2025/06/223,Maharashtra,Kolhapur,Food Poisoning,651,0,05-02-2025,05-02-2025
+2025,6,MH/THN/2025/06/224,Maharashtra,Thane,Chikungunya,15,0,01-02-2025,06-02-2025
+2025,7,MH/AKL/2025/07/265,Maharashtra,Akola,Typhoid,30,0,14-02-2025,14-02-2025
+2025,7,MH/AMR/2025/07/266,Maharashtra,Amravati,Fever,10,1,12-02-2025,14-02-2025
+2025,7,MH/AUR/2025/07/267,Maharashtra,Aurangabad,Fever,18,2,08-02-2025,10-02-2025
+2025,7,MH/BND/2025/07/268,Maharashtra,Bhandara,Diarrheal,21,0,08-02-2025,10-02-2025
+2025,7,MH/LAT/2025/07/269,Maharashtra,Latur,Measles,27,0,10-02-2025,10-02-2025
+2025,7,MH/NGP/2025/07/270,Maharashtra,Nagpur,Diarrheal,51,0,07-02-2025,10-02-2025
+2025,7,MH/NAN/2025/07/271,Maharashtra,Nanded,Food Poisoning,77,0,08-02-2025,10-02-2025
+2025,7,MH/WRD/2025/07/272,Maharashtra,Wardha,Food Poisoning,29,0,10-02-2025,11-02-2025
+2025,8,MH/KOL/2025/08/329,Maharashtra,Kolhapur ,Hepatitis,25,0,19-02-2025,19-02-2025
+2025,8,MH/SAN/2025/08/330,Maharashtra,Sangli,Food Poisoning,12,0,18-02-2025,20-02-2025
+2025,9,MH/JAL/2025/09/386,Maharashtra,Jalgaon,Jaundice,12,0,26-02-2025,01-03-2025
+2025,9,MH/KLP/2025/09/387,Maharashtra,Kolhapur,Food Poisoning,24,0,01-03-2025,01-03-2025
+2025,9,MH/PLG/2025/09/388,Maharashtra,Palaghar,Diarrheal,23,0,01-03-2025,02-03-2025
+2025,9,MH/SNG/2025/09/389,Maharashtra,Sangli ,Hepatitis,34,0,25-02-2025,25-02-2025
+2025,9,MH/SNG/2025/09/390,Maharashtra,Sangli,Fever,67,0,24-02-2025,25-02-2025
+2025,10,MH/LAT/2025/10/431,Maharashtra,Latur,Chickenpox,22,0,07-03-2025,07-03-2025
+2025,10,MH/NAG/2025/10/432,Maharashtra,Nagpur,Diarrheal,109,0,27-02-2025,03-03-2025
+2025,10,MH/NAG/2025/10/433,Maharashtra,Nagpur,Diarrheal,61,0,02-03-2025,03-03-2025
+2025,10,MH/WAS/2025/10/434,Maharashtra,Washim,Chikungunya,7,0,07-03-2025,07-03-2025
+2025,11,MH/BHN/2025/11/481,Maharashtra,Bhandara,Diarrheal,24,0,12-03-2025,12-03-2025
+2025,11,MH/BHN/2025/11/482,Maharashtra,Bhandara,Fever,13,0,10-03-2025,10-03-2025
+2025,11,MH/JAL/2025/11/483,Maharashtra,Jalgaon,Measles,3,0,10-03-2025,13-03-2025
+2025,12,MH/KOL/2025/12/528,Maharashtra,Kolhapur,Hepatitis,15,1,17-03-2025,17-03-2025
+2025,15,MH/AMR/2025/15/643,Maharashtra,Amravati,Diarrheal,11,0,07-04-2025,08-04-2025
+2025,15,MH/DHR/2025/15/644,Maharashtra,Dharashiv,Chikungunya,11,0,07-04-2025,08-04-2025
+2025,15,MH/GON/2025/15/645,Maharashtra,Gondia,Food Poisoning,60,0,05-04-2025,07-04-2025
+2025,16,MH/DHR/2025/16/690,Maharashtra,Dharashiv,Food Poisoning,122,0,17-04-2025,17-04-2025
+2025,16,MH/MBS/2025/16/691,Maharashtra,Mumbai,Fever,17,0,15-04-2025,17-04-2025
+2025,16,MH/NAN/2025/16/692,Maharashtra,Nanded,Food Poisoning,52,0,17-04-2025,18-04-2025
+2025,17,MH/BHA/2025/17/723,Maharashtra,Bhandara,Food Poisoning,28,0,21-04-2025,19-04-2025
+2025,18,MH/CHH/2025/18/768,Maharashtra,Chhatrapati,Food Poisoning,255,1,26-04-2025,28-04-2025
+2025,18,MH/KOL/2025/18/769,Maharashtra,Kolhapur,Food Poisoning,22,0,02-05-2025,02-05-2025
+2025,19,MH/BEE/2025/19/808,Maharashtra,Beed,Food Poisoning,206,0,08-05-2025,09-05-2025
+2025,19,MH/RAI/2025/19/809,Maharashtra,Raigad,Food Poisoning,52,0,05-05-2025,06-05-2025
+2025,20,MH/SAT/2025/20/855,Maharashtra,Satara,Dengue,20,0,14-05-2025,14-05-2025
+2025,20,MH/SAT/2025/20/856,Maharashtra,Satara,Dengue,13,0,12-05-2025,13-05-2025
+2025,21,MH/RAI/2025/21/903,Maharashtra,Raigad,Hepatitis,38,0,20-05-2025,20-05-2025
+2025,21,MH/JAL/2025/21/914,Maharashtra,Jalgaon,Dengue,22,0,23-04-2025,23-04-2025
+2025,22,MH/THA/2025/22/958,Maharashtra,Thane,Dengue,6,0,20-05-2025,20-05-2025
+2025,23,MH/BHA/2025/23/ Ma,Maharashtra,Bhandara,Food,74,0,07-06-2025,07-06-2025
+2025,23,MH/CHA/2025/23/ Ma,Maharashtra,Chandrapur,Malaria,5,1,08-06-2025,07-06-2025
+2025,23,MH/DHA/2025/23/ Ma,Maharashtra,Dharashiv,Fever,21,0,05-06-2025,06-06-2025
+2025,24,MH/AMR/2025/24/1 M,Maharashtra,Amravati,Malaria,27,0,11-06-2025,12-06-2025
+2025,24,MH/GAD/2025/24/1 M,Maharashtra,Gadchiroli,Malaria,3,1,10-06-2025,12-06-2025
+2025,24,MH/KOL/2025/24/10,Maharashtra,Kolhapur,Dengue,6,1,10-06-2025,12-06-2025
+2025,24,MH/NAG/2025/24/1 M,Maharashtra,Nagpur,Suspected,73,0,13-06-2025,13-06-2025
+2025,24,MH/NAG/2025/24/1 M,Maharashtra,Nagpur,Acute,31,0,09-06-2025,10-06-2025
+2025,24,MH/RAI/2025/24/10,Maharashtra,Raigad,Dengue,8,1,12-06-2025,13-06-2025
+2025,26,MH/AKO/2025/26/1 M,Maharashtra,Akola,Acute,15,0,26-06-2025,26-06-2025
+2025,26,MH/CHA/2025/26/1 M,Maharashtra,Chandrapur,Scrub,9,1,24-06-2025,24-06-2025
+2025,26,MH/DHA/2025/26/1 M,Maharashtra,Dharashiv,Malaria,24,0,28-06-2025,29-06-2025
+2025,26,MH/DHU/2025/26/1 M,Maharashtra,Dhule,Malaria,7,0,24-06-2025,24-06-2025
+2025,26,MH/DHU/2025/26/1 M,Maharashtra,Dhule,Cholera,12,0,25-06-2025,25-06-2025
+2025,26,MH/GAD/2025/26/1 M,Maharashtra,Gadchiroli,Malaria,4,1,21-06-2025,24-06-2025
+2025,26,MH/PUN/2025/26/11,Maharashtra,Pune,Acute,5,0,21-06-2025,27-06-2025
+2025,27,MH/DHA/2025/27/120,Maharashtra,Dharashiv,Suspected,19,0,04-07-2025,05-07-2025
+2025,27,MH/GAD/2025/27/120,Maharashtra,Gadchiroli,Complicate,2,2,04-07-2025,05-07-2025
+2025,27,MH/GAD/2025/27/120,Maharashtra,Gadchiroli,Mixed,9,1,28-06-2025,01-07-2025
+2025,27,MH/NAN/2025/27/120,Maharashtra,Nanded,Acute,27,0,30-06-2025,30-06-2025
+2024,1,MH/GAD/2024/01/15,Maharashtra,Gadchiroli,Malaria,191,1,04-01-2024,04-01-2024
+2024,1,MH/GAD/2024/01/16,Maharashtra,Gadchiroli,Malaria,385,1,27-12-2023,01-01-2024
+2024,1,MH/GOD/2024/01/17,Maharashtra,Gondia,Malaria,28,0,29-12-2023,01-01-2024
+2024,1,MH/KOP/2024/01/18,Maharashtra,Kolhapur,Hepatitis-A,9,0,05-01-2024,05-01-2024
+2024,1,MH/KOP/2024/01/19,Maharashtra,Kolhapur,Food Poisoning,106,0,03-01-2024,03-01-2024
+2024,1,MH/NAG/2024/01/20,Maharashtra,Nagpur,Scrub Typhus,9,1,02-01-2024,04-01-2024
+2024,1,MH/PLR/2024/01/21,Maharashtra,Palghar,Chikungunya,9,0,07-01-2024,07-01-2024
+2024,2,MH/KOP/2024/02/45,Maharashtra,Kolhapur,Hepatitis,42,0,12-01-2024,12-01-2024
+2024,3,MH/THN/2024/03/056,Maharashtra,Thane,Dengue,5,1,11-01-2024,15-01-2024
+2024,3,MH/BNR/2024/03/081,Maharashtra,Bhandara,Diarrheal,29,0,09-01-2024,09-01-2024
+2024,3,MH/THN/2024/03/082,Maharashtra,Thane,Dengue,13,0,29-12-2023,29-12-2023
+2024,4,MH/BUL/2024/04/098,Maharashtra,Buldhana,Mumps,5,0,25-01-2024,25-01-2024
+2024,4,MH/PLR/2024/04/099,Maharashtra,Palghar,Dengue,16,0,24-01-2024,24-01-2024
+2024,5,MH/KOP/2024/05/135,Maharashtra,Kolhapur,Food Poisoning,101,0,04-02-2024,05-02-2024
+2024,5,MH/THN/2024/05/136,Maharashtra,Thane,Diarrheal,110,0,31-01-2024,31-01-2024
+2024,6,MH/NAN/2024/06/183,Maharashtra,Nanded,Diarrheal,1000,0,07-02-2024,07-02-2024
+2024,6,MH/OSM/2024/06/184,Maharashtra,Osmanabad,Dengue,9,0,07-02-2024,07-02-2024
+2024,6,MH/OSM/2024/06/185,Maharashtra,Osmanabad,Diarrheal,27,0,07-02-2024,07-02-2024
+2024,6,MH/PRB/2024/06/186,Maharashtra,Parbhani,Food Poisoning,19,0,07-02-2024,10-02-2024
+2024,6,MH/PRB/2024/06/187,Maharashtra,Parbhani,Food Poisoning,629,0,08-02-2024,10-02-2024
+2024,6,MH/PRB/2024/06/188,Maharashtra,Parbhani,Food Poisoning,335,0,09-02-2024,10-02-2024
+2024,7,MH/OSM/2024/07/226,Maharashtra,Osmanabad,Malaria,9,0,15-02-2024,15-02-2024
+2024,7,MH/RGD/2024/07/227,Maharashtra,Raigad,Dengue,6,1,14-02-2024,18-02-2024
+2024,7,MH/THN/2024/07/228,Maharashtra,Thane,Malaria,5,1,08-02-2024,14-02-2024
+2024,8,MH/BUL/2024/08/262,Maharashtra,Buldhana,Food Poisoning,208,0,21-02-2024,23-02-2024
+2024,8,MH/NDB/2024/08/263,Maharashtra,Nandurbar,Diarrheal,193,0,21-02-2024,23-02-2024
+2024,8,MH/YVT/2024/08/264,Maharashtra,Yavatmal,Food Poisoning,68,0,21-02-2024,21-02-2024
+2024,9,MH/AMN/2024/09/326,Maharashtra,Ahmednagar,Diarrheal,122,0,29-02-2024,29-02-2024
+2024,9,MH/AKL/2024/09/327,Maharashtra,Akola,Diarrheal,10,0,27-02-2024,28-02-2024
+2024,9,MH/PLR/2024/09/328,Maharashtra,Palghar,Diarrheal,15,0,01-03-2024,01-03-2024
+2024,10,MH/DHL/2024/10/360,Maharashtra,Dhule,Food Poisoning,25,0,10-03-2024,10-03-2024
+2024,10,MH/HIN/2024/10/361,Maharashtra,Hingoli,Diarrheal,21,0,08-03-2024,10-03-2024
+2024,10,MH/KOP/2024/10/362,Maharashtra,Kolhapur,Hepatitis,22,0,04-03-2024,05-03-2024
+2024,10,MH/LTR/2024/10/363,Maharashtra,Latur,Food Poisoning,48,0,09-03-2024,11-03-2024
+2024,10,MH/NDB/2024/10/364,Maharashtra,Nandurbar,Diarrheal,18,0,09-03-2024,09-03-2024
+2024,10,MH/NDB/2024/10/365,Maharashtra,Nandurbar,Diarrheal,76,0,08-03-2024,08-03-2024
+2024,10,MH/SIN/2024/10/366,Maharashtra,Sindhudurg,Diarrheal,146,0,08-03-2024,08-03-2024
+2024,11,MH/AMR/2024/11/426,Maharashtra,Amravati,Malaria,64,0,12-03-2024,13-03-2024
+2024,11,MH/DHL/2024/11/427,Maharashtra,Dhule,Diarrheal,118,0,14-03-2024,15-03-2024
+2024,11,MH/GAD/2024/11/428,Maharashtra,Gadchiroli,Malaria,34,1,13-03-2024,13-03-2024
+2024,11,MH/GAD/2024/11/429,Maharashtra,Gadchiroli,Malaria,249,1,09-03-2024,11-03-2024
+2024,11,MH/JLN/2024/11/430,Maharashtra,Jalna,Diarrheal,33,0,09-03-2024,12-03-2024
+2024,11,MH/KOP/2024/11/431,Maharashtra,Kolhapur,Diarrheal,41,0,14-03-2024,14-03-2024
+2024,11,MH/LTR/2024/11/432,Maharashtra,Latur,Dengue,5,0,15-03-2024,15-03-2024
+2024,11,MH/NGP/2024/11/433,Maharashtra,Nagpur,Diarrheal,22,0,10-03-2024,11-03-2024
+2024,11,MH/NGP/2024/11/434,Maharashtra,Nagpur,Diarrheal,13,0,10-03-2024,11-03-2024
+2024,11,MH/OSM/2024/11/435,Maharashtra,Osmanabad,Chikungunya,10,0,16-03-2024,16-03-2024
+2024,11,MH/OSM/2024/11/436,Maharashtra,Osmanabad,Food Poisoning,7,0,14-03-2024,14-03-2024
+2024,12,MH/AKL/2024/12/492,Maharashtra,Akola,Dengue,26,0,23-03-2024,23-03-2024
+2024,12,MH/AMR/2024/12/493,Maharashtra,Amravati,Dengue,64,0,20-03-2024,20-03-2024
+2024,12,MH/OSM/2024/12/494,Maharashtra,Osmanabad,Dengue,6,1,22-03-2024,23-03-2024
+2024,12,MH/OSM/2024/12/495,Maharashtra,Osmanabad,Food Poisoning,15,0,20-03-2024,21-03-2024
+2024,13,MH/AKL/2024/12/539,Maharashtra,Akola,Hepatitis,96,0,29-03-2024,29-03-2024
+2024,13,MH/PNE/2024/12/551,Maharashtra,Pune,Chikungunya,9,0,23-03-2024,30-03-2024
+2024,14,MH/RGD/2024/14/582,Maharashtra,Raigad,Dengue,5,1,03-04-2024,05-04-2024
+2024,15,MH/CND/2024/15/635,Maharashtra,Chandrapur,Food Poisoning,258,1,15-04-2024,15-04-2024
+2024,15,MH/CND/2024/15/636,Maharashtra,Chandrapur,Malaria,25,0,12-04-2024,12-04-2024
+2024,15,MH/JLN/2024/15/637,Maharashtra,Jalna,Diarrheal,25,0,06-04-2024,09-04-2024
+2024,15,MH/KOP/2024/15/638,Maharashtra,Kolhapur,Chikungunya,6,0,12-04-2024,12-04-2024
+2024,15,MH/OSM/2024/15/639,Maharashtra,Osmanabad,Food Poisoning,22,0,05-04-2024,06-04-2024
+2024,15,MH/PNE/2024/15/640,Maharashtra,Pune,Diarrheal,24,0,28-03-2024,12-04-2024
+2024,15,MH/STA/2024/15/641,Maharashtra,Satara,Diarrheal,68,0,09-04-2024,10-04-2024
+2024,15,MH/WDH/2024/15/642,Maharashtra,Wardha,Dengue,36,1,08-04-2024,10-04-2024
+2024,15,MH/STA/2024/15/656,Maharashtra,Satara,Dengue,5,0,03-04-2024,11-04-2024
+2024,16,MH/AMN/2024/16/691,Maharashtra,Ahmednagar,Scrub Typhus,14,0,15-04-2024,15-04-2024
+2024,16,MH/BNR/2024/16/693,Maharashtra,Bhandara,Diarrheal,39,0,18-04-2024,18-04-2024
+2024,16,MH/KOP/2024/16/694,Maharashtra,Kolhapur,Hepatitis,12,0,16-04-2024,16-04-2024
+2024,16,MH/KOP/2024/16/695,Maharashtra,Kolhapur,Hepatitis,48,0,16-04-2024,16-04-2024
+2024,16,MH/PNE/2024/16/696,Maharashtra,Pune,Food Poisoning,59,0,21-04-2024,22-04-2024
+2024,16,MH/RGD/2024/16/697,Maharashtra,Raigad,Hepatitis,11,1,19-04-2024,20-04-2024
+2024,17,MH/CND/2024/17/664,Maharashtra,Chandrapur,Dengue,6,0,23-04-2024,23-04-2024
+2024,17,MH/KOP/2024/17/765,Maharashtra,Kolhapur,Food Poisoning,34,0,29-04-2024,29-04-2024
+2024,17,MH/NGP/2024/17/766,Maharashtra,Nagpur,Scrub Typhus,12,1,21-04-2024,22-04-2024
+2024,17,MH/NDD/2024/17/767,Maharashtra,Nanded,Dengue,6,0,25-04-2024,26-04-2024
+2024,17,MH/RGD/2024/17/768,Maharashtra,Raigad,Dengue,8,0,19-04-2024,23-04-2024
+2024,17,MH/WAS/2024/17/769,Maharashtra,Washim,Dengue,11,0,24-04-2024,24-04-2024
+2024,17,MH/YVT/2024/17/793,Maharashtra,Yavatmal,Dengue,14,0,13-04-2024,14-04-2024
+2024,18,MH/AKL/2024/18/836,Maharashtra,Akola,Dengue,22,0,03-05-2024,03-05-2024
+2024,18,MH/CND/2024/18/837,Maharashtra,Chandrapur,Leptospirosis,7,1,02-05-2024,02-05-2024
+2024,18,MH/KOP/2024/18/838,Maharashtra,Kolhapur,Acute,24,0,02-05-2024,02-05-2024
+2024,18,MH/PRB/2024/18/839,Maharashtra,Parbhani,Chikungunya,11,0,01-05-2024,03-05-2024
+2024,18,MH/PNE/2024/18/840,Maharashtra,Pune,Diarrheal,20,0,29-04-2024,03-05-2024
+2024,18,MH/STA/2024/18/841,Maharashtra,Satara,Dengue,10,0,03-05-2024,03-05-2024
+2024,18,MH/THN/2024/18/842,Maharashtra,Thane,Diarrheal,53,0,03-05-2024,03-05-2024
+2024,19,MH/AMN/2024/19/891,Maharashtra,Ahmednagar,Chikungunya,11,0,09-05-2024,09-05-2024
+2024,19,MH/WDH/2024/19/904,Maharashtra,Wardha,Dengue,9,0,27-04-2024,28-04-2024
+2024,20,MH/KOP/2024/20/955,Maharashtra,Kolhapur,Diarrheal,103,0,18-05-2024,18-05-2024
+2024,20,MH/NAN/2024/20/956,Maharashtra,Nanded,Dengue,7,0,16-05-2024,17-05-2024
+2024,20,MH/NAN/2024/20/957,Maharashtra,Nanded,Food Poisoning,30,0,17-05-2024,17-05-2024
+2024,20,MH/RGD/2024/20/958,Maharashtra,Raigad,Dengue,24,0,17-05-2024,18-05-2024
+2024,20,MH/STA/2024/20/959,Maharashtra,Satara,Dengue,16,0,17-05-2024,17-05-2024
+2024,20,MH/WAS/2024/20/960,Maharashtra,Washim,Dengue,6,0,16-05-2024,16-05-2024
+2024,20,MH/MMB/2024/20/974,Maharashtra,Mumbai,Poisoning,17,1,08-05-2024,09-05-2024
+2024,21,MH/AKL/2024/21/101,Maharashtra,Akola,Cholera,65,0,26-04-2024,26-05-2024
+2024,21,MH/JGA/2024/21/101,Maharashtra,Jalgaon,Cholera,89,0,21-05-2024,24-05-2024
+2024,21,MH/NAG/2024/21/101,Maharashtra,Nagpur,Dengue,16,1,22-05-2024,22-05-2024
+2024,21,MH/SIN/2024/21/101,Maharashtra,Sindhudurg,Diarrheal,23,0,19-05-2024,20-05-2024
+2024,21,MH/YVT/2024/21/101,Maharashtra,Yavatmal,Food Poisoning,18,0,23-05-2024,24-05-2024
+2024,21,MH/KOP/2024/21/103,Maharashtra,Kolhapur,Chikungunya,18,0,03-05-2024,04-05-2024
+2024,22,MH/GAD/2024/22/108,Maharashtra,Gadchiroli,Dengue,48,0,25-01-2024,27-05-2024
+2024,22,MH/NAN/2024/22/108,Maharashtra,Nanded,Dengue,12,0,28-05-2024,29-05-2024
+2024,22,MH/PNE/2024/22/108,Maharashtra,Pune,Dengue,7,0,25-05-2024,29-05-2024
+2024,22,MH/PNE/2024/22/109,Maharashtra,Pune,Cholera,5,0,20-05-2024,28-05-2024
+2024,23,MH/GAD/2024/23/113,Maharashtra,Gadchiroli,Malaria,8,1,06-06-2024,07-06-2024
+2024,23,MH/KOP/2024/23/114,Maharashtra,Kolhapur,Zika Virus,1,0,03-06-2024,03-06-2024
+2024,23,MH/NAG/2024/23/114,Maharashtra,Nagpur,Cholera,5,0,04-06-2024,07-06-2024
+2024,23,MH/THN/2024/23/114,Maharashtra,Thane,Dengue,24,0,06-06-2024,07-06-2024
+2024,24,MH/BNR/2024/24/121,Maharashtra,Bhandara,Food Poisoning,3,1,14-06-2024,14-06-2024
+2024,24,MH/GAG/2024/24/121,Maharashtra,Gadchiroli,Malaria,5,1,08-06-2024,12-06-2024
+2024,24,MH/NAG/2024/24/121,Maharashtra,Nagpur,Chikungunya,40,0,10-06-2024,11-06-2024
+2024,24,MH/NAN/2024/24/121,Maharashtra,Nanded,Dengue,13,0,07-06-2024,13-06-2024
+2024,24,MH/PLR/2024/24/121,Maharashtra,Palghar,Chikungunya,6,0,14-06-2024,15-06-2024
+2024,24,MH/PNE/2024/24/121,Maharashtra,Pune,Cholera,81,0,11-06-2024,13-06-2024
+2024,24,MH/SGL/2024/24/122,Maharashtra,Sangli,Dengue,8,1,12-06-2024,11-06-2024
+2024,24,MH/SGL/2024/24/122,Maharashtra,Sangli,Food Poisoning,20,0,13-06-2024,12-06-2024
+2024,24,MH/STA/2024/24/122,Maharashtra,Satara,Diarrheal,106,0,10-06-2024,11-06-2024
+2024,25,MH/JGA/2024/25/128,Maharashtra,Jalgaon,Diarrheal,115,0,18-06-2024,19-06-2024
+2024,25,MH/KOP/2024/25/128,Maharashtra,Kolhapur,Dengue,24,0,22-06-2024,23-06-2024
+2024,25,MH/KOP/2024/25/128,Maharashtra,Kolhapur,Hepatitis,35,0,20-06-2024,20-06-2024
+2024,25,MH/OSM/2024/25/128,Maharashtra,Osmanabad,Dengue,14,0,19-06-2024,20-06-2024
+2024,26,MH/GOD/2024/26/133,Maharashtra,Gondia,Diarrheal,6,1,27-06-2024,27-06-2024
+2024,26,MH/GOD/2024/26/133,Maharashtra,Gondia,Pertussis,9,0,24-06-2024,24-06-2024
+2024,26,MH/JLN/2024/26/133,Maharashtra,Jalna,Diarrheal,23,0,24-06-2024,26-06-2024
+2024,26,MH/KOP/2024/26/133,Maharashtra,Kolhapur,Chikungunya,7,0,29-06-2024,29-06-2024
+2024,26,MH/KOP/2024/26/133,Maharashtra,Kolhapur,Cholera,7,0,28-06-2024,28-06-2024
+2024,26,MH/KOP/2024/26/134,Maharashtra,Kolhapur,Dengue,1,1,25-06-2024,25-06-2024
+2024,26,MH/NAN/2024/26/134,Maharashtra,Nanded,Diarrheal,30,0,27-06-2024,27-06-2024
+2024,26,MH/PNE/2024/26/134,Maharashtra,Pune,Zika Virus,8,0,24-06-2024,27-06-2024
+2024,26,MH/PNE/2024/26/134,Maharashtra,Pune,Dengue,5,0,19-06-2024,25-06-2024
+2024,26,MH/PNE/2024/26/134,Maharashtra,Pune,Chikungunya,12,0,19-06-2024,25-06-2024
+2024,26,MH/RGD/2024/26/134,Maharashtra,Raigad,Dengue,2,1,24-06-2024,25-06-2024
+2024,26,MH/SGL/2024/26/134,Maharashtra,Sangli,Cholera,50,0,29-06-2024,29-06-2024
+2024,26,MH/STA/2024/26/134,Maharashtra,Satara,Dengue,7,0,25-06-2024,28-06-2024
+2024,26,MH/WAD/2024/26/134,Maharashtra,Washim,Cholera,25,0,23-06-2024,24-06-2024
+2024,26,MH/YVT/2024/26/134,Maharashtra,Yavatmal,Dengue,40,0,29-06-2024,29-06-2024
+2024,26,MH/NAS/2024/26/137,Maharashtra,Nashik,Dengue,5,1,13-06-2024,14-06-2024
+2024,26,MH/PNE/2024/26/137,Maharashtra,Pune,Typhoid,14,0,14-06-2024,15-06-2024
+2024,26,MH/RGD/2024/26/137,Maharashtra,Raigad,Dengue,84,0,16-06-2024,17-06-2024
+2024,27,MH/AKL/2024/27/142,Maharashtra,Akola,Cholera,18,0,03-07-2024,03-07-2024
+2024,27,MH/CND/2024/27/142,Maharashtra,Chandrapur,Dengue,24,0,04-07-2024,05-07-2024
+2024,27,MH/GAD/2024/27/142,Maharashtra,Gadchiroli,Food Poisoning,28,0,04-07-2024,05-07-2024
+2024,27,MH/PNE/2024/27/142,Maharashtra,Pune,Zika Virus,8,0,25-06-2024,03-07-2024
+2024,27,MH/RIG/2024/27/142,Maharashtra,Raigad,Dengue,13,0,26-06-2024,02-07-2024
+2024,29,MH/AHM/2024/29/160,Maharashtra,Ahmednagar,Zika Virus,3,0,17-07-2024,18-07-2024
+2024,29,MH/AKL/2024/29/160,Maharashtra,Akola,Diarrheal,23,0,19-07-2024,19-07-2024
+2024,29,MH/AMV/2024/29/160,Maharashtra,Amravati,Diarrheal,89,1,16-07-2024,16-07-2024
+2024,29,MH/AMV/2024/29/160,Maharashtra,Amravati,Diarrheal,70,0,15-07-2024,15-07-2024
+2024,29,MH/CDP/2024/29/160,Maharashtra,Chandrapur,Malaria,30,1,18-07-2024,19-07-2024
+2024,29,MH/DHL/2024/29/160,Maharashtra,Dhule,Diarrheal,22,0,19-07-2024,20-07-2024
+2024,29,MH/KOP/2024/29/161,Maharashtra,Kolhapur,Dysentery,98,0,20-07-2024,20-07-2024
+2024,29,MH/PRB/2024/29/161,Maharashtra,Parbhani,Diarrheal,79,0,11-07-2024,15-07-2024
+2024,29,MH/PNE/2024/29/161,Maharashtra,Pune,Zika Virus,11,0,08-07-2024,16-07-2024
+2024,29,MH/PNE/2024/29/161,Maharashtra,Pune,Zika Virus,1,0,13-07-2024,15-07-2024
+2024,29,MH/STR/2024/29/161,Maharashtra,Satara,Dengue,17,0,16-07-2024,19-07-2024
+2024,30,MH/AMN/2024/30/172,Maharashtra,Ahmednagar,Cholera,6,0,25-07-2024,26-07-2024
+2024,30,MH/AVT/2024/30/172,Maharashtra,Amravati,Diarrheal,47,0,22-07-2024,25-07-2024
+2024,30,MH/GDC/2024/30/172,Maharashtra,Gadchiroli,Malaria,6,1,26-07-2024,26-07-2024
+2024,30,MH/GDC/2024/30/172,Maharashtra,Gadchiroli,Malaria,2,1,26-07-2024,26-07-2024
+2024,30,MH/GDC/2024/30/172,Maharashtra,Gadchiroli,Malaria,4,1,22-07-2024,22-07-2024
+2024,30,MH/JLG/2024/30/172,Maharashtra,Jalgaon,Cholera,13,3,22-07-2024,26-07-2024
+2024,30,MH/NSK/2024/30/172,Maharashtra,Nashik,Dengue,3,1,14-07-2024,23-07-2024
+2024,30,MH/NSK/2024/30/173,Maharashtra,Nashik,Dengue,1,1,08-07-2024,23-07-2024
+2024,30,MH/NSK/2024/30/173,Maharashtra,Nashik,Diarrheal,79,0,16-07-2024,23-07-2024
+2024,30,MH/YVT/2024/30/173,Maharashtra,Yavatmal,Cholera,8,0,19-07-2024,22-07-2024
+2024,31,MH/AMR/2024/31/181,Maharashtra,Amravati,Diarrheal,25,0,27-07-2024,29-07-2024
+2024,31,MH/CDP/2024/31/181,Maharashtra,Chandrapur,Malaria,2,1,30-07-2024,01-08-2024
+2024,31,MH/DHL/2024/31/181,Maharashtra,Dhule,Dengue,15,0,29-07-2024,29-07-2024
+2024,31,MH/DHL/2024/31/181,Maharashtra,Dhule,Dengue,22,0,29-07-2024,29-07-2024
+2024,31,MH/NGP/2024/31/182,Maharashtra,Nagpur,Dengue,17,0,29-07-2024,30-07-2024
+2024,31,MH/PRB/2024/31/182,Maharashtra,Parbhani,Chikungunya,23,0,30-07-2024,31-07-2024
+2024,31,MH/PUN/2024/31/182,Maharashtra,Pune,Zika Virus,1,0,30-07-2024,02-08-2024
+2024,31,MH/SAT/2024/31/182,Maharashtra,Satara,Diarrheal,16,1,28-07-2024,29-07-2024
+2024,31,MH/SLP/2024/31/182,Maharashtra,Solapur,Zika Virus,1,0,27-07-2024,29-07-2024
+2024,31,MH/WSM/2024/31/182,Maharashtra,Washim,Chikungunya,19,0,30-07-2024,30-07-2024
+2024,31,MH/PUN/2024/31/185,Maharashtra,Pune,Zika,9,0,19-07-2024,31-07-2024
+2024,31,MH/PUN/2024/31/185,Maharashtra,Pune,Zika,5,0,13-07-2024,01-08-2024
+2024,31,MH/PUN/2024/31/185,Maharashtra,Pune,Zika,7,0,20-07-2024,02-08-2024
+2024,32,MH/AHM/2024/32/192,Maharashtra,Ahmednagar,Diarrheal,20,0,08-08-2024,09-08-2024
+2024,32,MH/AMT/2024/32/192,Maharashtra,Amravati,Gastroenterit,26,0,05-08-2024,05-08-2024
+2024,32,MH/BND/2024/32/192,Maharashtra,Bhandara,Chickenpox,18,0,05-08-2024,05-08-2024
+2024,32,MH/PLG/2024/32/192,Maharashtra,Palghar,Diarrheal,249,1,06-08-2024,06-08-2024
+2024,32,MH/PNE/2024/32/192,Maharashtra,Pune,Zika Virus,1,0,03-08-2024,07-08-2024
+2024,32,MH/PNE/2024/32/196,Maharashtra,Pune,Zika Virus,3,0,30-07-2024,31-07-2024
+2024,32,MH/PNE/2024/32/196,Maharashtra,Pune,Zika Virus,2,0,30-07-2024,31-07-2024
+2024,32,MH/PNE/2024/32/196,Maharashtra,Pune,Zika Virus,1,0,30-07-2024,31-07-2024
+2024,33,MH/AMR/2024/33/201,Maharashtra,Amravati,Diarrheal,87,0,14-08-2024,16-08-2024
+2024,33,MH/STA/2024/33/201,Maharashtra,Satara,Chikungunya,28,0,06-08-2024,12-08-2024
+2024,33,MH/PNE/2024/33/204,Maharashtra,Pune,Zika Virus,2,0,02-08-2024,03-08-2024
+2024,34,MH/AMR/2024/34/207,Maharashtra,Amravati,Food Poisoning,6,1,17-08-2024,21-08-2024
+2024,34,MH/ARG/2024/34/207,Maharashtra,Aurangabad,Food Poisoning,181,0,18-08-2024,20-08-2024
+2024,34,MH/PLG/2024/34/207,Maharashtra,Palghar,Dengue,3,1,22-08-2024,23-08-2024
+2024,34,MH/PNE/2024/34/211,Maharashtra,Pune,Zika Virus,1,0,15-08-2024,16-08-2024
+2024,34,MH/PNE/2024/34/211,Maharashtra,Pune,Zika Virus,1,0,14-08-2024,15-08-2024
+2024,35,MH/BED/2024/35/215,Maharashtra,Beed,Hepatitis,9,0,28-08-2024,29-08-2024
+2024,35,MH/PLG/2024/35/215,Maharashtra,Palghar,Malaria,41,0,28-08-2024,29-08-2024
+2024,35,MH/PNE/2024/35/218,Maharashtra,Pune,Dengue,37,0,01-07-2024,02-07-2024
+2024,36,MH/HNG/2024/36/222,Maharashtra,Hingoli,Diarrheal,7,0,05-09-2024,07-09-2024
+2024,36,MH/KOP/2024/36/222,Maharashtra,Kolhapur,Hepatitis,48,0,02-09-2024,03-09-2024
+2024,36,MH/NAN/2024/36/222,Maharashtra,Nanded,Dengue,7,0,05-09-2024,06-09-2024
+2024,36,MH/OSM/2024/36/222,Maharashtra,Osmanabad,Dengue,21,1,02-09-2024,04-09-2024
+2024,36,MH/THE/2024/36/222,Maharashtra,Thane,Malaria,1,1,06-09-2024,06-09-2024
+2024,36,MH/THE/2024/36/222,Maharashtra,Thane,Dengue,7,1,31-08-2024,05-09-2024
+2024,36,MH/THE/2024/36/225,Maharashtra,Thane,Malaria,4,1,22-08-2024,06-09-2024
+2024,37,MH/AMR/2024/37/228,Maharashtra,Amravati,Diarrheal,67,2,11-09-2024,12-09-2024
+2024,37,MH/BHD/2024/37/228,Maharashtra,Bhandara,Diarrheal,20,0,14-09-2024,14-09-2024
+2024,37,MH/BUL/2024/37/228,Maharashtra,Buldhana,Diarrheal,26,0,07-09-2024,10-09-2024
+2024,37,MH/NDB/2024/37/228,Maharashtra,Nandurbar,Diarrheal,16,0,08-09-2024,09-09-2024
+2024,37,MH/GDC/2024/37/230,Maharashtra,Gadchiroli,Malaria,5,2,05-09-2024,10-09-2024
+2024,38,MH/GDC/2024/38/233,Maharashtra,Gadchiroli,Food Poisoning,1,1,18-09-2024,19-09-2024
+2024,38,MH/LAT/2024/38/233,Maharashtra,Latur,Hepatitis,65,0,18-09-2024,18-09-2024
+2024,38,MH/PNE/2024/38/233,Maharashtra,Pune,Cholera,6,0,16-09-2024,19-09-2024
+2024,38,MH/PNE/2024/38/236,Maharashtra,Pune,Dengue,6,0,05-09-2024,20-09-2024
+2024,39,MH/BED/2024/39/239,Maharashtra,Beed,Hepatitis,10,0,21-09-2024,23-09-2024
+2024,39,MH/BND/2024/39/239,Maharashtra,Bhandara,Food Poisoning,42,0,27-09-2024,28-09-2024
+2024,39,MH/KOP/2024/39/239,Maharashtra,Kolhapur,Hepatitis,12,0,27-09-2024,27-09-2024
+2024,39,MH/NND/2024/39/239,Maharashtra,Nanded,Diarrheal,26,0,28-09-2024,28-09-2024
+2024,39,MH/WAS/2024/39/239,Maharashtra,Washim,Chikungunya,9,0,26-09-2024,27-09-2024
+2024,39,MH/THE/2024/39/241,Maharashtra,Thane,Cholera,7,1,10-09-2024,28-09-2024
+2024,39,MH/THE/2024/39/241,Maharashtra,Thane,Cholera,18,0,18-09-2024,29-09-2024
+2024,40,MH/AMR/2024/40/245,Maharashtra,Amravati,Food Poisoning,10,0,05-10-2024,06-10-2024
+2024,40,MH/GOG/2024/40/245,Maharashtra,Gondia,Cholera,17,0,03-10-2024,03-10-2024
+2024,40,MH/LAT/2024/40/245,Maharashtra,Latur,Food Poisoning,55,0,06-10-2024,07-10-2024
+2024,40,MH/RIG/2024/40/245,Maharashtra,Raigad,Chikungunya,19,0,30-09-2024,30-09-2024
+2024,40,MH/SAB/2024/40/245,Maharashtra,Sangli,Food Poisoning,246,0,06-10-2024,07-10-2024
+2024,40,MH/THE/2024/40/245,Maharashtra,Thane,Diarrheal,47,0,02-10-2024,04-10-2024
+2024,41,MH/NAG/2024/41/249,Maharashtra,Nagpur,Diarrheal,136,0,11-10-2024,11-10-2024
+2024,41,MH/PRB/2024/41/249,Maharashtra,Parbhani,Diarrheal,30,0,05-10-2024,07-10-2024
+2024,41,MH/PNE/2024/41/249,Maharashtra,Pune,Diarrheal,28,0,10-10-2024,11-10-2024
+2024,42,MH/AMN/2024/42/256,Maharashtra,Ahmednagar,Cholera,8,0,14-10-2024,14-10-2024
+2024,42,MH/DHL/2024/42/256,Maharashtra,Dhule,Diarrheal,30,1,17-10-2024,17-10-2024
+2024,42,MH/KOP/2024/42/256,Maharashtra,Kolhapur,Food Poisoning,88,0,14-10-2024,14-10-2024
+2024,42,MH/NAD/2024/42/256,Maharashtra,Nanded,Chikungunya,7,0,16-10-2024,17-10-2024
+2024,42,MH/NAS/2024/42/256,Maharashtra,Nashik,Diarrheal,10,0,14-10-2024,15-10-2024
+2024,42,MH/PRB/2024/42/256,Maharashtra,Parbhani,Chikungunya,6,0,17-10-2024,17-10-2024
+2024,42,MH/THE/2024/42/256,Maharashtra,Thane,Food Poisoning,10,0,18-10-2024,19-10-2024
+2024,42,MH/THE/2024/42/256,Maharashtra,Thane,Hepatitis,6,1,15-10-2024,19-10-2024
+2024,42,MH/WRD/2024/42/257,Maharashtra,Wardha,Diarrheal,12,0,17-10-2024,18-10-2024
+2024,43,MH/AHM/2024/43/261,Maharashtra,Ahmednagar,Diarrheal,129,0,20-10-2024,22-10-2024
+2024,43,MH/NAS/2024/43/263,Maharashtra,Nashik,Diarrheal,171,0,17-10-2024,23-10-2024
+2024,43,MH/RIG/2024/43/263,Maharashtra,Raigad,Hepatitis,37,0,17-10-2024,24-10-2024
+2024,44,MH/PLG/2024/44/265,Maharashtra,Palghar,Dengue,22,1,29-10-2024,30-10-2024
+2024,44,MH/THN/2024/44/266,Maharashtra,Thane,Diarrheal,97,0,28-10-2024,31-10-2024
+2024,44,MH/NAS/2024/44/267,Maharashtra,Nashik,Diarrheal,18,0,24-10-2024,01-11-2024
+2024,45,MH/AHM/2024/45/270,Maharashtra,Ahmednagar,Dengue,23,0,06-11-2024,07-11-2024
+2024,45,MH/CHN/2024/45/270,Maharashtra,Chandrapur,Diarrheal,61,0,05-11-2024,07-11-2024
+2024,46,MH/NSH/2024/46/274,Maharashtra,Nashik,Diarrheal,21,1,13-11-2024,14-11-2024
+2024,46,MH/PRB/2024/46/275,Maharashtra,Parbhani,Chikungunya,14,0,12-11-2024,14-11-2024
+2024,46,MH/RIG/2024/46/275,Maharashtra,Raigad,Chikungunya,27,0,09-11-2024,14-11-2024
+2024,46,MH/SDG/2024/46/275,Maharashtra,Sindhudurg,Leptospirosis,1,1,14-11-2024,14-11-2024
+2024,47,MH/WHD/2024/47/280,Maharashtra,Wardha,Dengue,5,1,21-11-2024,22-11-2024
+2024,48,MH/AMR/2024/48/284,Maharashtra,Amravati,Chikungunya,12,0,25-11-2024,26-11-2024
+2024,48,MH/KOH/2024/48/284,Maharashtra,Kolhapur,Diarrheal,165,0,30-11-2024,30-11-2024
+2024,48,MH/KOH/2024/48/284,Maharashtra,Kolhapur,Food Poisoning,18,0,26-11-2024,27-11-2024
+2024,48,MH/NAN/2024/48/285,Maharashtra,Nanded,Chikungunya,14,0,26-11-2024,27-11-2024
+2024,48,MH/PLG/2024/48/285,Maharashtra,Palghar,Leptospirosis,7,1,23-11-2024,25-11-2024
+2024,48,MH/PNE/2024/48/285,Maharashtra,Pune,Zika Virus,1,0,25-11-2024,27-11-2024
+2024,48,MH/SIN/2024/48/285,Maharashtra,Sindhudurg,Hepatitis,10,0,30-11-2024,30-11-2024
+2024,48,MH/WAS/2024/48/285,Maharashtra,Washim,Dengue,9,0,30-11-2024,30-11-2024
+2024,49,MH/SAN/2024/49/288,Maharashtra,Sangli,Hepatitis,9,0,05-12-2024,06-12-2024
+2024,50,MH/GDC/2024/50/293,Maharashtra,Gadchiroli,Malaria,2,1,09-12-2024,09-12-2024
+2024,50,MH/THE/2024/50/293,Maharashtra,Thane,Diarrheal,5,1,06-12-2024,09-12-2024
+2024,50,MH/WRD/2024/50/293,Maharashtra,Wardha,Food Poisoning,39,0,12-12-2024,13-12-2024
+2024,51,MH/BHN/2024/51/297,Maharashtra,Bhandara,Leptospirosis,3,0,19-12-2024,19-12-2024
+2024,51,MH/NAN/2024/51/297,Maharashtra,Nandurbar,Food Poisoning,22,0,12-12-2024,17-12-2024
+2024,51,MH/SNG/2024/51/297,Maharashtra,Sangli,Diarrheal,49,0,17-12-2024,17-12-2024
+2024,52,MH/BUL/2024/52/300,Maharashtra,Buldhana,Food Poisoning,93,0,24-12-2024,26-12-2024
+2024,52,MH/OSM/2024/52/300,Maharashtra,Osmanabad,Chikungunya,5,0,22-12-2024,23-12-2024
+2024,52,MH/THE/2024/52/301,Maharashtra,Thane,Human Rabies,1,1,11-12-2024,12-12-2024
+2023,1,MH/AKL/2023/01/10,Maharashtra,Akola,Food Poisoning,88,0,01-01-2023,03-01-2023
+2023,1,MH/THN/2023/01/26,Maharashtra,Thane,Dengue,3,1,21-09-2022,22-09-2022
+2023,1,MH/AMR/2023/01/27,Maharashtra,Amravati,Diarrheal,44,0,16-12-2022,17-12-2022
+2023,2,MH/NAN/2023/02/45,Maharashtra,Nanded,Measles,3,0,13-01-2023,13-01-2023
+2023,2,MH/NAN/2023/02/46,Maharashtra,Nanded,Measles,3,0,13-01-2023,13-01-2023
+2023,2,MH/NAN/2023/02/47,Maharashtra,Nanded,Measles,3,0,12-01-2023,13-01-2023
+2023,2,MH/PNE/2023/02/49,Maharashtra,Pune,Food Poisoning,8,0,08-12-2022,09-12-2022
+2023,3,MH/AGB/2023/03/65,Maharashtra,Aurangabad,Measles,14,0,30-12-2022,31-12-2022
+2023,5,MH/LTR/2023/05/106,Maharashtra,Latur,Measles,7,0,30-01-2023,30-01-2023
+2023,5,MH/SGL/2023/05/107,Maharashtra,Sangli,Food Poisoning,34,0,27-01-2023,31-01-2023
+2023,5,MH/AMN/2023/05/116,Maharashtra,Ahmednagar,Dengue,2,1,13-01-2023,14-01-2023
+2023,7,MH/OSM/2023/07/147,Maharashtra,Osmanabad,Food Poisoning,13,0,19-02-2023,19-02-2023
+2023,7,MH/SHO/2023/07/157,Maharashtra,Solapur,Food Poisoning,66,0,02-02-2023,03-02-2023
+2023,8,MH/PNE/2023/08/182,Maharashtra,Pune,Diarrheal,49,0,09-02-2023,10-02-2023
+2023,9,MH/AMN/2023/09/191,Maharashtra,Ahmednagar,Fever,120,0,24-02-2023,01-03-2023
+2023,13,MH/PNE/2023/13/262,Maharashtra,Pune,Measles,5,0,19-01-2023,02-03-2023
+2023,13,MH/PNE/2023/13/263,Maharashtra,Pune,Measles,8,0,19-01-2023,03-03-2023
+2023,13,MH/RGD/2023/13/264,Maharashtra,Raigad,Leptospirosis,20,1,06-02-2023,04-03-2023
+2023,17,MH/NAN/2023/17/338,Maharashtra,Nanded,Dengue,13,0,28-04-2023,30-04-2023
+2023,20,MH/YVT/2023/20/408,Maharashtra,Yavatmal,Food Poisoning,21,0,17-05-2023,19-05-2023
+2023,22,MH/GAD/2023/22/461,Maharashtra,Gadchiroli,Malaria,19,1,29-05-2023,29-05-2023
+2023,22,MH/STA/2023/22/462,Maharashtra,Satara,Food Poisoning,101,0,30-05-2023,03-06-2023
+2023,22,MH/GAD/2023/22/485,Maharashtra,Gadchiroli,Malaria,6,1,25-05-2023,26-05-2023
+2023,22,MH/GAD/2023/22/486,Maharashtra,Gadchiroli,Malaria,21,1,23-05-2023,24-05-2023
+2023,23,MH/YVT/2023/23/506,Maharashtra,Yavatmal,Diarrheal,107,0,03-06-2023,05-06-2023
+2023,24,MH/OSM/2023/24/530,Maharashtra,Osmanabad,Dengue,10,0,15-06-2023,27-06-2023
+2023,24,MH/SAT/2023/24/531,Maharashtra,Satara,Diarrheal,23,1,12-06-2023,14-06-2023
+2023,24,MH/WAS/2023/24/532,Maharashtra,Washim,Dengue,48,0,12-06-2023,12-06-2023
+2023,25,MH/GAD/2023/25/587,Maharashtra,Gadchiroli,Malaria,37,1,23-06-2023,23-06-2023
+2023,25,MH/HIN/2023/25/588,Maharashtra,Hingoli,Diarrheal,64,0,23-06-2023,25-06-2023
+2023,25,MH/KOP/2023/25/589,Maharashtra,Kolhapur,Dengue,79,0,22-06-2023,23-06-2023
+2023,25,MH/KOP/2023/25/590,Maharashtra,Kolhapur,Dengue,34,0,22-06-2023,23-06-2023
+2023,25,MH/OSM/2023/25/591,Maharashtra,Osmanabad,Chikungunya,6,0,20-06-2023,23-06-2023
+2023,25,MH/PNE/2023/25/592,Maharashtra,Pune,Dengue,9,0,21-06-2023,23-06-2023
+2023,26,MH/CND/2023/26/648,Maharashtra,Chandrapur,Malaria,42,1,26-06-2023,27-06-2023
+2023,26,MH/JGA/2023/26/649,Maharashtra,Jalgaon,Diarrheal,28,0,29-06-2023,01-07-2023
+2023,26,MH/PRB/2023/26/650,Maharashtra,Parbhani,Food Poisoning,54,0,25-06-2023,26-06-2023
+2023,26,MH/PNE/2023/26/651,Maharashtra,Pune,Dengue,5,1,20-06-2023,28-06-2023
+2023,26,MH/THN/2023/26/652,Maharashtra,Thane,Leptospirosis,6,0,19-06-2023,28-06-2023
+2023,26,MH/STA/2023/26/664,Maharashtra,Satara,Dengue,5,0,14-06-2023,15-06-2023
+2023,26,MH/THN/2023/26/665,Maharashtra,Thane,Dengue,8,1,10-06-2023,11-06-2023
+2023,27,MH/AKL/2023/27/695,Maharashtra,Akola,Dengue,17,0,04-07-2023,05-07-2023
+2023,27,MH/AMR/2023/27/696,Maharashtra,Amravati,Malaria,46,0,08-07-2023,08-07-2023
+2023,27,MH/KOP/2023/27/697,Maharashtra,Kolhapur,Dengue,44,0,07-07-2023,07-07-2023
+2023,27,MH/LTR/2023/27/698,Maharashtra,Latur,Chikungunya,9,0,03-07-2023,03-07-2023
+2023,27,MH/NAN/2023/27/699,Maharashtra,Nanded,Diarrhoeal,26,0,30-06-2023,03-07-2023
+2023,27,MH/STA/2023/27/700,Maharashtra,Satara,Chikungunya,6,0,03-07-2023,06-07-2023
+2023,27,MH/STA/2023/27/711,Maharashtra,Satara,Dengue,5,0,27-06-2023,28-06-2023
+2023,27,MH/SIN/2023/27/712,Maharashtra,Sindhudurg,Dengue,10,1,27-06-2023,28-06-2023
+2023,28,MH/JLN/2023/28/741,Maharashtra,Jalna,Dengue,10,2,07-07-2023,11-07-2023
+2023,28,MH/PLR/2023/28/742,Maharashtra,Palaghar,Dengue,12,0,15-07-2023,15-07-2023
+2023,28,MH/SIN/2023/28/743,Maharashtra,Sindhudurg,Diarrheal,30,0,12-07-2023,12-07-2023
+2023,28,MH/YVT/2023/28/744,Maharashtra,Yavatmal,Diarrheal,76,0,12-07-2023,14-07-2023
+2023,29,MH/GAD/2023/29/795,Maharashtra,Gadchiroli,Dengue,44,0,19-07-2023,19-07-2023
+2023,29,MH/OSM/2023/29/796,Maharashtra,Osmanabad,Dengue,7,0,22-07-2023,22-07-2023
+2023,29,MH/TNE/2023/29/797,Maharashtra,Thane,Fever,12,0,12-07-2023,18-07-2023
+2023,30,MH/AMR/2023/30/833,Maharashtra,Amravati,Diarrheal,42,0,27-07-2023,28-07-2023
+2023,30,MH/AMR/2023/30/834,Maharashtra,Amravati,Leptospirosis,7,0,21-07-2023,24-07-2023
+2023,30,MH/BNR/2023/30/835,Maharashtra,Bhandara,Dengue,30,0,27-07-2023,27-07-2023
+2023,30,MH/NAG/2023/30/836,Maharashtra,Nagpur,Dengue,91,1,27-07-2023,28-07-2023
+2023,30,MH/OSM/2023/30/837,Maharashtra,Osmanabad,Dengue,9,0,26-07-2023,26-07-2023
+2023,30,MH/RGD/2023/30/838,Maharashtra,Raigad,Dengue,11,1,28-07-2023,28-07-2023
+2023,30,MH/BUL/2023/30/855,Maharashtra,Buldhana,Dengue,33,0,20-06-2023,21-06-2023
+2023,31,MH/AGB/2023/31/884,Maharashtra,Aurangabad,Dengue,11,0,03-08-2023,03-08-2023
+2023,31,MH/AGB/2023/31/885,Maharashtra,Aurangabad,Fever,4,1,28-07-2023,31-07-2023
+2023,31,MH/KOP/2023/31/886,Maharashtra,Kolhapur,Fever,24,1,04-08-2023,04-08-2023
+2023,31,MH/NAG/2023/31/887,Maharashtra,Nagpur,Fever,6,1,03-08-2023,03-08-2023
+2023,31,MH/OSM/2023/31/888,Maharashtra,Osmanabad,Fever,69,0,04-08-2023,05-08-2023
+2023,32,MH/GOD/2023/32/945,Maharashtra,Gondia,Malaria,64,1,29-07-2023,30-07-2023
+2023,32,MH/STA/2023/32/946,Maharashtra,Satara,Dengue,5,0,28-07-2023,29-07-2023
+2023,32,MH/YVT/2023/32/947,Maharashtra,Yavatmal,Diarrheal,41,0,05-08-2023,06-08-2023
+2023,33,MH/BED/2023/33/984,Maharashtra,Beed,Dengue,17,1,17-08-2023,17-08-2023
+2023,33,MH/BED/2023/33/985,Maharashtra,Beed,Dengue,7,1,17-08-2023,17-08-2023
+2023,33,MH/GAD/2023/33/986,Maharashtra,Gadchiroli,Malaria,2,1,18-08-2023,19-08-2023
+2023,33,MH/GAD/2023/33/987,Maharashtra,Gadchiroli,Dengue,34,0,17-08-2023,18-08-2023
+2023,33,MH/GAD/2023/33/988,Maharashtra,Gadchiroli,Dengue,11,0,17-08-2023,18-08-2023
+2023,33,MH/JLN/2023/33/989,Maharashtra,Jalna,Dengue,5,1,12-08-2023,18-08-2023
+2023,33,MH/THN/2023/33/990,Maharashtra,Thane,Leptospirosis,1,1,15-08-2023,18-08-2023
+2023,34,MH/AGB/2023/34/103,Maharashtra,Aurangabad,Dengue,19,0,24-08-2023,25-08-2023
+2023,34,MH/BNR/2023/34/103,Maharashtra,Bhandara,Diarrheal,49,0,24-08-2023,25-08-2023
+2023,34,MH/BNR/2023/34/104,Maharashtra,Bhandara,Malaria,4,2,21-08-2023,22-08-2023
+2023,34,MH/KOP/2023/34/104,Maharashtra,Kolhapur,Dengue,43,0,23-08-2023,24-08-2023
+2023,34,MH/PRB/2023/34/104,Maharashtra,Parbhani,Diarrheal,47,0,21-08-2023,25-08-2023
+2023,34,MH/MMS/2023/34/107,Maharashtra,unknown,Zika Virus,1,0,10-08-2023,11-08-2023
+2023,35,MH/GAD/2023/35/111,Maharashtra,Gadchiroli,Food Poisoning,2,0,28-08-2023,29-08-2023
+2023,35,MH/KOP/2023/35/111,Maharashtra,Kolhapur,Fever,19,0,28-08-2023,28-08-2023
+2023,35,MH/KOP/2023/35/111,Maharashtra,Kolhapur,Dengue,56,0,28-08-2023,28-08-2023
+2023,35,MH/NAN/2023/35/111,Maharashtra,Nanded,Encephalitic,21,1,01-09-2023,02-09-2023
+2023,35,MH/OSM/2023/35/111,Maharashtra,Osmanabad,Dengue,10,1,30-08-2023,31-08-2023
+2023,35,MH/OSM/2023/35/111,Maharashtra,Osmanabad,Dengue,18,0,30-08-2023,31-08-2023
+2023,35,MH/RGD/2023/35/111,Maharashtra,Raigad,Dengue,10,1,28-08-2023,01-09-2023
+2023,35,MH/SGL/2023/35/111,Maharashtra,Sangli,Diarrheal,173,0,28-08-2023,28-08-2023
+2023,35,MH/SIN/2023/35/112,Maharashtra,Sindhudurg,Malaria,15,0,28-08-2023,28-08-2023
+2023,35,MH/SHO/2023/35/112,Maharashtra,Solapur,Diarrheal,16,0,28-08-2023,29-08-2023
+2023,35,MH/WDH/2023/35/112,Maharashtra,Wardha,Food Poisoning,21,1,01-09-2023,02-09-2023
+2023,35,MH/WDH/2023/35/112,Maharashtra,Wardha,Fever,16,0,28-08-2023,28-08-2023
+2023,35,MH/WDH/2023/35/112,Maharashtra,Washim,Fever,5,0,26-08-2023,28-08-2023
+2023,35,MH/WDH/2023/35/112,Maharashtra,Washim,Fever,6,0,26-08-2023,28-08-2023
+2023,36,MH/AKL/2023/36/117,Maharashtra,Akola,Diarrheal,136,0,04-09-2023,06-09-2023
+2023,36,MH/KOP/2023/36/117,Maharashtra,Kolhapur,Zika Virus,3,0,04-09-2023,06-09-2023
+2023,36,MH/KOP/2023/36/118,Maharashtra,Kolhapur,Dengue,22,0,05-09-2023,05-09-2023
+2023,36,MH/PNE/2023/36/118,Maharashtra,Pune,Dengue,29,1,01-09-2023,04-09-2023
+2023,36,MH/WDH/2023/36/118,Maharashtra,Wardha,Food Poisoning,10,1,02-09-2023,07-09-2023
+2023,36,MH/YVT/2023/36/118,Maharashtra,Yavatmal,Dengue,7,0,09-09-2023,09-09-2023
+2023,37,MH/AMR/2023/37/122,Maharashtra,Amravati,Dengue,10,1,11-09-2023,12-09-2023
+2023,37,MH/BED/2023/37/123,Maharashtra,Beed,Fever,5,1,14-09-2023,14-09-2023
+2023,37,MH/BED/2023/37/123,Maharashtra,Beed,Dengue,5,1,11-09-2023,14-09-2023
+2023,37,MH/LTR/2023/37/123,Maharashtra,Latur,Dengue,4,0,11-09-2023,11-09-2023
+2023,37,MH/PRB/2023/37/123,Maharashtra,Parbhani,Dengue,24,1,11-09-2023,12-09-2023
+2023,37,MH/PNE/2023/37/123,Maharashtra,Pune,Chikungunya,9,0,08-09-2023,12-09-2023
+2023,37,MH/RGD/2023/37/123,Maharashtra,Raigad,Malaria,4,1,12-09-2023,15-09-2023
+2023,37,MH/RGD/2023/37/123,Maharashtra,Raigad,Dengue,3,1,09-09-2023,12-09-2023
+2023,37,MH/THN/2023/37/123,Maharashtra,Thane,Malaria,3,1,14-09-2023,16-09-2023
+2023,37,MH/WAS/2023/37/123,Maharashtra,Washim,Dengue,9,0,15-09-2023,15-09-2023
+2023,37,MH/JLN/2023/37/125,Maharashtra,Jalna,Dengue,6,1,04-09-2023,05-09-2023
+2023,38,MH/BED/2023/37/128,Maharashtra,Beed,Dengue,5,1,21-09-2023,22-09-2023
+2023,38,MH/CND/2023/37/128,Maharashtra,Chandrapur,Dengue,9,1,16-09-2023,20-09-2023
+2023,38,MH/CND/2023/37/128,Maharashtra,Chandrapur,Malaria,14,1,18-09-2023,18-09-2023
+2023,38,MH/JGA/2023/37/128,Maharashtra,Jalgaon,Dengue,40,1,15-09-2023,19-09-2023
+2023,38,MH/PRB/2023/37/128,Maharashtra,Parbhani,Dengue,13,1,21-09-2023,22-09-2023
+2023,38,MH/PRB/2023/37/129,Maharashtra,Parbhani,Dengue,6,1,20-09-2023,22-09-2023
+2023,38,MH/THN/2023/37/129,Maharashtra,Thane,Dengue,7,1,15-09-2023,23-09-2023
+2023,38,MH/THN/2023/37/129,Maharashtra,Thane,Dengue,5,1,22-09-2023,22-09-2023
+2023,38,MH/AGB/2023/37/130,Maharashtra,Aurangabad,Fever,14,1,14-09-2023,15-09-2023
+2023,38,MH/NAS/2023/37/130,Maharashtra,Nashik,Food Poisoning,40,0,12-09-2023,13-09-2023
+2023,39,MH/AGB/2023/39/133,Maharashtra,Aurangabad,Dengue,3,1,27-09-2023,28-09-2023
+2023,39,MH/BED/2023/39/133,Maharashtra,Beed,Dengue,10,0,29-09-2023,29-09-2023
+2023,39,MH/NAN/2023/39/133,Maharashtra,Nanded,Diarrheal,46,0,24-09-2023,26-09-2023
+2023,39,MH/THN/2023/39/134,Maharashtra,Thane,Dengue,6,1,12-09-2023,13-09-2023
+2023,40,MH/AMR/2023/40/138,Maharashtra,Amravati,Dengue,26,1,13-09-2023,05-10-2023
+2023,40,MH/BED/2023/40/138,Maharashtra,Beed,Dengue,5,1,14-09-2023,06-10-2023
+2023,40,MH/NAG/2023/40/138,Maharashtra,Nagpur,Dengue,89,1,15-09-2023,06-10-2023
+2023,40,MH/RGD/2023/40/138,Maharashtra,Raigad,Dengue,6,1,16-09-2023,06-10-2023
+2023,40,MH/SGL/2023/40/138,Maharashtra,Sangli,Zika Virus,1,0,17-09-2023,03-10-2023
+2023,40,MH/THN/2023/40/138,Maharashtra,Thane,Dengue,3,1,18-09-2023,04-10-2023
+2023,40,MH/THN/2023/40/138,Maharashtra,Thane,Dengue,7,1,19-09-2023,03-10-2023
+2023,40,MH/WAS/2023/40/138,Maharashtra,Washim,Diarrheal,75,0,20-09-2023,03-10-2023
+2023,40,MH/STA/2023/40/139,Maharashtra,Satara,Chikungunya,13,0,21-09-2023,22-09-2023
+2023,40,MH/THN/2023/40/140,Maharashtra,Thane,Fever,2,1,22-09-2023,23-09-2023
+2023,41,MH/AGB/2023/41/142,Maharashtra,Aurangabad,Dengue,4,1,23-09-2023,14-10-2023
+2023,41,MH/BUL/2023/41/143,Maharashtra,Buldhana,Dengue,24,0,24-09-2023,12-10-2023
+2023,41,MH/PNE/2023/41/143,Maharashtra,Pune,Dengue,59,1,25-09-2023,09-10-2023
+2023,41,MH/SHO/2023/41/143,Maharashtra,Solapur,Diarrheal,32,0,26-09-2023,13-10-2023
+2023,41,MH/YVT/2023/41/143,Maharashtra,Yavatmal,Diarrheal,27,0,27-09-2023,10-10-2023
+2023,42,MH/AGB/2023/42/147,Maharashtra,Aurangabad,Dengue,5,0,28-09-2023,16-10-2023
+2023,42,MH/BED/2023/42/147,Maharashtra,Beed,Dengue,5,1,29-09-2023,20-10-2023
+2023,42,MH/BED/2023/42/147,Maharashtra,Beed,Dengue,5,0,30-09-2023,17-10-2023
+2023,42,MH/DHL/2023/42/147,Maharashtra,Dhule,Dengue,12,1,01-10-2023,17-10-2023
+2023,42,MH/DHL/2023/42/148,Maharashtra,Dhule,Dengue,18,1,02-10-2023,16-10-2023
+2023,42,MH/GAD/2023/42/148,Maharashtra,Gadchiroli,Dengue,3,1,03-10-2023,21-10-2023
+2023,42,MH/KOP/2023/42/148,Maharashtra,Kolhapur,Chikungunya,145,0,04-10-2023,19-10-2023
+2023,42,MH/NAG/2023/42/148,Maharashtra,Nagpur,Dengue,9,1,05-10-2023,19-10-2023
+2023,42,MH/NAN/2023/42/148,Maharashtra,Nanded,Dengue,8,0,06-10-2023,18-10-2023
+2023,42,MH/NAN/2023/42/148,Maharashtra,Nanded,Dengue,6,0,07-10-2023,17-10-2023
+2023,42,MH/OSM/2023/42/148,Maharashtra,Osmanabad,Food Poisoning,11,1,08-10-2023,18-10-2023
+2023,42,MH/PRB/2023/42/148,Maharashtra,Parbhani,Dengue,19,1,09-10-2023,16-10-2023
+2023,42,MH/THN/2023/42/148,Maharashtra,Thane,Dengue,1,1,10-10-2023,21-10-2023
+2023,42,MH/NAN/2023/42/150,Maharashtra,Nanded,Dengue,11,0,11-10-2023,22-10-2023
+2023,42,MH/NAN/2023/42/150,Maharashtra,Nanded,Dengue,12,0,12-10-2023,23-10-2023
+2023,42,MH/NAN/2023/42/150,Maharashtra,Nanded,Food Poisoning,10,1,13-10-2023,24-10-2023
+2023,42,MH/THN/2023/42/151,Maharashtra,Thane,Dengue,10,0,14-10-2023,25-10-2023
+2023,43,MH/AKL/2023/43/153,Maharashtra,Akola,Dengue,8,0,15-10-2023,23-10-2023
+2023,43,MH/AKL/2023/43/153,Maharashtra,Akola,Dengue,9,1,16-10-2023,23-10-2023
+2023,43,MH/AMR/2023/43/153,Maharashtra,Amravati,Dengue,5,1,17-10-2023,23-10-2023
+2023,43,MH/AGB/2023/43/153,Maharashtra,Aurangabad,Dengue,17,1,18-10-2023,25-10-2023
+2023,43,MH/BED/2023/43/153,Maharashtra,Beed,Dengue,3,1,19-10-2023,26-10-2023
+2023,43,MH/BED/2023/43/153,Maharashtra,Beed,Dengue,1,1,20-10-2023,23-10-2023
+2023,43,MH/KOP/2023/43/153,Maharashtra,Kolhapur,Hepatitis-A,16,0,21-10-2023,25-10-2023
+2023,43,MH/OSM/2023/43/154,Maharashtra,Osmanabad,Dengue,6,0,22-10-2023,27-10-2023
+2023,43,MH/STA/2023/43/154,Maharashtra,Satara,Chikungunya,6,0,23-10-2023,25-10-2023
+2023,43,MH/YVT/2023/43/154,Maharashtra,Yavatmal,Diarrheal,43,0,24-10-2023,26-10-2023
+2023,44,MH/AMN/2023/44/157,Maharashtra,Ahmednagar,Dengue,26,1,25-10-2023,30-10-2023
+2023,44,MH/KOP/2023/44/157,Maharashtra,Kolhapur,Zika Virus,5,0,26-10-2023,02-11-2023
+2023,44,MH/NDB/2023/44/157,Maharashtra,Nandurbar,Dengue,11,0,27-10-2023,05-11-2023
+2023,44,MH/THN/2023/44/157,Maharashtra,Thane,Dengue,3,1,28-10-2023,02-11-2023
+2023,44,MH/NDB/2023/44/158,Maharashtra,Nandurbar,Dengue,16,0,29-10-2023,30-10-2023
+2023,45,MH/AMN/2023/45/161,Maharashtra,Ahmednagar,Diarrheal,179,0,30-10-2023,08-11-2023
+2023,45,MH/BED/2023/45/161,Maharashtra,Beed,Dengue,5,1,31-10-2023,09-11-2023
+2023,45,MH/NAG/2023/45/161,Maharashtra,Nagpur,Scrub Typhus,3,1,01-11-2023,09-11-2023
+2023,45,MH/NAN/2023/45/161,Maharashtra,Nanded,Dengue,10,0,02-11-2023,10-11-2023
+2023,45,MH/OSM/2023/45/161,Maharashtra,Osmanabad,Dengue,31,1,03-11-2023,09-11-2023
+2023,45,MH/SGL/2023/45/161,Maharashtra,Sangli,Dengue,6,0,04-11-2023,06-11-2023
+2023,45,MH/STA/2023/45/161,Maharashtra,Satara,Dengue,16,0,05-11-2023,08-11-2023
+2023,45,MH/BED/2023/45/163,Maharashtra,Beed,Dengue,5,1,06-11-2023,09-11-2023
+2023,45,MH/NAN/2023/45/163,Maharashtra,Nanded,Dengue,6,1,07-11-2023,10-11-2023
+2023,45,MH/NAN/2023/45/163,Maharashtra,Nanded,Dengue,12,0,08-11-2023,11-11-2023
+2023,47,MH/RGD/2023/47/168,Maharashtra,Raigad,Malaria,3,1,09-11-2023,25-11-2023
+2023,47,MH/WAS/2023/47/168,Maharashtra,Washim,Food Poisoning,16,0,10-11-2023,21-11-2023
+2023,47,MH/WAS/2023/47/168,Maharashtra,Washim,Food Poisoning,20,0,11-11-2023,21-11-2023
+2023,47,MH/NAS/2023/47/170,Maharashtra,Nashik,Dengue,13,1,12-11-2023,13-11-2023
+2023,48,MH/GAD/2023/48/172,Maharashtra,Gadchiroli,Malaria,4,1,12-11-2023,13-11-2023
+2023,49,MH/GAD/2023/49/175,Maharashtra,Gadchiroli,Malaria,10,1,14-11-2023,05-12-2023
+2023,49,MH/NAN/2023/49/175,Maharashtra,Nanded,Mumps,7,0,15-11-2023,06-12-2023
+2023,49,MH/PNE/2023/49/175,Maharashtra,Pune,Dengue,7,0,16-11-2023,04-12-2023
+2023,49,MH/THN/2023/49/175,Maharashtra,Thane,Dengue,8,1,17-11-2023,08-12-2023
+2023,49,MH/PNE/2023/49/176,Maharashtra,Pune,Dengue,7,0,18-11-2023,09-12-2023
+2023,50,MH/AMR/2023/50/178,Maharashtra,Amravati,Malaria,17,0,19-11-2023,11-12-2023
+2023,50,MH/AGB/2023/50/179,Maharashtra,Aurangabad,Diarrheal,40,0,20-11-2023,16-12-2023
+2023,50,MH/GAD/2023/50/179,Maharashtra,Gadchiroli,Malaria,6,1,21-11-2023,12-12-2023
+2023,50,MH/PLR/2023/50/179,Maharashtra,Palghar,Dengue,7,1,22-11-2023,11-12-2023
+2023,50,MH/NAS/2023/50/180,Maharashtra,Nashik,Zika Virus,1,0,23-11-2023,12-12-2023
+2023,51,MH/GAD/2023/51/182,Maharashtra,Gadchiroli,Food Poisoning,132,0,24-11-2023,20-12-2023
+2023,51,MH/JGA/2023/51/182,Maharashtra,Jalgaon,Diarrheal,62,0,25-11-2023,23-12-2023
+2023,51,MH/NAS/2023/51/182,Maharashtra,Nashik,Chikungunya,8,0,26-11-2023,20-12-2023
+2023,51,MH/RGD/2023/51/182,Maharashtra,Raigad,Dengue,1,1,27-11-2023,20-12-2023
+2023,51,MH/SGL/2023/51/183,Maharashtra,Sangli,Mumps,9,0,28-11-2023,18-12-2023
+2023,51,MH/STA/2023/51/183,Maharashtra,Satara,Chikungunya,5,0,29-11-2023,19-12-2023
+2022,2,MH/GAD/2022/02/004,Maharashtra,Gadchiroli,Malaria,7,2,10-01-2022,14-01-2022
+2022,6,MH/FAT/2022/06/026,Maharashtra,Gadchiroli,Malaria,1,1,09-02-2022,10-02-2022
+2022,9,MH/AKL/2022/09/052,Maharashtra,Akola,Food Poisoning,102,0,01-03-2022,02-03-2022
+2022,11,MH/AKL/2022/11/078,Maharashtra,Akola,Chickenpox,5,0,15-03-2022,17-03-2022
+2022,11,MH/AKL/2022/11/079,Maharashtra,Akola,Chikungunya,9,0,12-03-2022,17-03-2022
+2022,12,MH/RGD/2022/12/096,Maharashtra,Raigad,Dengue,11,0,21-03-2022,25-03-2022
+2022,13,MH/AKL/2022/13/113,Maharashtra,Akola,Chikungunya,3,0,29-03-2022,30-03-2022
+2022,16,MH/SHO/2022/16/154,Maharashtra,Solapur,Food Poisoning,31,0,17-04-2022,19-04-2022
+2022,19,MH/JGA/2022/19/248,Maharashtra,Jalgaon,Dengue,9,1,06-05-2022,11-05-2022
+2022,19,MH/NAS/2022/19/249,Maharashtra,Nashik,Chikungunya,6,0,09-05-2022,10-05-2022
+2022,19,MH/SIN/2022/19/271,Maharashtra,Sindhudurg,(PV),5,0,04-05-2022,05-05-2022
+2022,20,MH/PNE/2022/20/290,Maharashtra,Pune,Dengue,21,0,16-05-2022,17-05-2022
+2022,20,MH/PNE/2022/20/302,Maharashtra,Pune,Dengue,12,0,23-04-2022,24-04-2022
+2022,21,MH/CND/2022/21/32,Maharashtra,Chandrapur,Malaria,13,1,25-05-2022,25-05-2022
+2022,21,MH/LTR/2022/21/321,Maharashtra,Latur,Food Poisoning,42,0,25-05-2022,25-05-2022
+2022,21,MH/LTR/2022/21/322,Maharashtra,Latur,Food Poisoning,376,0,23-05-2022,23-05-2022
+2022,22,MH/GAD/2022/22/371,Maharashtra,Gadchiroli,Malaria,196,0,29-05-2022,31-05-2022
+2022,22,MH/GAD/2022/22/372,Maharashtra,Gadchiroli,Malaria,114,1,29-05-2022,30-05-2022
+2022,22,MH/NAG/2022/22/373,Maharashtra,Nagpur,Diarrheal,41,0,01-06-2022,02-06-2022
+2022,22,MH/PNE/2022/22/374,Maharashtra,Pune,Diarrheal,97,0,20-05-2022,31-05-2022
+2022,22,MH/STA/2022/22/375,Maharashtra,Satara,Chikungunya,5,0,31-05-2022,31-05-2022
+2022,23,MH/CND/2022/23/422,Maharashtra,Chandrapur,Malaria,3,1,04-06-2022,06-06-2022
+2022,23,MH/LTR/2022/23/423,Maharashtra,Latur,Diarrheal,21,0,07-06-2022,08-06-2022
+2022,23,MH/STA/2022/23/424,Maharashtra,Satara,Chikungunya,5,0,03-06-2022,07-06-2022
+2022,23,MH/YVT/2022/23/425,Maharashtra,Yavatmal,Food Poisoning,15,0,06-06-2022,08-06-2022
+2022,23,MH/JGA/2022/23/442,Maharashtra,Jalgaon,Chikungunya,9,0,23-05-2022,24-05-2022
+2022,24,MH/GOD/2022/24/459,Maharashtra,Gondia,Malaria,47,1,13-06-2022,15-06-2022
+2022,24,MH/NAG/2022/24/460,Maharashtra,Nagpur,Diarrheal,47,0,15-06-2022,16-06-2022
+2022,24,MH/WAS/2022/24/467,Maharashtra,Washim,Food Poisoning,30,0,30-04-2022,01-05-2022
+2022,25,MH/WAS/2022/25/478,Maharashtra,Pune,Dengue,7,0,17-05-2022,22-06-2022
+2022,25,MH/WAS/2022/25/479,Maharashtra,Sangli,Diarrheal,83,0,23-06-2022,24-06-2022
+2022,26,MH/CND/2022/26/507,Maharashtra,Chandrapur,Malaria,2,0,06-06-2022,07-06-2022
+2022,26,MH/SIN/2022/26/508,Maharashtra,Sindhudurg,Food Poisoning,7,0,15-06-2022,16-06-2022
+2022,27,MH/CND/2022/27/522,Maharashtra,Chandrapur,Diarrheal,45,0,04-07-2022,05-07-2022
+2022,28,MH/CND/2022/28/547,Maharashtra,Chandrapur,Malaria,4,0,11-07-2022,16-07-2022
+2022,28,MH/PNE/2022/28/555,Maharashtra,Pune,Food Poisoning,6,0,28-06-2022,29-06-2022
+2022,30,MH/WAS/2022/30/590,Maharashtra,Washim,Cholera,2,0,26-07-2022,28-07-2022
+2022,31,MH/AKL/2022/31/611,Maharashtra,Akola,Food Poisoning,4,0,01-08-2022,01-08-2022
+2022,32,MH/MED/2022/32/630,Maharashtra,Chandrapur,Diarrheal,37,0,04-08-2022,08-08-2022
+2022,32,MH/MED/2022/32/631,Maharashtra,Chandrapur,Diarrheal,5,1,01-08-2022,08-08-2022
+2022,34,MH/NAS/2022/34/669,Maharashtra,Nashik,Cholera,10,2,24-08-2022,26-08-2022
+2022,34,MH/YVT/2022/34/670,Maharashtra,Yavatmal,Diarrheal,12,0,25-08-2022,26-08-2022
+2022,35,MH/AMN/2022/35/707,Maharashtra,Ahmednagar,Dengue,3,0,17-08-2022,18-08-2022
+2022,35,MH/AMN/2022/35/708,Maharashtra,Ahmednagar,Food Poisoning,4,0,19-08-2022,20-08-2022
+2022,36,MH/YVT/2022/36/716,Maharashtra,Yavatmal,Diarrheal,64,0,08-09-2022,09-09-2022
+2022,38,MH/BNR/2022/38/766,Maharashtra,Bhandara,Mouth,19,0,20-09-2022,20-09-2022
+2022,38,MH/CND/2022/38/767,Maharashtra,Chandrapur,Dengue,17,0,19-09-2022,24-09-2022
+2022,38,MH/CND/2022/38/768,Maharashtra,Chandrapur,Malaria,14,1,22-09-2022,24-09-2022
+2022,38,MH/NAN/2022/38/769,Maharashtra,Nanded,Diarrheal,56,0,20-09-2022,21-09-2022
+2022,39,MH/AGB/2022/39/790,Maharashtra,Aurangabad,Food Poisoning,7,0,27-09-2022,27-09-2022
+2022,40,MH/PNE/2022/40/803,Maharashtra,Pune,Dengue,20,1,17-09-2022,07-10-2022
+2022,41,MH/PNE/2022/41/825,Maharashtra,Pune,Dengue,16,0,19-09-2022,20-09-2022
+2022,42,MH/AGB/2022/42/833,Maharashtra,Aurangabad,Diarrheal,20,0,16-10-2022,17-10-2022
+2022,42,MH/PNE/2022/42/834,Maharashtra,Pune,Dengue,10,0,23-09-2022,21-10-2022
+2022,42,MH/SGL/2022/42/835,Maharashtra,Sangli,Dengue,12,0,20-10-2022,20-10-2022
+2022,42,MH/PNE/2022/42/839,Maharashtra,Pune,Dengue,10,0,23-09-2022,24-09-2022
+2022,44,MH/NGP/2022/44/866,Maharashtra,Pune,Dengue,7,1,26-09-2022,01-11-2022
+2022,44,MH/NGP/2022/44/867,Maharashtra,Sangli,Dengue,36,1,29-10-2022,31-10-2022
+2022,45,MH/BNR/2022/45/889,Maharashtra,Bhandara,Food Poisoning,8,1,06-11-2022,10-11-2022
+2022,46,MH/LTR/2022/46/903,Maharashtra,Latur,Fever,20,0,14-11-2022,14-11-2022
+2022,46,MH/AGB/2022/46/912,Maharashtra,Aurangabad,Fever,24,0,11-11-2022,12-11-2022
+2022,46,MH/AGB/2022/46/913,Maharashtra,Aurangabad,Dengue,2,1,11-11-2022,12-11-2022
+2022,46,MH/DHL/2022/46/914,Maharashtra,Dhule,Dengue,4,1,31-10-2022,01-11-2022
+2022,46,MH/KOP/2022/46/915,Maharashtra,Kolhapur,Cholera,233,2,10-11-2022,11-11-2022
+2022,46,MH/NAS/2022/46/916,Maharashtra,Nashik,Cholera,58,0,31-10-2022,01-11-2022
+2022,46,MH/NAS/2022/46/917,Maharashtra,Nashik,Cholera,52,1,17-10-2022,18-10-2022
+2022,46,MH/PRB/2022/46/918,Maharashtra,Parbhani,Chikungunya,76,0,29-09-2022,30-09-2022
+2022,46,MH/THN/2022/46/919,Maharashtra,Thane,Dengue,1,1,28-10-2022,29-10-2022
+2022,47,MH/KOP/2022/47/927,Maharashtra,Kolhapur,Diarrheal,14,0,23-11-2022,23-11-2022
+2022,47,MH/KOP/2022/47/935,Maharashtra,Kolhapur,Dengue,5,1,01-11-2022,02-11-2022
+2022,49,MH/AMR/2022/49/980,Maharashtra,Amravati,Diarrheal,61,0,06-12-2022,07-12-2022
+2022,49,MH/KOP/2022/49/984,Maharashtra,Kolhapur,Dengue,32,0,28-10-2022,29-10-2022
+2022,49,MH/LTR/2022/49/985,Maharashtra,Latur,Fever,19,0,30-11-2022,01-12-2022
+2022,50,MH/KAJ/2022/50/995,Maharashtra,Nanded,Diarrheal,121,0,15-12-2022,15-12-2022
+2022,51,MH/AGB/2022/51/100,Maharashtra,Aurangabad,Measles,6,0,02-12-2022,03-12-2022
+2022,51,MH/KOP/2022/51/101,Maharashtra,Kolhapur,Diarrheal,16,0,07-12-2022,08-12-2022
+2022,51,MH/KOP/2022/51/101,Maharashtra,Kolhapur,Diarrheal,50,0,05-12-2022,06-12-2022
+2022,51,MH/RGD/2022/51/101,Maharashtra,Raigad,Leptospirosis,28,1,25-11-2022,26-11-2022
+2022,52,MH/KOP/2022/52/102,Maharashtra,Kolhapur,Diarrheal,44,2,28-12-2021,28-12-2021
+2021,1,MH/AMN/2021/01/000,Maharashtra,Ahmednagar,Food Poisoning,104,1,03-01-2021,04-01-2021
+2021,2,MH/GOD/2021/02/001,Maharashtra,Gondia,Diarrheal,194,0,07-01-2021,08-01-2021
+2021,2,MH/STA/2021/02/001,Maharashtra,Satara,Dengue,8,0,28-12-2020,29-12-2020
+2021,3,MH/GAD/2021/03/002,Maharashtra,Gadchiroli,Malaria,2,1,20-01-2021,21-01-2021
+2021,4,MH/GAD/2021/04/002,Maharashtra,Gadchiroli,Malaria,10,1,26-01-2021,27-01-2021
+2021,4,MH/KOP/2021/04/003,Maharashtra,Kolhapur,Food Poisoning,12,0,25-01-2021,30-01-2021
+2021,5,MH/STA/2021/05/004,Maharashtra,Satara,Chikungunya,20,0,25-01-2021,01-02-2021
+2021,5,MH/THN/2021/05/004,Maharashtra,Thane,Malaria,2,1,06-01-2021,01-02-2021
+2021,5,MH/STA/2021/05/005,Maharashtra,Satara,Dysentery,35,0,15-01-2021,02-02-2021
+2021,5,MH/STA/2021/05/005,Maharashtra,Satara,Dysentery,44,0,10-01-2021,03-02-2021
+2021,6,MH/STA/2021/06/006,Maharashtra,Satara,Chikungunya,19,0,05-02-2021,11-02-2021
+2021,6,MH/THN/2021/06/006,Maharashtra,Thane,Chikungunya,2,0,30-01-2021,31-01-2021
+2021,7,MH/STA/2021/07/008,Maharashtra,Satara,Dengue,19,0,16-12-2020,17-12-2020
+2021,8,MH/JGA/2021/08/009,Maharashtra,Jalgaon,Food Poisoning,81,0,17-02-2021,18-02-2021
+2021,10,MH/KOP/2021/10/011,Maharashtra,Kolhapur,Chikungunya,6,0,10-03-2021,10-03-2021
+2021,11,MH/BNR/2021/11/013,Maharashtra,Bhandara,Food Poisoning,88,1,15-03-2021,18-03-2021
+2021,12,MH/STA/2021/12/013,Maharashtra,Satara,Diarrheal,80,0,21-03-2021,24-03-2021
+2021,16,MH/STA/2021/16/017,Maharashtra,Satara,Dengue,7,0,15-04-2021,24-04-2021
+2021,16,MH/AMN/2021/16/017,Maharashtra,Ahmednagar,Chikungunya,3,1,23-03-2021,24-03-2021
+2021,16,MH/AMN/2021/16/017,Maharashtra,Ahmednagar,Chikungunya,13,0,04-04-2021,05-04-2021
+2021,16,MH/STA/2021/16/017,Maharashtra,Satara,Dengue,31,1,05-04-2021,06-04-2021
+2021,20,MH/NAS/2021/20/018,Maharashtra,Nashik,Chikungunya,6,0,19-05-2021,21-05-2021
+2021,20,MH/NAS/2021/20/019,Maharashtra,Nashik,Chikungunya,3,0,18-03-2021,19-03-2021
+2021,20,MH/NAS/2021/20/019,Maharashtra,Nashik,Chikungunya,5,0,17-03-2021,18-03-2021
+2021,20,MH/NAS/2021/20/019,Maharashtra,Nashik,Chikungunya,3,0,19-03-2021,20-03-2021
+2021,20,MH/PNE/2021/20/019,Maharashtra,Pune,Chikungunya,4,0,08-02-2021,09-02-2021
+2021,20,MH/PNE/2021/20/019,Maharashtra,Pune,Chikungunya,7,0,04-02-2021,05-02-2021
+2021,20,MH/PNE/2021/20/019,Maharashtra,Pune,Dengue,4,0,08-01-2021,09-01-2021
+2021,20,MH/PNE/2021/20/019,Maharashtra,Pune,Chikungunya,7,0,04-02-2021,05-02-2021
+2021,20,MH/PNE/2021/20/019,Maharashtra,Pune,Chikungunya,7,0,04-02-2021,05-02-2021
+2021,20,MH/THN/2021/20/019,Maharashtra,Thane,Dengue,2,1,29-04-2021,30-04-2021
+2021,22,MH/BNR/2021/22/020,Maharashtra,Bhandara,Diarrhoeal,108,0,03-06-2021,04-06-2021
+2021,22,MH/PNE/2021/22/020,Maharashtra,Pune,Chikungunya,6,0,01-06-2021,06-06-2021
+2021,23,MH/OSM/2021/23/021,Maharashtra,Osmanabad,Food Poisoning,7,1,02-06-2021,09-06-2021
+2021,24,MH/STA/2021/24/022,Maharastra,Karad,Food Poisoning,13,0,09-06-2021,10-06-2021
+2021,24,MH/STA/2021/24/023,Maharastra,Satara,Food Poisoning,15,0,08-06-2021,09-06-2021
+2021,24,MH/STA/2021/24/023,Maharastra,Satara,Food Poisoning,11,0,08-06-2021,09-06-2021
+2021,25,MH/NDB/2021/25/023,Maharashtra,Nandurbar,Diarrheal,36,0,19-06-2021,23-06-2021
+2021,25,MH/SIN/2021/25/023,Maharashtra,Sindhudurg,Food Poisoning,21,0,25-06-2021,25-06-2021
+2021,25,MH/SIN/2021/25/023,Maharashtra,Sindhudurg,Food Poisoning,41,0,24-06-2021,25-06-2021
+2021,25,MH/KOP/2021/25/024,Maharashtra,Kolhapur,Dengue,5,3,15-06-2021,16-06-2021
+2021,25,MH/PNE/2021/25/024,Maharashtra,Pune,Chikungunya,5,0,14-06-2021,15-06-2021
+2021,26,MH/AGB/2021/26/026,Maharashtra,Aurangabad,Food Poisoning,5,1,25-06-2021,26-06-2021
+2021,26,MH/NDB/2021/26/026,Maharashtra,Nandurbar,Diarrheal,7,0,19-06-2021,20-06-2021
+2021,26,MH/PNE/2021/26/026,Maharashtra,Pune,Dengue,6,0,24-06-2021,25-06-2021
+2021,27,MH/PLK/2021/27/027,Maharashtra,Ahmednagar,Chikungunya,11,0,07-07-2021,07-07-2021
+2021,27,MH/PLK/2021/27/027,Maharashtra,Amravati,Dengue,3,1,01-07-2021,05-07-2021
+2021,27,MH/PLK/2021/27/028,Maharashtra,Satara,Dengue,25,0,22-06-2021,23-06-2021
+2021,28,MH/AKL/2021/28/029,Maharashtra,Akola,Malaria,21,0,16-07-2021,16-07-2021
+2021,28,MH/AMR/2021/28/029,Maharashtra,Amravati,Dengue,5,0,12-07-2021,13-07-2021
+2021,28,MH/AMR/2021/28/029,Maharashtra,Amravati,Food Poisoning,4,1,11-07-2021,16-07-2021
+2021,28,MH/BED/2021/28/029,Maharashtra,Beed,Dysentery,135,0,16-07-2021,18-07-2021
+2021,28,MH/BNR/2021/28/029,Maharashtra,Bhandara,Fever/Dengue,7,1,26-06-2021,14-07-2021
+2021,28,MH/WAS/2021/28/030,Maharashtra,Washim,Fever,10,0,16-07-2021,16-07-2021
+2021,28,MH/NAG/2021/28/030,Maharashtra,Nagpur,Dengue,9,0,21-06-2021,22-06-2021
+2021,28,MH/NAG/2021/28/030,Maharashtra,Nagpur,Dengue,6,1,25-06-2021,26-06-2021
+2021,29,MH/CND/2021/29/032,Maharashtra,Chandrapur,Dengue,58,1,03-07-2021,04-07-2021
+2021,29,MH/NAG/2021/29/032,Maharashtra,Nagpur,Dengue,4,1,10-07-2021,11-07-2021
+2021,30,MH/NAG/2021/30/032,Maharashtra,Cachar,Food Poisoning,1,1,20-07-2021,29-07-2021
+2021,30,MH/NAG/2021/30/032,Maharashtra,Nagpur,Food Poisoning,1,1,15-07-2021,28-07-2021
+2021,30,MH/NAG/2021/30/032,Maharashtra,Lakhimpur,Encephalitis,1,1,22-07-2021,31-07-2021
+2021,30,MH/NAG/2021/30/032,Maharashtra,Nagaon,Food Poisoning,1,0,30-07-2021,31-07-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Udalguri,Japanese,1,0,27-07-2021,29-07-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Udalguri,Encephalitis,1,1,25-07-2021,29-07-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Kheda,Food Poisoning,24,0,29-07-2021,29-07-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Panchmahal,Food Poisoning,1,1,31-07-2021,02-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Panchkula,Cholera,521,1,13-07-2021,04-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Yamuna Nagar,Diarrheal,31,0,31-07-2021,02-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Ramban,Food Poisoning,95,1,27-07-2021,02-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Godda,Diarrheal,12,0,31-07-2021,01-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Ernakulam,Zika Virus,1,0,24-07-2021,02-08-2021
+2021,30,MH/NAG/2021/30/033,Maharashtra,Ahmednagar,Fever,7,0,26-07-2021,26-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Bhandara,Fever,6,0,19-07-2021,30-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Buldhana,Dengue,7,0,01-07-2021,28-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Chandrapur,Fever,69,2,19-07-2021,30-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Gadchiroli,Malaria,4,1,24-07-2021,26-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Jalgaon,Fever,12,0,20-07-2021,27-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Nashik,Chikungunya,53,0,18-06-2021,29-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Osmanabad,Dengue,4,0,23-07-2021,28-07-2021
+2021,30,MH/NAG/2021/30/034,Maharashtra,Pune,Chikungunya,5,0,22-07-2021,29-07-2021
+2021,30,MH/NAG/2021/30/034,Punjab,Mansa,Chickenpox,4,0,02-08-2021,02-08-2021
+2021,31,MH/AMR/2021/31/035,Maharashtra,Amravati,Dengue,13,2,11-07-2021,02-08-2021
+2021,31,MH/BED/2021/31/035,Maharashtra,Beed,Chikungunya,7,0,02-08-2021,03-08-2021
+2021,31,MH/CND/2021/31/035,Maharashtra,Chandrapur,Malaria,1,1,03-08-2021,07-08-2021
+2021,31,MH/CND/2021/31/036,Maharashtra,Chandrapur,Food Poisoning,1,0,16-07-2021,04-08-2021
+2021,31,MH/GAD/2021/31/036,Maharashtra,Gadchiroli,Malaria,28,1,31-07-2021,02-08-2021
+2021,31,MH/KOP/2021/31/036,Maharashtra,Kolhapur,Chikungunya,6,0,02-08-2021,04-08-2021
+2021,31,MH/RGD/2021/31/036,Maharashtra,Raigad,Leptospirosis,29,0,02-08-2021,04-08-2021
+2021,31,MH/THN/2021/31/036,Maharashtra,Thane,Leptospirosis,2,2,28-06-2021,05-08-2021
+2021,31,MH/CND/2021/31/037,Maharashtra,Chandrapur,Dengue,4,0,13-07-2021,14-07-2021
+2021,31,MH/RGD/2021/31/037,Maharashtra,Raigad,Dengue,18,0,11-06-2021,12-06-2021
+2021,31,MH/STA/2021/31/037,Maharashtra,Satara,Chikungunya,20,0,14-07-2021,15-07-2021
+2021,31,MH/STA/2021/31/037,Maharashtra,Satara,Dengue,6,0,16-07-2021,17-07-2021
+2021,31,MH/WDH/2021/31/037,Maharashtra,Wardha,Dengue,4,0,07-06-2021,08-06-2021
+2021,32,MH/KOP/2021/32/037,Maharashtra,Kolhapur,Diarrheal,215,0,10-08-2021,11-08-2021
+2021,32,MH/THN/2021/32/037,Maharashtra,Thane,Chikungunya,6,0,13-08-2021,13-08-2021
+2021,32,MH/OSM/2021/32/038,Maharashtra,Osmanabad,Dengue,3,0,20-07-2021,21-07-2021
+2021,32,MH/STA/2021/32/038,Maharashtra,Satara,Dengue,10,0,27-07-2021,28-07-2021
+2021,32,MH/RGD/2021/32/038,Maharashtra,Raigad,Leptospirosis,6,0,03-08-2021,04-08-2021
+2021,32,MH/RGD/2021/32/038,Maharashtra,Raigad,Leptospirosis,5,0,03-08-2021,04-08-2021
+2021,33,MH/CND/2021/33/039,Maharashtra,Chandrapur,Malaria,7,3,07-08-2021,17-08-2021
+2021,33,MH/STA/2021/33/039,Maharashtra,Satara,Hepatitis,19,0,10-08-2021,17-08-2021
+2021,33,MH/THN/2021/33/039,Maharashtra,Thane,Dengue,5,0,17-08-2021,20-08-2021
+2021,33,MH/YVT/2021/33/039,Maharashtra,Yavatmal,Food Poisoning,40,0,16-08-2021,18-08-2021
+2021,34,MH/AMR/2021/34/041,Maharashtra,Amravati,Dengue,22,3,18-08-2021,19-08-2021
+2021,34,MH/PNE/2021/34/041,Maharashtra,Pune,Chikungunya,7,0,13-08-2021,14-08-2021
+2021,34,MH/STA/2021/34/041,Maharashtra,Satara,Dengue,9,0,13-08-2021,14-08-2021
+2021,34,MH/STA/2021/34/041,Maharashtra,Satara,Dengue,6,0,13-08-2021,14-08-2021
+2021,35,MH/AKL/2021/35/042,Maharashtra,Akola,Dengue,3,0,13-08-2021,14-08-2021
+2021,35,MH/AMR/2021/35/043,Maharashtra,Amravati,FoodFood PoisoningPoisoning,18,3,13-08-2021,14-08-2021
+2021,35,MH/PNE/2021/35/043,Maharashtra,Pune,Dengue,23,0,13-08-2021,14-08-2021
+2021,35,MH/PNE/2021/35/043,Maharashtra,Pune,Chikungunya,42,0,13-08-2021,14-08-2021
+2021,36,MH/JGA/2021/36/045,Maharashtra,Jalgaon,Dengue,54,1,13-08-2021,14-08-2021
+2021,38,MH/AGB/2021/38/047,Maharashtra,Aurangabad,Food Poisoning,14,1,19-09-2021,22-09-2021
+2021,38,MH/JGA/2021/38/047,Maharashtra,Jalgaon,Food Poisoning,12,0,18-09-2021,21-09-2021
+2021,38,MH/NDB/2021/38/047,Maharashtra,Nandurbar,Food Poisoning,17,1,21-09-2021,23-09-2021
+2021,38,MH/GAD/2021/38/048,Maharashtra,Gadchiroli,Scrub Typhus,18,1,06-09-2021,24-09-2021
+2021,39,MH/OSM/2021/39/049,Maharashtra,Osmanabad,Chikungunya,15,0,18-09-2021,19-09-2021
+2021,40,MH/BED/2021/40/051,Maharashtra,Beed,Food Poisoning,19,0,03-10-2021,05-10-2021
+2021,40,MH/GAD/2021/40/052,Maharashtra,Gadchiroli,Dengue,4,1,04-10-2021,05-10-2021
+2021,40,MH/THN/2021/40/052,Maharashtra,Thane,Leptospirosis,2,1,04-10-2021,07-10-2021
+2021,40,MH/CND/2021/40/053,Maharashtra,Chandrapur,Dengue,7,0,16-08-2021,17-08-2021
+2021,40,MH/CND/2021/40/053,Maharashtra,Chandrapur,Food Poisoning,6,1,30-08-2021,31-08-2021
+2021,40,MH/CND/2021/40/053,Maharashtra,Chandrapur,Malaria,9,0,22-08-2021,23-08-2021
+2021,40,MH/OSM/2021/40/053,Maharashtra,Osmanabad,Chikungunya,5,1,29-09-2021,30-09-2021
+2021,41,MH/BED/2021/41/054,Maharashtra,Beed,Dengue,6,0,13-10-2021,14-10-2021
+2021,42,MH/BED/2021/42/057,Maharashtra,Beed,Fever,10,1,19-10-2021,22-10-2021
+2021,42,MH/THN/2021/42/058,Maharashtra,Thane,Dengue,5,1,01-10-2021,02-10-2021
+2021,43,MH/BED/2021/43/059,Maharashtra,Beed,Fever,6,1,27-10-2021,30-10-2021
+2021,43,MH/GAD/2021/43/059,Maharashtra,Gadchiroli,Malaria,10,1,25-10-2021,27-10-2021
+2021,43,MH/KOP/2021/43/059,Maharashtra,Kolhapur,Diarrheal,103,0,26-10-2021,27-10-2021
+2021,43,MH/THN/2021/43/060,Maharashtra,Thane,Dengue,5,1,01-10-2021,02-10-2021
+2021,44,MH/GAD/2021/44/060,Maharashtra,Gadchiroli,Malaria,1,1,01-11-2021,02-11-2021
+2021,44,MH/THN/2021/44/061,Maharashtra,Thane,Dengue,1,1,31-10-2021,03-11-2021
+2021,45,MH/KOP/2021/45/062,Maharashtra,Kolhapur,Cholera,66,0,08-11-2021,11-11-2021
+2021,45,MH/STA/2021/45/062,Maharashtra,Satara,Chikungunya,5,0,07-11-2021,12-11-2021
+2021,45,MH/STA/2021/45/063,Maharashtra,Satara,Dengue,14,0,16-10-2021,17-10-2021
+2021,46,MH/KOP/2021/46/064,Maharashtra,Kolhapur,Cholera,3,0,12-11-2021,17-11-2021
+2021,46,MH/RGD/2021/46/064,Maharashtra,Raigad,Malaria,19,0,11-11-2021,17-11-2021
+2021,46,MH/ADK/2021/46/065,Uttar,Pradesh,Rubella,6,0,11-11-2021,17-11-2021
+2021,47,MH/NAN/2021/47/066,Maharashtra,Nanded,Food Poisoning,250,0,23-11-2021,24-11-2021
+2021,47,MH/NAN/2021/47/066,Maharashtra,Nanded,Chikungunya,9,0,23-11-2021,28-11-2021
+2021,47,MH/THN/2021/47/066,Maharashtra,Thane,Dengue,1,1,01-11-2021,25-11-2021
+2021,48,MH/KOP/2021/48/067,Maharashtra,Kolhapur,Food Poisoning,5,0,03-12-2021,05-12-2021
+2021,48,MH/RGD/2021/48/068,Maharashtra,Raigad,Leptospirosis,12,0,13-11-2021,14-11-2021
+2021,48,MH/SIN/2021/48/068,Maharashtra,Sindhudurg,Food Poisoning,4,0,24-11-2021,25-11-2021
+2021,49,MH/AKL/2021/49/069,Maharashtra,Akola,Chikungunya,10,0,07-12-2021,07-12-2021
+2021,49,MH/KOP/2021/49/069,Maharashtra,Kolhapur,Diarrheal,29,0,08-12-2021,11-12-2021
+2021,50,MH/KOP/2021/50/070,Maharashtra,Kolhapur,Chikungunya,6,0,17-12-2021,12-12-2021
+2021,50,MH/STA/2021/50/071,Maharashtra,Satara,Dengue,10,0,14-09-2021,15-09-2021
+2021,50,MH/STA/2021/50/071,Maharashtra,Satara,Chikungunya,8,0,15-08-2021,16-08-2021
+2021,50,MH/STA/2021/50/071,Maharashtra,Satara,Dengue,3,0,25-08-2021,26-08-2021
+2021,50,MH/STA/2021/50/071,Maharashtra,Satara,Dengue,5,0,26-10-2021,27-10-2021
+2021,51,MH/KOP/2021/51/071,Maharashtra,Kolhapur,Diarrheal,12,1,20-12-2021,22-12-2021
+2021,52,MH/PBT/2021/52/072,Maharashtra,Jalgaon,Fever,13,0,28-12-2021,31-12-2021
+2020,3,MH/KOP/2020/03/003,Maharashtra,Kolhapur,Chikungunya,11,0,16-01-2020,17-01-2020
+2020,4,MH/KOP/2020/04/005,Maharashtra,Kolhapur,Dengue,2,1,18-01-2020,23-01-2020
+2020,4,MH/CND/2020/04/007,Maharashtra,Chandrapur,Malaria,23,1,16-01-2020,17-01-2020
+2020,5,MH/AMR/2020/05/008,Maharashtra,Amravati,Diarrhoeal,11,0,01-02-2020,02-02-2020
+2020,5,MH/KOP/2020/05/008,Maharashtra,Kolhapur,Food Poisoning,9,0,30-01-2020,30-01-2020
+2020,5,MH/KOP/2020/05/008,Maharashtra,Kolhapur,Chikungunya,2,0,29-01-2020,30-01-2020
+2020,5,MH/STA/2020/05/009,Maharashtra,Satara,Dengue,6,0,18-01-2020,19-01-2020
+2020,5,MH/THN/2020/05/009,Maharashtra,Thane,Dengue,6,0,20-01-2020,21-01-2020
+2020,6,MH/PPM/2020/06/011,Maharashtra,Papumpare,Chickenpox,8,0,31-01-2020,01-02-2020
+2020,6,MH/NYG/2020/06/011,Maharashtra,Nayagarh,Food Poisoning,5,1,31-01-2020,01-02-2020
+2020,6,MH/NAB/2020/06/011,Maharashtra,Nabarangpur,Chickenpox,13,0,31-01-2019,01-02-2019
+2020,6,MH/BRN/2020/06/011,Maharashtra,Barnala,Chickenpox,20,0,10-02-2020,11-02-2020
+2020,7,MH/BNR/2020/07/014,Maharashtra,Bhandara,Chickenpox,10,0,31-01-2020,01-02-2020
+2020,7,MH/BNR/2020/07/014,Maharashtra,Bhandara,Chickenpox,6,0,28-01-2020,29-01-2020
+2020,7,MH/BNR/2020/07/014,Maharashtra,Bhandara,Food Poisoning,106,0,06-01-2020,07-01-2020
+2020,7,MH/KOP/2020/07/014,Maharashtra,Kolhapur,Diarrheal,56,0,06-02-2020,07-02-2020
+2020,7,MH/RGD/2020/07/014,Maharashtra,Raigad,Food Poisoning,5,0,29-01-2020,30-01-2020
+2020,8,MH/JGA/2020/08/016,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,9,MH/AMN/2020/0 Maha,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,9,MH/SIN/2020/09/ Ma,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,9,MH/SIN/2020/09/ Ma,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,10,MH/AGB/2020/10/024,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,10,MH/BNR/2020/10/024,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,10,MH/YVT/2020/10/024,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,11,MH/LTR/2020/11/025,Maharashtra,Jalgaon,Diarrheal,20,0,19-02-2020,21-02-2020
+2020,14,MH/AKL/2020/14/257,Maharashtra,Akola,Chickenpox,10,0,30-03-2020,30-03-2020
+2020,16,MH/CND/2020/16/270,Maharashtra,Chandrapur,Food Poisoning,40,0,11-04-2020,14-04-2020
+2020,16,MH/GAD/2020/16/272,Maharashtra,Gadchiroli,Malaria,14,1,03-04-2020,04-04-2020
+2020,17,MH/KOP/2020/17/279,Maharashtra,Kolhapur,Dengue,4,0,21-04-2020,22-04-2020
+2020,17,MH/KOP/2020/17/280,Maharashtra,Kolhapur,Diarrheal,607,0,21-04-2020,22-04-2020
+2020,18,MH/RTG/2020/18/295,Maharashtra,Ratnagiri,Food Poisoning,7,0,28-03-2020,29-04-2020
+2020,18,MH/CND/2020/18/298,Maharashtra,Chandrapur,Malaria,35,2,07-04-2020,08-04-2020
+2020,21,MH/AMR/2020/21/321,Maharashtra,Amravati,Dengue,10,0,17-05-2020,20-05-2020
+2020,21,MH/KOP/2020/21/322,Maharashtra,Kolhapur,Chikungunya,17,0,19-05-2020,19-05-2020
+2020,21,MH/CND/2020/21/326,Maharashtra,Chandrapur,Food Poisoning,42,0,14-05-2020,15-05-2020
+2020,21,MH/CND/2020/21/327,Maharashtra,Chandrapur,Chikungunya,54,0,14-05-2020,15-05-2020
+2020,22,MH/CND/2020/22/329,Maharashtra,Chandrapur,Dengue,5,0,23-05-2020,30-05-2020
+2020,22,MH/WAS/2020/22/330,Maharashtra,Washim,Dengue,6,0,22-04-2020,28-05-2020
+2020,22,MH/BNR/2020/22/334,Maharashtra,Bhandara,Viral Fever,24,0,18-05-2020,19-05-2020
+2020,23,MH/KOP/2020/23/336,Maharashtra,Kolhapur,Cholera,199,0,01-06-2020,03-06-2020
+2020,23,MH/CND/2020/23/340,Maharashtra,Chandrapur,Food Poisoning,5,0,27-05-2020,28-05-2020
+2020,24,MH/BNR/2020/24/343,Maharashtra,Bhandra,Fever,3,1,10-06-2020,13-06-2020
+2020,24,MH/GAD/2020/24/349,Maharashtra,Gadchiroli,Food Poisoning,1,1,31-05-2020,01-06-2020
+2020,25,MH/CND/2020/25/351,Maharashtra,Chandrapur,Hepatitis,28,0,14-06-2020,18-06-2020
+2020,26,MH/KOP/2020/26/355,Maharashtra,Kolhapur,Diarrheal,39,0,21-06-2020,28-06-2020
+2020,27,MH/JGA/2020/27/361,Maharashtra,Jalgaon,Diarrhoeal,74,0,28-06-2020,02-07-2020
+2020,27,MH/KOP/2020/27/362,Maharashtra,Kolhapur,Food Poisoning,48,0,28-06-2020,29-06-2020
+2020,28,MH/AMN/2020/28/373,Maharashtra,Ahmednagar,Diarrhoeal,14,0,02-07-2020,03-07-2020
+2020,29,MH/AMN/2020/29/374,Maharashtra,Dhemaji,Food Poisoning,1,1,12-07-2020,15-07-2020
+2020,29,MH/AMN/2020/29/375,Maharashtra,Lakhimpur,Food Poisoning,1,0,10-07-2020,19-07-2020
+2020,29,MH/AMN/2020/29/376,Maharashtra,Mumbai,Diarrhoeal,42,1,12-07-2020,14-07-2020
+2020,29,MH/AMN/2020/29/377,Maharashtra,Nadu,Diarrhoeal,18,0,13-07-2020,13-07-2020
+2020,29,MH/AMN/2020/29/378,Maharashtra,Nadu,Hepatitis,16,0,19-07-2020,22-07-2020
+2020,29,MH/AMN/2020/29/379,Maharashtra,Mumbai,Food Poisoning,1,1,04-07-2020,05-07-2020
+2020,29,MH/AMN/2020/29/380,Maharashtra,Kokrajhar,Food Poisoning,1,0,26-06-2020,27-06-2020
+2020,29,MH/AMN/2020/29/381,Maharashtra,Kokrajhar,Food Poisoning,3,2,28-06-2020,29-06-2020
+2020,29,MH/AMN/2020/29/382,Maharashtra,Marigaon,Food Poisoning,3,1,29-06-2020,30-06-2020
+2020,29,MH/AMN/2020/29/383,Maharashtra,Kozhikode,Dengue,20,0,15-06-2020,16-06-2020
+2020,29,MH/AMN/2020/29/384,Maharashtra,Mumbai,Food Poisoning,70,0,30-06-2020,01-07-2020
+2020,31,MH/GAD/2020/31/397,Maharashtra,Gadchiroli,Malaria,3,1,18-07-2020,28-07-2020
+2020,31,MH/GAD/2020/31/398,Maharashtra,Gadchiroli,Malaria,2,1,19-07-2020,28-07-2020
+2020,31,MH/GAD/2020/31/399,Maharashtra,Gadchiroli,Malaria,5,1,26-07-2020,28-07-2020
+2020,36,MH/AMR/2020/36/426,Maharashtra,Amravati,Diarrhoeal,68,0,24-08-2020,31-08-2020
+2020,36,MH/DMO/2020/36/428,Maharashtra,Damoh,Leptospirosis,1,1,20-08-2020,04-09-2020
+2020,40,MH/AMR/2020/40/441,Maharashtra,Amravati,Dengue,5,0,24-09-2020,29-09-2020
+2020,44,MH/CND/2020/44/456,Maharashtra,Chandrapur,Food Poisoning,11,0,27-09-2020,29-10-2020
+2020,44,MH/GAD/2020/44/457,Maharashtra,Gadchiroli,Malaria,8,1,23-10-2020,26-10-2020
+2020,45,MH/KOP/2020/45/465,Maharashtra,Kolhapur,Chikungunya,11,0,20-07-2020,21-07-2020
+2020,46,MH/AMN/2020/46/474,Maharashtra,Ahmednagar,Chikungunya,40,0,03-11-2020,03-11-2020
+2020,46,MH/AMN/2020/46/475,Maharashtra,Ahmednagar,Chikungunya,25,0,03-11-2020,03-11-2020
+2020,46,MH/SIN/2020/46/476,Maharashtra,Mumbai,Leptospirosis,17,1,02-11-2020,02-11-2020
+2020,47,MH/SIN/2020/47/479,Maharashtra,Mumbai,Leptospirosis,1,1,09-11-2020,09-11-2020
+2020,47,MH/SIN/2020/47/482,Maharashtra,Mumbai,Leptospirosis,1,1,10-11-2020,10-11-2020
+2020,48,MH/RTG/2020/48/486,Maharashtra,Ratnagiri,Cholera,65,0,23-11-2020,23-11-2020
+2020,48,MH/NAS/2020/48/488,Maharashtra,Nashik,Chikungunya,32,0,06-11-2020,06-11-2020
+2020,48,MH/OSM/2020/48/489,Maharashtra,Osmanabad,Dengue,9,0,11-11-2020,11-11-2020
+2020,48,MH/OSM/2020/48/490,Maharashtra,Osmanabad,Food Poisoning,7,0,31-10-2020,31-10-2020
+2020,48,MH/PNE/2020/48/491,Maharashtra,Pune,Dengue,16,1,18-11-2020,18-11-2020
+2020,48,MH/PNE/2020/48/492,Maharashtra,Pune,Chikungunya,7,0,27-10-2020,27-10-2020
+2020,48,MH/SIN/2020/48/493,Maharashtra,Mumbai,Leptospirosis,1,1,12-11-2020,12-11-2020
+2020,48,MH/STA/2020/48/494,Maharashtra,Satara,Dengue,30,0,04-11-2020,04-11-2020
+2020,48,MH/STA/2020/48/495,Maharashtra,Satara,Chikungunya,5,0,09-11-2020,09-11-2020
+2020,48,MH/WDH/2020/48/496,Maharashtra,Wardha,Dengue,4,0,22-10-2020,22-10-2020
+2020,49,MH/AKL/2020/49/499,Maharashtra,Akola,Food Poisoning,40,0,02-12-2020,02-12-2020
+2020,49,MH/STA/2020/49/500,Maharashtra,Satara,Chikungunya,7,0,24-11-2020,24-11-2020
+2020,49,MH/PNE/2020/49/502,Maharashtra,Pune,Dengue,5,0,01-06-2020,01-06-2020
+2020,49,MH/STA/2020/49/503,Maharashtra,Satara,Dengue,27,0,13-11-2020,13-11-2020
+2020,50,MH/NAS/2020/50/504,Maharashtra,Nashik,Chikungunya,8,0,04-12-2020,11-12-2020
+2020,52,MH/AMN/2020/52/518,Maharashtra,Ahmednagar,Chikungunya,14,0,18-12-2020,21-12-2020
+2020,52,MH/NAS/2020/52/519,Maharashtra,Nashik,Chikungunya,9,0,18-12-2020,21-12-2020
+2020,52,MH/KOP/2020/52/525,Maharashtra,Kolhapur,Diarrheal,72,0,07-12-2020,07-12-2020
+2020,52,MH/STA/2020/52/526,Maharashtra,Satara,Diarrheal,116,0,07-12-2020,07-12-2020
+2020,53,MH/AMR/2020/53/528,Maharashtra,Amravati,Diarrheal,53,0,28-12-2020,31-12-2020
+2020,53,MH/BED/2020/53/535,Maharashtra,Beed,Chikungunya,10,0,16-10-2020,31-12-2020
+2020,53,MH/BED/2020/53/536,Maharashtra,Beed,Fever,41,0,07-12-2020,31-12-2020
+2020,53,MH/BED/2020/53/537,Maharashtra,Beed,Chikungunya,15,0,16-09-2020,31-12-2020
+2020,53,MH/PRB/2020/53/538,Maharashtra,Parbhani,Diarrheal,66,0,05-10-2020,31-12-2020
+2020,53,MH/PRB/2020/53/539,Maharashtra,Parbhani,Fever,30,1,27-10-2020,31-12-2020
+2020,53,MH/THN/2020/53/540,Maharashtra,Thane,Leptospirosis,4,1,12-11-2020,29-12-2020
+2019,1,MH/SIN/2019/01/37,Maharashtra,Sindhudurg,Diarrheal,11,0,26-12-2018,26-12-2018
+2019,2,MH/GAD/2019/02/051,Maharashtra,Gadchiroli,Malaria,3,1,07-01-2019,07-01-2019
+2019,2,MH/AKL/2019/02/059,Maharashtra,Purnia,Measles,6,0,08-01-2019,08-01-2019
+2019,2,MH/NAS/2019/02/064,Maharashtra,Nashik,Dengue,27,1,28-10-2018,28-10-2018
+2019,3,MH/AMN/2019/03/007,Maharashtra,Ahmednagar,Food Poisoning,29,0,12-01-2019,12-01-2019
+2019,4,MH/THN/2019/04/010,Maharashtra,Thane,Dengue,9,1,15-01-2019,15-01-2019
+2019,9,MH/KOP/2019/09/022,Maharashtra,Kolhapur,Dengue,7,1,27-02-2019,01-03-2019
+2019,13,MH/RTG/2019/13/032,Maharashtra,Ratnagiri,Diarrheal,45,0,30-03-2019,31-03-2019
+2019,15,MH/AKL/2019/15/037,Maharashtra,Akola,Food Poisoning,111,0,14-04-2019,14-04-2019
+2019,15,MH/AMR/2019/15/037,Maharashtra,Amravati,Food Poisoning,15,0,11-04-2019,11-04-2019
+2019,18,MH/AMN/2019/18/046,Maharashtra,Ahmednagar,Food Poisoning,14,0,02-05-2019,04-05-2019
+2019,18,MH/GAD/2019/18/046,Maharashtra,Gadchiroli,Food Poisoning,31,0,30-04-2019,02-05-2019
+2019,18,MH/SIN/2019/18/046,Maharashtra,Sindhudurg,Food Poisoning,1,1,29-04-2019,30-04-2019
+2019,18,MH/YVT/2019/18/046,Maharashtra,Yavatmal,Food Poisoning,32,0,02-05-2019,03-05-2019
+2019,19,MH/AMR/2019/19/048,Maharashtra,Amravati,Food Poisoning,86,0,11-05-2019,11-05-2019
+2019,20,MH/AMR/2019/20/052,Maharashtra,Amravati,Food Poisoning,24,0,18-05-2019,18-05-2019
+2019,22,MH/AMR/2019/22/057,Maharashtra,Amravati,Chickenpox,11,0,30-05-2019,30-05-2019
+2019,22,MH/RGD/2019/22/057,Maharashtra,Raigad,Diarrheal,53,0,01-06-2019,02-06-2019
+2019,23,MH/ERN/2019/23/062,Maharashtra,Buldhana,Diarrheal,48,0,19-05-2019,19-05-2019
+2019,23,MH/ERN/2019/23/062,Maharashtra,Palaghar,Dengue,8,0,24-05-2019,24-05-2019
+2019,23,MH/ERN/2019/23/062,Maharashtra,Raigad,Dengue,24,0,20-05-2019,20-05-2019
+2019,24,MH/JGA/2019/24/064,Maharashtra,Jalgaon,Shigellosis,32,0,08-06-2019,08-06-2019
+2019,24,MH/SGL/2019/24/064,Maharashtra,Sangli,Malaria,7,0,04-06-2019,04-06-2019
+2019,24,MH/CND/2019/24/068,Maharashtra,Chandrapur,Diarrheal,142,0,05-06-2019,05-06-2019
+2019,24,MH/SGL/2019/24/068,Maharashtra,Sangli,Dengue,12,0,29-05-2019,29-05-2019
+2019,24,MH/SGL/2019/24/068,Maharashtra,Sangli,Chikungunya,10,0,13-05-2019,13-05-2019
+2019,24,MH/SIN/2019/24/068,Maharashtra,Sindhudurg,Hepatitis,16,0,25-05-2019,25-05-2019
+2019,25,MH/PWM/2019/25/069,Pulwama,Chickenpox,Food Poisoning,11,0,20-06-2019,21-06-2019
+2019,25,MH/SGL/2019/25/070,Maharashtra,Sangli,Diarrheal,58,0,20-06-2019,21-06-2019
+2019,25,MH/KOP/2019/25/072,Maharashtra,Kolhapur,Dengue,7,0,15-06-2019,15-06-2019
+2019,25,MH/STA/2019/25/072,Maharashtra,Satara,Dengue,6,0,28-05-2019,28-05-2019
+2019,26,MH/GAD/2019/26/074,Maharashtra,Gadchiroli,Diarrheal,11,0,24-06-2019,24-06-2019
+2019,26,MH/RGD/2019/26/074,Maharashtra,Raigad,Dengue,15,0,26-06-2019,26-06-2019
+2019,26,MH/RTG/2019/26/074,Maharashtra,Ratnagiri,Diarrheal,26,0,26-06-2019,26-06-2019
+2019,26,MH/NAG/2019/26/077,Maharashtra,Nagpur,Food Poisoning,13,0,17-06-2019,17-06-2019
+2019,26,MH/MMB/2019/26/074,Maharashtra,Mumbai,Food Poisoning,207,0,27-04-2019,27-04-2019
+2019,27,MH/AMN/2019/27/081,Maharashtra,Ahmednagar,Fever,4,1,26-06-2019,26-06-2019
+2019,27,MH/BED/2019/27/081,Maharashtra,Beed,Food Poisoning,74,0,11-06-2019,11-06-2019
+2019,28,MH/AMR/2019/28/083,Maharashtra,Amravati,Diarrheal,16,0,08-07-2019,12-07-2019
+2019,28,MH/NAG/2019/28/083,Maharashtra,Nagpur,Encephalitis,2,2,08-07-2019,11-07-2019
+2019,28,MH/NAS/2019/28/083,Maharashtra,Nashik,Food Poisoning,21,0,06-07-2019,09-07-2019
+2019,28,MH/SIN/2019/28/083,Maharashtra,Sindhudurg,Food Poisoning,1,1,06-07-2019,09-07-2019
+2019,28,MH/CND/2019/28/085,Maharashtra,Chandrapur,AES/JE,101,10,01-07-2019,01-07-2019
+2019,28,MH/THN/2019/28/085,Maharashtra,Thane,Dengue,5,1,01-07-2019,01-07-2019
+2019,29,MH/CND/2019/29/087,Maharashtra,Chandrapur,Food Poisoning,6,1,13-07-2019,13-07-2019
+2019,29,MH/CND/2019/29/087,Maharashtra,Chandrapur,Food Poisoning,23,1,17-07-2019,17-07-2019
+2019,29,MH/GAD/2019/29/087,Maharashtra,Gadchiroli,Diarrheal,24,0,15-07-2019,15-07-2019
+2019,29,MH/KOP/2019/29/090,Maharashtra,Kolhapur,Scrub Typhus,4,0,16-07-2019,17-07-2019
+2019,29,MH/STA/2019/29/091,Maharashtra,Satara,Dengue,28,0,03-06-2019,03-06-2019
+2019,29,MH/THN/2019/29/091,Maharashtra,Thane,Food Poisoning,5,1,28-06-2019,28-06-2019
+2019,29,MH/WDH/2019/29/091,Maharashtra,Wardha,Food Poisoning,14,2,04-07-2019,04-07-2019
+2019,30,MH/PLR/2019/30/093,Maharashtra,Palaghar,Diarrheal,9,0,19-07-2019,22-07-2019
+2019,32,MH/NAG/2019/32/099,Maharashtra,Nagpur,Diarrheal,12,0,05-08-2019,07-08-2019
+2019,33,MH/NAG/2019/33/101,Maharashtra,Nagpur,Encephalitis,1,1,13-08-2019,16-08-2019
+2019,34,MH/CND/2019/34/105,Maharashtra,Chandrapur,Diarrheal,84,0,18-08-2019,21-08-2019
+2019,34,MH/KOP/2019/34/105,Maharashtra,Kolhapur,Dengue,2,1,18-08-2019,20-08-2019
+2019,34,MH/AMR/2019/34/107,Maharashtra,Amravati,Food Poisoning,6,0,13-08-2019,13-08-2019
+2019,34,MH/CND/2019/34/107,Maharashtra,Chandrapur,Malaria,83,0,12-08-2019,12-08-2019
+2019,34,MH/STA/2019/34/107,Maharashtra,Satara,Dengue,15,0,10-08-2019,10-08-2019
+2019,35,MH/AMN/2019/35/109,Maharashtra,Ahmednagar,Dengue,40,0,26-08-2019,29-08-2019
+2019,35,MH/KOP/2019/35/109,Maharashtra,Kolhapur,Dengue,5,1,25-08-2019,31-08-2019
+2019,35,MH/KOP/2019/35/109,Maharashtra,Kolhapur,Malaria,3,0,29-08-2019,31-08-2019
+2019,35,MH/NAG/2019/35/109,Maharashtra,Nagpur,Dengue,23,1,28-08-2019,31-08-2019
+2019,35,MH/WDH/2019/35/109,Maharashtra,Wardha,Food Poisoning,1,1,23-08-2019,30-08-2019
+2019,35,MH/AMN/2019/35/112,Maharashtra,Ahmednagar,Dengue,32,0,20-08-2019,20-08-2019
+2019,35,MH/PLR/2019/35/112,Maharashtra,Palaghar,Dengue,143,0,11-08-2019,11-08-2019
+2019,35,MH/WDH/2019/35/112,Maharashtra,Wardha,Encephalitis,9,1,16-08-2019,16-08-2019
+2019,36,MH/PLR/2019/36/114,Maharashtra,Palaghar,Food Poisoning,9,2,29-08-2019,03-09-2019
+2019,36,MH/AMR/2019/36/116,Maharashtra,Amravati,Scrub Typhus,1,1,22-08-2019,22-08-2019
+2019,36,MH/PLR/2019/36/116,Maharashtra,Palaghar,Food Poisoning,5,1,24-08-2019,24-08-2019
+2019,36,MH/STA/2019/36/116,Maharashtra,Satara,Dengue,6,0,30-07-2019,30-07-2019
+2019,36,MH/THN/2019/36/116,Maharashtra,Thane,Dengue,61,4,20-07-2019,20-07-2019
+2019,36,MH/THN/2019/36/116,Maharashtra,Thane,Dengue,4,1,16-08-2019,16-08-2019
+2019,36,MH/THN/2019/36/116,Maharashtra,Thane,Malaria,7,1,21-08-2019,21-08-2019
+2019,37,MH/PRB/2019/37/118,Maharashtra,Parbhani,Dengue,32,1,07-09-2019,12-09-2019
+2019,37,MH/SIN/2019/37/118,Maharashtra,Sindhudurg,Food Poisoning,8,0,05-09-2019,11-09-2019
+2019,37,MH/AGB/2019/37/119,Maharashtra,Aurangabad,Dengue,53,1,03-09-2019,03-09-2019
+2019,37,MH/THN/2019/37/119,Maharashtra,Thane,Dengue,6,1,30-08-2019,30-08-2019
+2019,38,MH/AGB/2019/38/122,Maharashtra,Aurangabad,Dengue,67,3,12-09-2019,12-09-2019
+2019,38,MH/JLN/2019/38/122,Maharashtra,Jalna,Dengue,9,1,06-09-2019,06-09-2019
+2019,38,MH/STA/2019/38/122,Maharashtra,Satara,Dengue,26,0,27-08-2019,27-08-2019
+2019,39,MH/AMN/2019/39/124,Maharashtra,Ahmednagar,Dengue,20,0,25-09-2019,27-09-2019
+2019,39,MH/KOP/2019/39/125,Maharashtra,Kolhapur,Dengue,6,0,25-09-2019,27-09-2019
+2019,39,MH/KOP/2019/39/125,Maharashtra,Kolhapur,Hepatitis,10,0,25-09-2019,27-09-2019
+2019,39,MH/NDB/2019/39/125,Maharashtra,Nandurbar,Dengue,26,2,21-09-2019,25-09-2019
+2019,39,MH/WDH/2019/39/125,Maharashtra,Wardha,Food Poisoning,12,1,21-09-2019,23-09-2019
+2019,39,MH/WDH/2019/39/125,Maharashtra,Wardha,Food Poisoning,6,0,19-09-2019,26-09-2019
+2019,39,MH/OSM/2019/39/126,Maharashtra,Osmanabad,Chikungunya?,46,0,10-09-2019,10-09-2019
+2019,39,MH/PNE/2019/39/126,Maharashtra,Pune,Dengue,44,0,01-09-2019,01-09-2019
+2019,39,MH/SIN/2019/39/127,Maharashtra,Mumbai,Scrub,5,0,04-09-2019,04-09-2019
+2019,40,MH/JGA/2019/40/128,Maharashtra,Jalgaon,Dengue,42,1,27-09-2019,03-10-2019
+2019,40,MH/NDB/2019/40/128,Maharashtra,Nandurbar,Dengue,26,0,30-09-2019,03-10-2019
+2019,40,MH/PNE/2019/40/128,Maharashtra,Pune,Diarrheal,45,0,29-09-2019,04-10-2019
+2019,40,MH/AMR/2019/40/130,Maharashtra,Amravati,Food Poisoning,4,0,25-09-2019,25-09-2019
+2019,40,MH/PLR/2019/40/130,Maharashtra,Palaghar,Leptospirosis,1,1,25-09-2019,25-09-2019
+2019,40,MH/PNE/2019/40/130,Maharashtra,Pune,Dengue,82,0,03-08-2019,03-08-2019
+2019,41,MH/BNR/2019/41/132,Maharashtra,Bhandara,Encephalitis,4,1,03-07-2019,03-07-2019
+2019,41,MH/PNE/2019/41/132,Maharashtra,Pune,Dengue,2,0,08-08-2019,08-08-2019
+2019,41,MH/SGL/2019/41/132,Maharashtra,Sangli,Dengue,33,2,13-09-2019,13-09-2019
+2019,42,MH/AMN/2019/42/134,Maharashtra,Ahmednagar,Dengue,27,1,12-10-2019,17-10-2019
+2019,42,MH/GAD/2019/42/137,Maharashtra,Gadchiroli,JE,1,1,07-10-2019,07-10-2019
+2019,42,MH/LTR/2019/42/137,Maharashtra,Latur,Food Poisoning,13,0,28-08-2019,28-08-2019
+2019,42,MH/LTR/2019/42/137,Maharashtra,Latur,Dengue,28,0,15-07-2019,15-07-2019
+2019,42,MH/LTR/2019/42/137,Maharashtra,Latur,Dengue,9,0,03-09-2019,03-09-2019
+2019,42,MH/RGD/2019/42/137,Maharashtra,Raigad,Diarrheal,32,0,23-09-2019,23-09-2019
+2019,43,MH/SGL/2019/43/139,Maharashtra,Sangli,Cholera,111,3,22-10-2019,22-10-2019
+2019,43,MH/JGA/2019/43/142,Maharashtra,Jalgaon,Dengue,26,1,14-10-2019,14-10-2019
+2019,43,MH/NAG/2019/43/142,Maharashtra,Nagpur,Diarrheal,15,0,08-08-2019,08-08-2019
+2019,43,MH/NAS/2019/43/142,Maharashtra,Nashik,Cholera,289,0,17-10-2019,17-10-2019
+2019,43,MH/SHO/2019/43/142,Maharashtra,Sholapur,Dengue,10,0,14-10-2019,14-10-2019
+2019,44,MH/BUL/2019/44/144,Maharashtra,Buldhana,Dengue,98,0,24-10-2019,02-11-2019
+2019,44,MH/THN/2019/44/145,Maharashtra,Thane,Dengue,25,0,10-09-2019,10-09-2019
+2019,45,MH/PNE/2019/45/149,Maharashtra,Pune,Food Poisoning,4,0,25-10-2019,25-10-2019
+2019,45,MH/SGL/2019/45/149,Maharashtra,Sangli,Cholera,112,0,01-11-2019,01-11-2019
+2019,45,MH/SGL/2019/45/149,Maharashtra,Sangli,Diarrheal,67,0,31-10-2019,31-10-2019
+2019,45,MH/SHO/2019/45/150,Maharashtra,Sholapur,Dengue,11,1,20-09-2019,20-09-2019
+2019,45,MH/SIN/2019/45/150,Maharashtra,Sindhudurgspirosis,Food Poisoning,14,5,20-10-2019,20-10-2019
+2019,46,MH/AMN/2019/46/151,Maharashtra,Ahmednagar,Food Poisoning,11,0,15-11-2019,15-11-2019
+2019,46,MH/BNR/2019/46/151,Maharashtra,Bhandara,Diarrheal,19,0,07-11-2019,07-11-2019
+2019,46,MH/BNR/2019/46/152,Maharashtra,Bhandara,Food Poisoning,17,0,18-09-2019,18-09-2019
+2019,46,MH/JGA/2019/46/153,Maharashtra,Jalgaon,Dengue,8,1,24-10-2019,24-10-2019
+2019,46,MH/KOP/2019/46/153,Maharashtra,Kolhapur,Dengue,7,2,19-10-2019,19-10-2019
+2019,47,MH/BED/2019/47/156,Maharashtra,Beed,Dengue,16,0,13-11-2019,13-11-2019
+2019,48,MH/KOP/2019/48/157,Maharashtra,Kolhapur,Chikungunya,8,0,25-11-2019,25-11-2019
+2019,48,MH/KOP/2019/48/159,Maharashtra,Kolhapur,Food Poisoning,17,0,13-11-2019,13-11-2019
+2019,49,MH/KOP/2019/49/162,Maharashtra,Kolhapur,Diarrheal,24,0,28-11-2019,28-11-2019
+2019,49,MH/PLR/2019/49/162,Maharashtra,Palaghar,Dengue,16,0,22-11-2019,22-11-2019
+2019,49,MH/RGD/2019/49/162,Maharashtra,Raigad,Food Poisoning,13,0,29-11-2019,29-11-2019
+2019,50,MH/AMN/2019/50/162,Maharashtra,Ahmednagar,Food Poisoning,4,2,06-12-2019,06-12-2019
+2019,51,MH/AKL/2019/51/164,Maharashtra,Akola,Mumps,26,0,19-12-2019,19-12-2019
+2019,51,MH/CND/2019/51/166,Maharashtra,Chandrapur,Malaria,10,1,11-12-2019,11-12-2019
+2019,51,MH/CND/2019/51/166,Maharashtra,Chandrapur,Dengue,34,2,07-10-2019,07-10-2019
+2019,51,MH/KOP/2019/51/166,Maharashtra,Kolhapur,Chikungunya,7,0,13-12-2019,13-12-2019
+2018,1,MH/GAD/2018/01/000,Maharashtra,Gadchiroli,Malaria,13,1,31-12-2017,02-01-2018
+2018,1,MH/NAG/2018/01/000,Maharashtra,Nagpur,Measles,5,0,29-12-2017,03-01-2018
+2018,1,MH/RTG/2018/01/001,Maharashtra,Ratnagiri,Hepatitis,177,0,01-01-2018,01-01-2018
+2018,1,MH/STA/2018/01/002,Maharashtra,Satara,Chikungunya,9,0,17-11-2017,17-11-2017
+2018,1,MH/STA/2018/01/002,Maharashtra,Satara,Dengue,40,0,04-12-2017,04-12-2017
+2018,2,MH/LTR/2018/02/003,Maharashtra,Latur,Diarrheal,41,0,18-12-2017,18-12-2017
+2018,2,MH/OSM/2018/02/003,Maharashtra,Osmanabad,Chikungunya,17,0,11-12-2017,11-12-2017
+2018,3,MH/GAD/2018/03/005,Maharashtra,Gadchiroli,Chikungunya,27,0,19-01-2018,20-01-2018
+2018,3,MH/NAN/2018/03/006,Maharashtra,Nanded,Diarrheal,73,0,27-12-2017,27-12-2017
+2018,4,MH/JLN/2018/04/009,Maharashtra,Jalna,Dengue,11,0,16-01-2018,16-01-2018
+2018,4,MH/NAS/2018/04/009,Maharashtra,Nashik,Measles,26,0,17-01-2018,17-01-2018
+2018,5,MH/BNR/2018/05/010,Maharashtra,Bhandara,Measles,94,0,26-01-2018,29-01-2018
+2018,5,MH/YVT/2018/05/012,Maharashtra,Yavatma,Measles,21,0,19-01-2018,19-01-2018
+2018,6,MH/JLN/2018/06/017,Maharashtra,Jalna,Chikunguniya,20,0,26-01-2018,26-01-2018
+2018,6,MH/SIN/2018/06/017,Maharashtra,Mumbai,Chikunguniya,5,0,15-01-2018,15-01-2018
+2018,7,MH/AMR/2018/07 Und,Maharashtra,Amravati,Measles,16,0,06-02-2018,06-02-2018
+2018,8,MH/PLR/2018/08/021,Maharashtra,Palaghar,Measles,143,0,18-02-2018,20-02-2018
+2018,8,MH/STA/2018/08/022,Maharashtra,Satara,Measles,5,0,21-02-2018,23-02-2018
+2018,9,MH/AKL/2018/09/025,Maharashtra,Akola,Chickenpox,27,0,27-02-2018,28-02-2018
+2018,10,MH/AMN/2018/10/299,Maharashtra,Ahmednagar,Measles,11,0,27-02-2018,27-02-2018
+2018,10,MH/NAS/2018/10/300,Maharashtra,Nashik,Dengue,4,1,21-02-2018,21-02-2018
+2018,11,MH/JLN/2018/11/333,Maharashtra,Jalna,Measles,12,0,23-02-2018,23-02-2018
+2018,11,MH/JLN/2018/11/334,Maharashtra,Jalna,Measles,6,0,28-02-2018,28-02-2018
+2018,11,MH/JLN/2018/11/335,Maharashtra,Jalna,Measles,9,0,23-02-2018,23-02-2018
+2018,12,MH/PLR/2018/12/348,Maharashtra,Palaghar,Measles,11,0,15-03-2018,19-03-2018
+2018,12,MH/SIN/2018/12/364,Maharashtra,Mumbai,Measles,5,2,11-03-2018,12-03-2018
+2018,13,MH/RTG/2018/13/387,Maharashtra,Ratnagiri,Measles,9,0,26-03-2018,26-03-2018
+2018,13,MH/BNR/2018/13/401,Maharashtra,Bhandara,Food Poisoning,4,0,14-03-2018,14-03-2018
+2018,13,MH/JLN/2018/13/402,Maharashtra,Jalna,Measles,9,0,10-03-2018,10-03-2018
+2018,13,MH/JLN/2018/13/403,Maharashtra,Jalna,Measles,111,0,01-03-2018,01-03-2018
+2018,13,MH/JLN/2018/13/404,Maharashtra,Jalna,Measles,12,0,10-03-2018,10-03-2018
+2018,14,MH/HIN/2018/14/445,Maharashtra,Hingoli,Dengue,17,0,20-01-2018,20-01-2018
+2018,15,MH/AKL/2016/15/080,Maharashtra,Akola,Food Poisoning,22,0,16-04-2016,16-04-2016
+2018,15,MH/KOP/2016/15/082,Maharashtra,Kolhapur,Dengue,29,0,05-04-2016,05-04-2016
+2018,15,MH/THN/2016/15/082,Maharashtra,Thane,Diarrheal,638,0,12-01-2016,12-01-2016
+2018,15,MH/THN/2016/15/083,Maharashtra,Thane,Jaundice,16,0,18-03-2016,18-03-2016
+2018,17,MH/AKL/2018/17/580,Maharashtra,Akola,Measles,18,0,04-04-2018,04-04-2018
+2018,17,MH/AKL/2018/17/581,Maharashtra,Akola,Cholera,13,0,17-04-2018,17-04-2018
+2018,17,MH/JLN/2018/17/582,Maharashtra,Jalna,Dengue,18,1,02-04-2018,02-04-2018
+2018,17,MH/SGL/2018/17/583,Maharashtra,Sangli,Diarrheal,47,0,13-04-2018,13-04-2018
+2018,18,MH/AKL/2018/18/607,Maharashtra,Akola,Food Poisoning,19,0,03-05-2018,03-05-2018
+2018,18,MH/AMR/2018/18/608,Maharashtra,Amravati,Food Poisoning,9,1,27-04-2018,01-05-2018
+2018,18,MH/YVT/2018/18/609,Maharashtra,Yavatmal,Food Poisoning,6,0,28-04-2018,03-05-2018
+2018,18,MH/AMN/2018/18/622,Maharashtra,Ahmednagar,Dengue,16,0,17-04-2018,18-04-2018
+2018,19,MH/AMR/2018/19/636,Maharashtra,Amravati,Diarrheal,21,0,08-05-2018,09-05-2018
+2018,19,MH/PLR/2018/19/637,Maharashtra,Palaghar,Diarrheal,19,0,03-05-2018,07-05-2018
+2018,20,MH/OSM/2018/20/665,Maharashtra,Osmanabad,Dengue,11,0,11-05-2018,15-05-2018
+2018,20,MH/RTG/2018/20/666,Maharashtra,Ratnagiri,Food Poisoning,20,0,18-05-2018,19-05-2018
+2018,20,MH/LTR/2018/20/685,Maharashtra,Latur,Diarrheal,120,0,21-04-2018,21-04-2018
+2018,20,MH/NAN/2018/20/686,Maharashtra,Nanded,Diarrheal,56,0,26-04-2018,26-04-2018
+2018,20,MH/NAS/2018/20/687,Maharashtra,Nashik,Chikungunya,66,0,17-04-2018,17-04-2018
+2018,21,MH/PLR/2018/21/709,Maharashtra,Palaghar,Diarrheal,59,0,17-05-2018,17-05-2018
+2018,21,MH/STA/2018/21/718,Maharashtra,Satara,Diarrhoeal,36,2,14-05-2018,14-05-2018
+2018,21,MH/STA/2018/21/719,Maharashtra,Satara,Diarrhoeal,52,0,14-05-2018,14-05-2018
+2018,22,MH/JGA/2018/22/745,Maharashtra,Jalgaon,Measles,15,0,24-05-2018,24-05-2018
+2018,22,MH/KOP/2018/22/746,Maharashtra,Kolhapur,Food Poisoning,63,0,24-05-2018,24-05-2018
+2018,22,MH/NAN/2018/22/747,Maharashtra,Nanded,Diarrheal,34,0,25-05-2018,25-05-2018
+2018,22,MH/KOP/2018/22/765,Maharashtra,Kolhapur,Chikungunya,9,0,23-01-2018,23-01-2018
+2018,23,MH/PRB/2018/23/790,Maharashtra,Parbhani,Acute,35,0,03-06-2018,03-06-2018
+2018,23,MH/STA/2018/23/814,Maharashtra,Satara,Chikungunya,9,0,11-05-2018,11-05-2018
+2018,24,MH/AKL/2018/24/841,Maharashtra,Akola,Measles,6,0,14-06-2018,14-06-2018
+2018,24,MH/NAN/2018/24/855,Maharashtra,Nanded,Diarrheal,38,0,04-06-2018,04-06-2018
+2018,24,MH/SGL/2018/24/856,Maharashtra,Sangli,Dengue,14,0,19-05-2018,19-05-2018
+2018,24,MH/GAD/2018/24/857,Maharashtra,Gadchiroli,Food Poisoning,3,2,23-05-2018,23-05-2018
+2018,25,MH/JLN/2018/25/883,Maharashtra,Jalna,Diarrheal,62,0,17-06-2018,17-06-2018
+2018,25,MH/KOP/2018/25/884,Maharashtra,Kolhapur,Diarrheal,45,0,21-06-2018,21-06-2018
+2018,25,MH/RGD/2018/25/885,Maharashtra,Raigad,Food Poisoning,88,5,19-06-2018,19-06-2018
+2018,25,MH/KOP/2018/25/904,Maharashtra,Kolhapur,Dengue,5,1,10-06-2018,10-06-2018
+2018,25,MH/SHO/2018/25/905,Maharashtra,Sholapur,Dengue,7,1,19-05-2018,19-05-2018
+2018,26,MH/AKL/2018/26/924,Maharashtra,Akola,Diarrheal,13,0,27-06-2018,27-06-2018
+2018,26,MH/AMR/2018/26/925,Maharashtra,Amravati,Cholera,27,0,21-06-2018,21-06-2018
+2018,26,MH/AMR/2018/26/926,Maharashtra,Amravati,Diarrheal,32,0,27-06-2018,27-06-2018
+2018,26,MH/PLR/2018/26/927,Maharashtra,Palaghar,Dengue,10,0,25-06-2018,25-06-2018
+2018,26,MH/THN/2018/26/928,Maharashtra,Thane,Food Poisoning,16,0,29-06-2018,29-06-2018
+2018,27,MH/NAS/2018/27/961,Maharashtra,Nashik,Diarrheal,75,0,08-07-2018,08-07-2018
+2018,27,MH/KOP/2018/27/978,Maharashtra,Kolhapur,Dengue,69,0,13-06-2018,13-06-2018
+2018,27,MH/NAS/2018/27/979,Maharashtra,Nashik,Chikungunya,137,0,05-05-2018,05-05-2018
+2018,27,MH/NAS/2018/27/980,Maharashtra,Nashik,Food Poisoning,28,0,08-06-2018,08-06-2018
+2018,27,MH/PNE/2018/27/981,Maharashtra,Pune,Chikungunya,18,0,14-04-2018,14-04-2018
+2018,27,MH/SGL/2018/27/982,Maharashtra,Sangli,Dengue,10,1,25-06-2018,25-06-2018
+2018,27,MH/STA/2018/27/983,Maharashtra,Satara,Dengue,26,0,08-06-2018,08-06-2018
+2018,28,MH/BNR/2018/28/100,Maharashtra,Bhandara,Food Poisoning,1,1,29-06-2018,29-06-2018
+2018,28,MH/KOP/2018/28/100,Maharashtra,Kolhapur,Food Poisoning,7,0,09-07-2018,09-07-2018
+2018,28,MH/LTR/2018/28/100,Maharashtra,Latur,Food Poisoning,11,0,04-07-2018,04-07-2018
+2018,28,MH/NAS/2018/28/100,Maharashtra,Nashik,Diarrheal,61,0,10-07-2018,10-07-2018
+2018,28,MH/RGD/2018/28/100,Maharashtra,Raigad,Diarrheal,50,0,12-07-2018,12-07-2018
+2018,29,MH/GAD/2018/29/103,Maharashtra,Gadchiroli,Malaria,15,1,14-07-2018,14-07-2018
+2018,29,MH/NAS/2018/29/103,Maharashtra,Nashik,Chikungunya,28,0,12-07-2018,12-07-2018
+2018,29,MH/YVT/2018/29/103,Maharashtra,Yavatmal,Diarrheal,15,0,11-07-2018,11-07-2018
+2018,29,MH/CND/2018/29/107,Maharashtra,Chandrapur,Dengue,35,0,10-07-2018,10-07-2018
+2018,29,MH/CND/2018/29/107,Maharashtra,Chandrapur,Food Poisoning,49,0,07-05-2018,07-05-2018
+2018,29,MH/CND/2018/29/107,Maharashtra,Chandrapur,Food Poisoning,83,0,05-05-2018,05-05-2018
+2018,29,MH/CND/2018/29/107,Maharashtra,Chandrapur,Dengue,77,0,15-05-2018,15-05-2018
+2018,29,MH/SGL/2018/29/107,Maharashtra,Sangli,Dengue,13,0,01-07-2018,01-07-2018
+2018,29,MH/SIN/2018/29/107,Maharashtra,Sindhudurg,Hepatitis,7,0,10-07-2018,10-07-2018
+2018,30,MH/CND/2018/30/109,Maharashtra,Chandrapur,Diarrheal,22,0,18-07-2018,18-07-2018
+2018,30,MH/AMR/2018/30/109,Maharashtra,Amravati,Diarrheal,9,1,23-07-2018,23-07-2018
+2018,30,MH/AMN/2018/30/111,Maharashtra,Ahmednagar,Diarrheal,82,0,03-07-2018,03-07-2018
+2018,30,MH/SIN/2018/30/111,Maharashtra,Sindhudurg,Leptospirosis,4,0,04-07-2018,04-07-2018
+2018,31,MH/RTG/2018/31/112,Maharashtra,Ratnagiri,Food Poisoning,10,0,26-07-2018,26-07-2018
+2018,31,MH/THN/2018/31/112,Maharashtra,Thane,Food Poisoning,22,0,01-08-2018,01-08-2018
+2018,31,MH/NAS/2018/31/113,Maharashtra,Nashik,Chikungunya,73,0,11-06-2018,11-06-2018
+2018,31,MH/KOP/2018/27/978,Maharashtra,Kolhapur,Dengue,170,2,03-08-2018,03-08-2018
+2018,31,MH/NAS/2018/27/961,Maharashtra,Nashik,Cholera,195,0,04-08-2018,04-08-2018
+2018,35,MH/GAD/2018/35/120,Maharashtra,Gadchiroli,Diarrheal,62,2,23-08-2018,23-08-2018
+2018,35,MH/AGB/2018/35/120,Maharashtra,Aurangabad,Dengue,4,1,24-08-2018,24-08-2018
+2018,35,MH/AMR/2018/35/120,Maharashtra,Amravati,Food Poisoning,17,0,25-08-2018,25-08-2018
+2018,35,MH/STA/2018/35/120,Maharashtra,Satara,Chikungunya,7,0,27-08-2018,27-08-2018
+2018,35,MH/STA/2018/35/122,Maharashtra,Satara,Chikungunya,7,0,13-08-2018,13-08-2018
+2018,35,MH/STA/2018/35/122,Maharashtra,Satara,Dengue,13,0,21-08-2018,21-08-2018
+2018,36,MH/JGA/36/1233 Mah,Maharashtra,Jalgaon,Cholera,32,2,09-09-2018,09-09-2018
+2018,39,MH/AKL/2018/39/128,Maharashtra,Akola,Food Poisoning,49,0,25-09-2018,25-09-2018
+2018,39,MH/STA/2018/39/132,Maharashtra,Satara,Food Poisoning,23,0,29-08-2018,29-08-2018
+2018,40,MH/BED/2018/40/132,Maharashtra,Beed,Dengue,10,1,29-09-2018,29-09-2018
+2018,40,MH/PNE/2018/40/133,Maharashtra,Pune,Chikungunya,33,0,28-08-2018,28-08-2018
+2018,40,MH/PNE/2018/40/133,Maharashtra,Pune,Dengue,51,0,06-08-2018,06-08-2018
+2018,40,MH/PNE/2018/40/133,Maharashtra,Pune,Food Poisoning,110,0,29-08-2018,29-08-2018
+2018,40,MH/STA/2018/40/134,Maharashtra,Satara,Chikungunya,16,0,13-08-2018,13-08-2018
+2018,40,MH/STA/2018/40/134,Maharashtra,Satara,Dengue,39,0,21-08-2018,21-08-2018
+2018,40,MH/STA/2018/40/134,Maharashtra,Satara,Food Poisoning,22,0,11-09-2018,11-09-2018
+2018,40,MH/WDH/2018/40/134,Maharashtra,Wardha,Dengue,62,2,01-08-2018,01-08-2018
+2018,41,MH/AMR/2018/41/135,Maharashtra,Amravati,Measles,13,0,01-10-2018,01-10-2018
+2018,42,MH/BED/2018/42/137,Maharashtra,Beed,Fever,13,1,11-10-2018,11-10-2018
+2018,42,MH/NDB/2018/42/137,Maharashtra,Nandurbar,Cholera,43,1,15-10-2018,15-10-2018
+2018,42,MH/AMR/2018/42/138,Maharashtra,Amravati,Diarrheal,17,0,25-09-2018,25-09-2018
+2018,42,MH/RGD/2018/42/138,Maharashtra,Raigad,Food Poisoning,32,0,15-08-2018,15-08-2018
+2018,43,MH/AMR/2018/43/139,Maharashtra,Amravati,Food Poisoning,9,0,22-10-2018,22-10-2018
+2018,43,MH/YVT/2018/43/139,Maharashtra,Yavatmal,Diarrheal,45,0,19-10-2018,19-10-2018
+2018,43,MH/YVT/2018/43/139,Maharashtra,Yavatmal,Food Poisoning,24,0,20-10-2018,20-10-2018
+2018,44,MH/AMN/2018/44/142,Maharashtra,Ahmednagar,Rubella,13,0,24-10-2018,24-10-2018
+2018,44,MH/AMR/2018/44/142,Maharashtra,Amravati,Fever,17,0,01-11-2018,01-11-2018
+2018,44,MH/AMR/2018/44/142,Maharashtra,Amravati,Diarrheal,17,0,02-11-2018,02-11-2018
+2018,44,MH/AMR/2018/44/142,Maharashtra,Amravati,Dengue,17,0,05-09-2018,05-09-2018
+2018,44,MH/KOP/2018/44/142,Maharashtra,Kolhapur,Diarrheal,34,0,25-10-2018,25-10-2018
+2018,44,MH/SGL/2018/44/142,Maharashtra,Sangli,Diarrheal,17,0,27-10-2018,27-10-2018
+2018,44,MH/THN/2018/44/143,Maharashtra,Thane,Diarrheal,30,0,26-10-2018,26-10-2018
+2018,46,MH/BED/2018/46/147,Maharashtra,Beed,Dengue,12,0,16-11-2018,16-11-2018
+2018,46,MH/NAG/2018/46/147,Maharashtra,Nagpur,Food Poisoning,20,1,14-11-2018,14-11-2018
+2018,46,MH/NAG/2018/46/148,Maharashtra,Nagpur,Diarrheal,24,0,13-08-2018,13-08-2018
+2018,46,MH/NAG/2018/46/148,Maharashtra,Nagpur,Food Poisoning,54,0,06-08-2018,06-08-2018
+2018,46,MH/NAG/2018/46/149,Maharashtra,Nagpur,Dengue,15,0,18-09-2018,18-09-2018
+2018,46,MH/NAG/2018/46/149,Maharashtra,Nagpur,Diarrheal,65,0,10-07-2018,10-07-2018
+2018,46,MH/NAG/2018/46/149,Maharashtra,Nagpur,Dengue,18,1,23-08-2018,23-08-2018
+2018,46,MH/NAG/2018/46/149,Maharashtra,Nagpur,Dengue,52,1,11-09-2018,11-09-2018
+2018,46,MH/SGL/2018/46/149,Maharashtra,Sangli,Food Poisoning,78,0,18-10-2018,18-10-2018
+2018,46,MH/SHO/2018/46/149,Maharashtra,Sholapur,Dengue,16,1,25-10-2018,25-10-2018
+2018,46,MH/SHO/2018/46/149,Maharashtra,Sholapur,Dengue,7,1,31-10-2018,31-10-2018
+2018,46,MH/YVT/2018/46/149,Maharashtra,Yavatmal,Measles,6,0,01-11-2018,01-11-2018
+2018,47,MH/KOP/2018/47/151,Maharashtra,Kolhapur,Food Poisoning,79,0,29-10-2018,29-10-2018
+2018,47,MH/KOP/2018/47/151,Maharashtra,Kolhapur,Diarrheal,71,0,05-11-2018,05-11-2018
+2018,47,MH/NAG/2018/47/151,Maharashtra,Nagpur,Typhus,63,6,10-09-2018,10-09-2018
+2018,47,MH/NAS/2018/47/151,Maharashtra,Nashik,Dengue,14,3,05-10-2018,05-10-2018
+2018,47,MH/NAS/2018/47/151,Maharashtra,Nashik,Chikungunya,30,0,29-10-2018,29-10-2018
+2018,48,MH/AKL/2018/48/152,Maharashtra,Akola,Dengue,14,0,30-11-2018,30-11-2018
+2018,48,MH/KOP/2018/48/153,Maharashtra,Kolhapur,Food Poisoning,32,0,21-11-2018,21-11-2018
+2018,48,MH/PNE/2018/48/153,Maharashtra,Pune,Dengue,51,0,04-10-2018,04-10-2018
+2018,49,MH/YVT/2018/49/156,Maharashtra,Yavatmal,Viral Fever,13,1,19-11-2018,19-11-2018
+2018,50,MH/AKL/2018/50/157,Maharashtra,Akola,Measles,5,0,13-12-2018,13-12-2018
+2018,50,MH/AKL/2018/50/158,Maharashtra,Akola,Dengue,8,0,11-12-2018,11-12-2018
+2018,50,MH/NAG/2018/50/158,Maharashtra,Nagpur,Diarrheal,91,0,26-11-2018,26-11-2018
+2018,50,MH/STA/2018/50/159,Maharashtra,Satara,Dengue,64,0,29-09-2018,29-09-2018
+2018,50,MH/STA/2018/50/159,Maharashtra,Satara,Chikungunya,7,0,31-08-2018,31-08-2018
+2017,1,MH/SIN/2017/1/0011,Maharashtra,Sindhudurg,Malaria,2,1,02-01-2017,03-01-2017
+2017,1,MH/SIN/2017/1/0012,Maharashtra,Sindhudurg,Food Poisoning,5,0,05-01-2017,05-01-2017
+2017,1,MH/JGA/2017/1/0023,Maharashtra,Jalgaon,Food Poisoning,24,0,15-12-2016,16-12-2016
+2017,2,MH/GAD/2017/2/0038,Maharashtra,Gadchiroli,Food Poisoning,3,1,05-01-2017,09-01-2017
+2017,2,MH/YVT/2017/2/0039,Maharashtra,Yavatmal,Food Poisoning,56,0,12-01-2017,13-01-2017
+2017,2,MH/LTR/2017/2/0047,Maharashtra,Latur,Chickungunya,35,0,25-11-2016,26-11-2016
+2017,3,MH/SIN/2017/3/0063,Maharashtra,Sindhudurg,Malaria,1,1,20-01-2017,21-01-2017
+2017,3,MH/YVT/2017/3/0064,Maharashtra,Yavatmal,Food Poisoning,250,0,16-01-2017,18-01-2017
+2017,3,MH/AMN/2017/3/0075,Maharashtra,Ahmednagar,Measles,5,0,05-01-2017,06-01-2017
+2017,4,MH/AMR/2017/4/0084,Maharashtra,Amravati,Measles,8,0,20-01-2017,24-01-2017
+2017,6,MH/NAG/2017/6/0141,Maharashtra,Nagpur,Chickenpox,13,0,09-02-2017,10-02-2017
+2017,6,MH/YVT/2017/6/0142,Maharashtra,Yavatmal,Food Poisoning,19,0,07-02-2017,09-02-2017
+2017,6,MH/SIN/2017/6/0160,Maharashtra,Sindhudurg,Food Poisoning,20,1,19-01-2017,20-01-2017
+2017,6,MH/WDH/2017/6/0161,Maharashtra,Wardha,Rubella,12,0,13-01-2017,14-01-2017
+2017,7,MH/KOP/2017/7/0187,Maharashtra,Kolhapur,Chickenpox,174,0,11-02-2017,14-02-2017
+2017,7,MH/AMR/2017/7/0204,Maharashtra,Amravati,Measles,23,0,07-02-2017,08-02-2017
+2017,7,MH/DHL/2017/7/0205,Maharashtra,Dhule,Food Poisoning,85,0,10-01-2017,11-01-2017
+2017,8,MH/AKL/2017/8/0240,Maharashtra,Akola,Measles,18,0,09-02-2017,10-02-2017
+2017,8,MH/NAS/2017/8/0241,Maharashtra,Nashik,Measles,9,0,07-02-2017,08-02-2017
+2017,8,MH/NAS/2017/8/0242,Maharashtra,Nashik,Chickenpox,39,0,03-02-2017,04-02-2017
+2017,9,MH/AKL/2017/9/025,Maharashtra,Akola,Measles,15,0,23-02-2017,28-02-2017
+2017,9,MH/AMN/2017/9/0282,Maharashtra,Ahmednagar,Food Poisoning,6,0,21-02-2017,22-02-2017
+2017,9,MH/BNR/2017/9/0283,Maharashtra,Bhandara,Food Poisoning,11,0,09-02-2017,10-02-2017
+2017,9,MH/BNR/2017/9/0285,Maharashtra,Bhandara,Measles,8,0,18-02-2017,19-02-2017
+2017,9,MH/BNR/2017/9/0286,Maharashtra,Bhandara,Food Poisoning,50,0,30-01-2017,30-01-2017
+2017,9,MH/SGL/2017/9/0287,Maharashtra,Sangli,Food Poisoning,14,0,31-01-2017,31-01-2017
+2017,10,MH/NAG/2017/10/030,Maharashtra,Nagpur,Rubella,6,0,01-02-2017,01-02-2017
+2017,10,MH/WAS/2017/10/030,Maharashtra,Washim,Measles,7,0,02-02-2017,02-02-2017
+2017,10,MH/OSM/2017/10/032,Maharashtra,Osmanabad,Chickenpox,14,0,03-02-2017,03-02-2017
+2017,11,MH/AKL/2017/11/034,Maharashtra,Akola,Measles,14,0,14-03-2017,14-03-2017
+2017,11,MH/DHL/2017/11/034,Maharashtra,Dhule,Measles,9,0,09-03-2017,16-03-2017
+2017,11,MH/NAG/2017/11/034,Maharashtra,Nagpur,Chickenpox,10,0,14-03-2017,14-03-2017
+2017,11,MH/YVT/2017/11/034,Maharashtra,Yavatmal,Food Poisoning,10,0,16-03-2017,18-03-2017
+2017,11,MH/PLR/2017/11/035,Maharashtra,Palghar,Food Poisoning,23,0,16-01-2017,16-01-2017
+2017,11,MH/PLR/2017/11/036,Maharashtra,Palghar,Food Poisoning,5,0,17-01-2017,17-01-2017
+2017,12,MH/AKL/2017/12/038,Maharashtra,Akola,Food Poisoning,17,0,23-03-2017,23-03-2017
+2017,12,MH/DHL/2017/12/038,Maharashtra,Dhule,Food Poisoning,11,0,21-03-2017,23-03-2017
+2017,12,MH/DHL/2017/12/038,Maharashtra,Dhule,Food Poisoning,19,0,18-03-2017,22-03-2017
+2017,12,MH/KOP/2017/12/038,Maharashtra,Kolhapur,Hepatitis,15,0,18-03-2017,20-03-2017
+2017,12,MH/NAG/2017/12/038,Maharashtra,Nagpur,Chickenpox,15,0,23-03-2017,24-03-2017
+2017,12,MH/PLR/2017/12/040,Maharashtra,Palghar,Food Poisoning,57,0,02-01-2017,03-01-2017
+2017,13,MH/KOP/2017/13/042,Maharashtra,Kolhapur,Food Poisoning,20,0,25-03-2017,25-03-2017
+2017,13,MH/WDH/2017/13/044,Maharashtra,Wardha,Leptospirosis,26,0,22-03-2017,22-03-2017
+2017,15,MH/JGA/2017/15/049,Maharashtra,Jalgaon,Food Poisoning,12,0,09-04-2017,09-04-2017
+2017,15,MH/CND/2017/15/052,Maharashtra,Chandrapur,Measles,9,0,16-02-2017,16-02-2017
+2017,15,MH/NAS/2017/15/052,Maharashtra,Nashik,Food Poisoning,57,0,24-03-2017,24-03-2017
+2017,16,MH/AGB/2017/16/054,Maharashtra,Aurangabad,Poisoning,22,0,25-03-2017,25-03-2017
+2017,16,MH/AKL/2017/16/054,Maharashtra,Akola,Food Poisoning,17,0,26-03-2017,26-03-2017
+2017,16,MH/BNR/2017/16/054,Maharashtra,Bhandara,Chickenpox,13,0,13-04-2017,21-04-2017
+2017,16,MH/NAG/2017/16/054,Maharashtra,Nagpur,Chickenpox,19,0,19-04-2017,21-04-2017
+2017,16,MH/WDH/2017/16/055,Maharashtra,Wardha,Measles,11,0,20-04-2017,20-04-2017
+2017,16,MH/BNR/2017/16/057,Maharashtra,Bhandara,Chickenpox,15,0,07-04-2017,08-04-2017
+2017,16,MH/RTG/2017/16/057,Maharashtra,Ratnagiri,Dengue,18,0,07-04-2017,08-04-2017
+2017,16,MH/YVT/2017/16/057,Maharashtra,Yavatmal,Food Poisoning,9,0,07-04-2017,08-04-2017
+2017,17,MH/AGB/2017/17/059,Maharashtra,Aurangabad,Measles,5,0,23-04-2017,29-04-2017
+2017,18,MH/STA/2017/18/064,Maharashtra,Satara,Diarrheal,71,0,03-05-2017,03-05-2017
+2017,18,MH/SGL/2017/18/066,Maharashtra,Sangli,Hepatitis,30,0,24-04-2017,04-05-2017
+2017,20,MH/JGA/2017/20/071,Maharashtra,Jalgaon,Diarrheal,43,0,15-05-2017,18-05-2017
+2017,20,MH/WDH/2017/20/071,Maharashtra,Wardha,Diarrheal,232,0,16-05-2017,17-05-2017
+2017,21,MH/CND/2017/21/076,Maharashtra,Chandrapur,Diarrheal,92,0,19-05-2017,23-05-2017
+2017,21,MH/OSM/2017/21/078,Maharashtra,Osmanabad,Measles,6,0,15-05-2017,24-05-2017
+2017,22,MH/JGA/2017/22/080,Maharashtra,Jalgaon,Diarrheal,110,0,27-05-2017,29-05-2017
+2017,22,MH/NAG/2017/22/080,Maharashtra,Nagpur,Food Poisoning,21,0,31-05-2017,31-05-2017
+2017,22,MH/BNR/2017/22/082,Maharashtra,Bhandara,Food Poisoning,3,1,10-05-2017,01-06-2017
+2017,22,MH/LTR/2017/22/082,Maharashtra,Latur,Food Poisoning,35,0,10-05-2017,02-06-2017
+2017,23,MH/AGB/2017/23/084,Maharashtra,Aurangabad,Diarrheal,181,0,03-06-2017,05-06-2017
+2017,23,MH/SIN/2017/23/084,Maharashtra,Sindhudurg,Malaria,93,0,01-06-2017,05-06-2017
+2017,24,MH/STA/2017/24/089,Maharashtra,Satara,Chikungunya,32,0,05-06-2017,06-06-2017
+2017,25,MH/OSM/2017/25/093,Maharashtra,Osmanabad,Diarrheal,368,0,12-06-2017,07-06-2017
+2017,25,MH/YVT/2017/25/093,Maharashtra,Yavatmal,Food Poisoning,5,1,09-06-2017,08-06-2017
+2017,25,MH/STA/2017/24/089,Maharashtra,Satara,Chikungunya,52,0,19-06-2017,09-06-2017
+2017,26,MH/KOP/2017/26/094,Maharashtra,Kolhapur,Diarrheal,25,0,23-06-2017,27-06-2017
+2017,26,MH/NAG/2017/26/094,Maharashtra,Nagpur,Diarrheal,100,0,22-06-2017,30-06-2017
+2017,26,MH/SIN/2017/26/094,Maharashtra,Sindhudurg,Food Poisoning,16,0,25-06-2017,27-06-2017
+2017,27,MH/STA/2017/27/097,Maharashtra,Satara,Chikungunya,53,0,03-07-2017,03-07-2017
+2017,27,MH/SIN/2017/27/097,Maharashtra,Sindhudurg,Hepatitis,5,0,04-07-2017,04-07-2017
+2017,27,MH/AGB/2017/27/099,Maharashtra,Aurangabad,Diarrheal,83,0,28-06-2017,05-07-2017
+2017,28,MH/AMR/2017/28/101,Maharashtra,Amravati,Food Poisoning,7,1,07-07-2017,10-07-2017
+2017,28,MH/RTG/2017/28/101,Maharashtra,Ratnagiri,Cholera,83,0,13-07-2017,14-07-2017
+2017,28,MH/RGD/2017/28/103,Maharashtra,Raigad,Hepatitis,32,0,25-05-2017,19-07-2017
+2017,28,MH/WAS/2017/28/103,Maharashtra,Washim,Food Poisoning,21,0,26-06-2017,20-07-2017
+2017,29,MH/THN/2017/29/105,Maharashtra,Thane,Food Poisoning,38,0,20-07-2017,21-07-2017
+2017,29,MH/LTR/2017/29/106,Maharashtra,Latur,Diarrheal,17,1,03-07-2017,16-07-2017
+2017,29,MH/OSM/2017/29/107,Maharashtra,Osmanabad,Cholera,3,0,11-07-2017,17-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Dengue,56,0,02-05-2017,18-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Dengue,89,0,29-04-2017,19-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Malaria,15,1,06-06-2017,20-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Malaria,26,1,11-02-2017,21-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Dengue,86,1,03-01-2017,22-07-2017
+2017,29,MH/THN/2017/29/107,Maharashtra,Thane,Viral Fever,21,0,12-06-2017,23-07-2017
+2017,30,MH/GAD/2017/30/110,Maharashtra,Gadchiroli,Malaria,127,1,20-07-2017,24-07-2017
+2017,30,MH/JGA/2017/30/111,Maharashtra,Jalgaon,Fever,12,1,04-07-2017,08-08-2017
+2017,30,MH/KOP/2017/30/111,Maharashtra,Kolhapur,Diarrheal,41,0,17-07-2017,09-08-2017
+2017,32,MH/GAD/2017/32/116,Maharashtra,Gadchiroli,Food Poisoning,4,1,04-08-2017,10-08-2017
+2017,32,MH/KOP/2017/32/118,Maharashtra,Kolhapur,Malaria,32,0,25-07-2017,18-08-2017
+2017,33,MH/NAG/2017/33/120,Maharashtra,Nagpur,Chikungunya,38,0,18-08-2017,19-08-2017
+2017,33,MH/STA/2017/33/120,Maharashtra,Satara,Dengue,26,0,18-08-2017,18-08-2017
+2017,34,MH/NAG/2017/34/124,Maharashtra,Nagpur,Scrub Typhus,2,1,18-08-2017,22-08-2017
+2017,34,MH/JLN/2017/34/124,Maharashtra,Jalna,Food Poisoning,1,0,12-08-2017,04-09-2017
+2017,34,MH/NAN/2017/34/124,Maharashtra,Nanded,Food Poisoning,27,0,14-04-2017,05-09-2017
+2017,35,MH/SIN/2017/3/1280,Maharashtra,Sindhudurg,Malaria,11,0,23-08-2017,06-09-2017
+2017,36,MH/BED/2017/36/129,Maharashtra,Beed,Gastroenteriti,14,0,06-09-2017,07-09-2017
+2017,36,MH/JGA/2017/36/129,Maharashtra,Jalgaon,Diarrheal,20,1,03-09-2017,04-09-2017
+2017,36,MH/SGL/2017/36/129,Maharashtra,Sangli,Diarrheal,40,0,04-09-2017,07-09-2017
+2017,36,MH/SGL/2017/36/131,Maharashtra,Sangli,Dengue,11,0,16-08-2017,13-09-2017
+2017,36,MH/KOP/2017/32/118,Maharashtra,Kolhapur,Malaria,6,0,25-07-2017,14-09-2017
+2017,37,MH/AGB/2017/37/134,Maharashtra,Aurangabad,Dengue,18,0,12-09-2017,15-09-2017
+2017,38,MH/NAG/2017/38/137,Maharashtra,Nagpur,Dengue,5,0,15-09-2017,18-09-2017
+2017,38,MH/SIN/2017/38/137,Maharashtra,Sindhudurg,Malaria,5,0,16-09-2017,18-09-2017
+2017,38,MH/OSM/2017/38/138,Maharashtra,Osmanabad,Fever,15,1,11-09-2017,27-09-2017
+2017,38,MH/OSM/2017/38/139,Maharashtra,Osmanabad,Measles,17,0,14-03-2017,28-09-2017
+2017,39,MH/AGB/2017/39/140,Maharashtra,Aurangabad,Dengue,25,0,23-09-2017,29-09-2017
+2017,39,MH/BED/2017/39/140,Maharashtra,Beed,Food Poisoning,25,0,25-09-2017,26-09-2017
+2017,39,MH/KOP/2017/39/140,Maharashtra,Kolhapur,Diarrheal,107,0,19-09-2017,26-09-2017
+2017,39,MH/NAS/2017/39/140,Maharashtra,Nashik,Diarrheal,33,0,13-09-2017,29-09-2017
+2017,39,MH/PNE/2017/39/140,Maharashtra,Pune,Dengue,26,0,12-05-2017,27-09-2017
+2017,39,MH/PNE/2017/39/140,Maharashtra,Pune,Dengue,8,1,29-07-2017,29-09-2017
+2017,39,MH/PNE/2017/39/140,Maharashtra,Pune,Dengue,6,1,29-08-2017,29-09-2017
+2017,39,MH/PNE/2017/39/140,Maharashtra,Pune,Dengue,40,0,19-08-2017,28-09-2017
+2017,39,MH/PNE/2017/39/140,Maharashtra,Pune,Chikungunya,128,0,12-06-2017,29-09-2017
+2017,39,MH/PNE/2017/39/141,Maharashtra,Pune,Chikungunya,10,0,04-09-2017,27-09-2017
+2017,39,MH/PNE/2017/39/141,Maharashtra,Pune,Dengue,13,2,28-09-2017,29-09-2017
+2017,40,MH/NAG/2017/40/142,Maharashtra,Nagpur,Dengue,529,4,04-10-2017,05-10-2017
+2017,40,MH/SGL/2017/40/142,Maharashtra,Sangli,Diarrheal,19,0,28-09-2017,03-10-2017
+2017,40,MH/SGL/2017/40/143,Maharashtra,Sangli,Dengue,58,0,19-08-2017,14-10-2017
+2017,41,MH/JGA/2017/41/145,Maharashtra,Jalgaon,Measles,15,0,12-10-2017,15-10-2017
+2017,41,MH/OSM/2017/41/145,Maharashtra,Osmanabad,AES/JE,24,0,07-10-2017,13-10-2017
+2017,41,MH/JGA/2017/41/147,Maharashtra,Jalgaon,Fever,23,0,26-09-2017,14-10-2017
+2017,41,MH/JGA/2017/41/147,Maharashtra,Jalgaon,Dengue,8,0,30-09-2017,15-10-2017
+2017,41,MH/THN/2017/41/147,Maharashtra,Thane,Dengue,7,1,23-09-2017,16-10-2017
+2017,42,MH/AMN/2017/42/148,Maharashtra,Ahmednagar,Food Poisoning,5,2,12-10-2017,17-10-2017
+2017,42,MH/NAS/2017/42/149,Maharashtra,Nashik,Dengue,7,1,01-10-2017,20-10-2017
+2017,42,MH/PNE/2017/42/149,Maharashtra,Pune,AES/JE,9,0,06-10-2017,21-10-2017
+2017,42,MH/STA/2017/42/149,Maharashtra,Satara,Chikungunya,16,0,14-09-2017,22-10-2017
+2017,42,MH/WDH/2017/42/149,Maharashtra,Wardha,Fever,20,1,12-09-2017,23-10-2017
+2017,43,MH/BED/2017/43/151,Maharashtra,Beed,Dengue,50,2,19-10-2017,24-10-2017
+2017,43,MH/NAG/2017/43/151,Maharashtra,Nagpur,Food Poisoning,55,0,21-10-2017,25-10-2017
+2017,43,MH/PRB/2017/43/151,Maharashtra,Parbhani,AES/JE,10,0,23-10-2017,25-10-2017
+2017,44,MH/BED/2017/44/153,Maharashtra,Beed,Dengue,19,1,28-10-2017,30-10-2017
+2017,44,MH/NAS/2017/44/153,Maharashtra,Nashik,Fever,41,0,27-10-2017,03-11-2017
+2017,44,MH/PLR/2017/44/153,Maharashtra,Palaghar,Fever,10,1,26-10-2017,31-10-2017
+2017,44,MH/PRB/2017/44/154,Maharashtra,Parbhani,Dengue,14,0,02-11-2017,02-11-2017
+2017,44,MH/PRB/2017/44/154,Maharashtra,Parbhani,Food Poisoning,32,0,01-11-2017,02-11-2017
+2017,44,MH/PLR/2017/44/155,Maharashtra,Palghar,Fever,8,1,12-10-2017,04-11-2017
+2017,44,MH/PLR/2017/44/155,Maharashtra,Palaghar,AES/JE,18,1,07-08-2017,05-11-2017
+2017,45,MH/NAG/2017/45/157,Maharashtra,Nagpur,Diarrheal,27,0,01-11-2017,06-11-2017
+2017,45,MH/PLR/2017/45/157,Maharashtra,Palaghar,Dengue,7,1,07-11-2017,09-11-2017
+2017,45,MH/PLR/2017/45/157,Maharashtra,Palaghar,Food Poisoning,103,0,07-11-2017,08-11-2017
+2017,45,MH/THN/2017/45/157,Maharashtra,Thane,Fever,9,2,07-11-2017,09-11-2017
+2017,45,MH/STA/2017/45/157,Maharashtra,Satara,Dengue,23,0,14-10-2017,10-11-2017
+2017,45,MH/STA/2017/45/158,Maharashtra,Satara,Dengue,28,0,14-10-2017,11-11-2017
+2017,45,MH/THN/2017/45/158,Maharashtra,Thane,Dengue,24,3,09-10-2017,12-11-2017
+2017,46,MH/AGB/2017/46/159,Maharashtra,Aurangabad,Cholera,5825,0,10-11-2017,13-11-2017
+2017,46,MH/BED/2017/46/159,Maharashtra,Beed,Chikungunya,21,0,17-11-2017,17-11-2017
+2017,46,MH/JGA/2017/46/159,Maharashtra,Jalgaon,Chikungunya,40,0,09-11-2017,13-11-2017
+2017,46,MH/AMN/2017/46/160,Maharashtra,Ahmednagar,Dengue,10,1,08-11-2017,21-11-2017
+2017,46,MH/NAS/2017/46/160,Maharashtra,Nashik,Food Poisoning,57,1,08-11-2017,22-11-2017
+2017,47,MH/KOP/2017/47/161,Maharashtra,Kolhapur,Dengue,1,1,21-11-2017,23-11-2017
+2017,47,MH/NAS/2017/47/161,Maharashtra,Nashik,Diarrheal,251,0,17-11-2017,24-11-2017
+2017,47,MH/JGA/2017/47/162,Maharashtra,Jalgaon,Dengue,49,1,10-11-2017,17-11-2017
+2017,47,MH/KOP/2017/47/162,Maharashtra,Kolhapur,Dengue,4,1,14-11-2017,18-11-2017
+2017,47,MH/NAS/2017/47/163,Maharashtra,Nashik,Fever,8,1,07-11-2017,19-11-2017
+2017,47,MH/NAS/2017/47/163,Maharashtra,Nashik,Chikungunya,60,0,13-11-2017,20-11-2017
+2017,47,MH/PNE/2017/47/163,Maharashtra,Pune,Dengue,3,1,06-11-2017,21-11-2017
+2017,47,MH/PNE/2017/47/163,Maharashtra,Pune,Dengue,1,1,28-10-2017,22-11-2017
+2017,47,MH/SGL/2017/47/163,Maharashtra,Sangli,Chikungunya,17,0,26-10-2017,23-11-2017
+2017,47,MH/STA/2017/47/163,Maharashtra,Satara,Dengue,18,0,01-10-2017,24-11-2017
+2017,47,MH/STA/2017/47/163,Maharashtra,Satara,Chikungunya,10,0,20-10-2017,25-11-2017
+2017,47,MH/STA/2017/47/163,Maharashtra,Satara,Dengue,16,0,27-10-2017,26-11-2017
+2017,48,MH/AKL/2017/48/164,Maharashtra,Akola,Measles,37,0,26-11-2017,27-11-2017
+2017,48,MH/BED/2017/48/164,Maharashtra,Beed,Dengue,6,0,30-11-2017,30-11-2017
+2017,49,MH/RTG/2017/49/165,Maharashtra,Ratnagiri,Measles,17,0,06-12-2017,06-12-2017
+2017,49,MH/PLR/2017/49/166,Maharashtra,Palaghar,Dengue,20,0,13-11-2017,13-12-2017
+2017,50,MH/SGL/2017/50/167,Maharashtra,Sangli,Chikungunya,10,0,08-12-2017,14-12-2017
+2017,50,MH/SGL/2017/50/167,Maharashtra,Sangli,Chikungunya,28,0,23-11-2017,27-11-2017
+2017,50,MH/SGL/2017/50/167,Maharashtra,Sangli,Chikungunya,15,0,27-11-2017,28-11-2017
+2017,51,MH/NDB/2017/51/168,Maharashtra,Nandurbar,Chikungunya?,13,0,14-12-2017,22-12-2017
+2017,51,MH/SGL/2017/51/168,Maharashtra,Sangli,Diarrhoeal,32,0,15-12-2017,19-12-2017
+2017,51,MH/SGL/2017/51/168,Maharashtra,Sangli,Diarrhoeal,21,0,17-12-2017,22-12-2017
+2017,51,MH/SIN/2017/51/168,Maharashtra,Sindhudurg,Food Poisoning,6,0,12-12-2017,18-12-2017
+2017,51,MH/THN/2017/51/169,Maharashtra,Thane,Food Poisoning,32,0,21-12-2017,22-12-2017
+2017,51,MH/JLN/2017/51/169,Maharashtra,Jalna,Chikungunya,11,0,16-12-2017,17-12-2017
+2017,52,MH/SGL/2017/52/171,Maharashtra,Sangli,Chickungunya,13,0,16-12-2017,17-12-2017
+2017,52,MH/THN/2017/52/171,Maharashtra,Thane,Food Poisoning,7,0,16-12-2017,17-12-2017
+2017,52,MH/WAS/2017/52/171,Maharashtra,Washim,Measles,6,0,16-12-2017,17-12-2017
+2016,3,MH/GAD/2016/3/0067,Maharashtra,Gadchiroli,Measles,4,0,14-01-2016,20-01-2016
+2016,3,MH/NAG/2016/3/0068,Maharashtra,Nagpur,Chickenpox,38,0,16-01-2016,20-01-2016
+2016,3,MH/NAN/2016/3/0090,Maharashtra,Nanded,Diarrheal,40,0,08-01-2016,09-01-2016
+2016,4,MH/BNR/2016/4/0106,Maharashtra,Bhandara,Diarrheal,219,0,21-01-2016,27-01-2016
+2016,4,MH/NAG/2016/4/0107,Maharashtra,Nagpur,Food Poisoning,38,0,26-01-2016,27-01-2016
+2016,4,MH/SIN/2016/4/0108,Maharashtra,Sindhudurg,Diarrheal,15,0,28-01-2016,28-01-2016
+2016,4,MH/BNR/2016/4/0126,Maharashtra,Bhandara,Chickenpox,5,0,19-01-2016,20-01-2016
+2016,5,MH/AMN/2016/5/0155,Maharashtra,Diarrhoeal,Food Poisoning,41,0,29-01-2016,04-02-2016
+2016,5,MH/NAG/2016/5/0156,Maharashtra,Nagpur,Food Poisoning,9,0,05-02-2016,06-02-2016
+2016,5,MH/AMR/2016/5/0193,Maharashtra,Amravati,Food Poisoning,1,1,02-01-2016,03-01-2016
+2016,6,MH/DHL/2016/6/0219,Maharashtra,Dhule,Fever,19,0,08-02-2016,10-02-2016
+2016,6,MH/JGA/2016/6/0220,Maharashtra,Jalgaon,Food Poisoning,30,0,08-02-2016,09-02-2016
+2016,6,MH/AMN/2016/6/0246,Maharashtra,Ahmednagar,Food Poisoning,22,0,23-01-2016,23-01-2016
+2016,6,MH/RTG/2016/6/0247,Maharashtra,Ratnagiri,Fever Rash,9,0,01-02-2016,01-02-2016
+2016,7,MH/AKL/2016/7/0287,Maharashtra,Akola,Measles,42,0,20-02-2016,20-02-2016
+2016,7,MH/KOP/2016/7/0288,Maharashtra,Kolhapur,Dengue,7,1,12-02-2016,18-02-2016
+2016,7,MH/WAS/2016/7/0289,Maharashtra,Washim,Rubella,47,0,12-02-2016,15-02-2016
+2016,7,MH/GAD/2016/7/0330,Maharashtra,Gadchiroli,Malaria,98,1,08-02-2016,08-02-2016
+2016,7,MH/NAN/2016/7/0331,Maharashtra,Nanded,Measles,5,0,26-01-2016,26-01-2016
+2016,7,MH/PNE/2016/7/0332,Maharashtra,Pune,Dengue,22,0,08-01-2016,08-01-2016
+2016,7,MH/SGL/2016/7/0333,Maharashtra,Sangli,Food Poisoning,60,0,18-12-2015,18-12-2015
+2016,8,MH/DHL/2016/8/0366,Maharashtra,Dhule,Food Poisoning,18,0,23-02-2016,24-02-2016
+2016,8,MH/THN/2016/8/0367,Maharashtra,Thane,Jaundice,48,0,26-02-2016,26-02-2016
+2016,9,MH/NAG/2016/9/0424,Maharashtra,Nagpur,Chickenpox,29,0,03-03-2016,03-03-2016
+2016,9,MH/BNR/2016/9/0451,Maharashtra,Bhandara,Acute Diarrhoeal,19,0,22-02-2016,22-02-2016
+2016,10,MH/AKL/2016/10/050,Maharashtra,Akola,Measles,13,0,02-03-2016,02-03-2016
+2016,10,MH/RTG/2016/10/050,Maharashtra,Ratnagiri,Diarrheal,43,0,29-02-2016,29-02-2016
+2016,10,MH/YVT/2016/10/050,Maharashtra,Yavatmal,Measles,10,0,15-02-2016,15-02-2016
+2016,11,MH/AMN/2016/11/055,Maharashtra,Ahmednagar,Food Poisoning,36,0,15-03-2016,19-03-2016
+2016,11,MH/NAG/2016/11/055,Maharashtra,Nagpur,Food Poisoning,15,0,16-03-2016,17-03-2016
+2016,11,MH/SIN/2016/2/0033,Maharashtra,Kyasanur Forest,Acute Diarrhoeal,346,2,13-01-2016,14-01-2016
+2016,12,MH/AMN/2016/12/061,Maharashtra,Ahmednagar,Rubella,24,0,21-03-2016,22-03-2016
+2016,13,MH/AMN/2016/13/066,Maharashtra,Ahmednagar,Food Poisoning,35,0,26-03-2016,31-03-2016
+2016,13,MH/AGB/2016/13/066,Maharashtra,Aurangabad,Food Poisoning,39,0,29-03-2016,31-03-2016
+2016,13,MH/BED/2016/13/066,Maharashtra,Beed,Dengue,11,1,29-02-2016,02-04-2016
+2016,13,MH/KOP/2016/13/066,Maharashtra,Kolhapur,Malaria,13,0,30-03-2016,01-04-2016
+2016,13,MH/AMN/2016/13/069,Maharashtra,Ahmednagar,Food Poisoning,12,0,16-03-2016,16-03-2016
+2016,13,MH/GAD/2016/13/070,Maharashtra,Gadchiroli,Food Poisoning,14,0,14-03-2016,14-03-2016
+2016,14,MH/AMN/2016/14/072,Maharashtr,Ahmednagar,Acute Diarrheal,71,0,05-04-2016,07-04-2016
+2016,14,MH/THN/2016/14/072,Maharashtr,Thane,Food Poisoning,21,0,06-04-2016,07-04-2016
+2016,14,MH/WAS/2016/14/072,Maharashtr,Washim,Cholera,31,0,05-04-2016,07-04-2016
+2016,14,MH/BNR/2016/14/078,Maharashtra,Bhandara,Chickenpox,10,0,23-03-2016,23-03-2016
+2016,14,MH/CND/2016/14/078,Maharashtra,Chandrapur,Acute Diarrheal,26,1,14-03-2016,14-03-2016
+2016,15,MH/AKL/2016/15/080,Maharashtra,Akola,Food Poisoning,22,0,16-04-2016,16-04-2016
+2016,15,MH/KOP/2016/15/082,Maharashtra,Kolhapur,Dengue,29,0,05-04-2016,05-04-2016
+2016,15,MH/THN/2016/15/082,Maharashtra,Thane,Diarrheal,638,0,12-01-2016,12-01-2016
+2016,15,MH/THN/2016/15/083,Maharashtra,Thane,Jaundice,16,0,18-03-2016,18-03-2016
+2016,16,MH/MMB/2016/16/086,Maharashtra,Mumbai,Food Poisoning,30,0,17-04-2016,18-04-2016
+2016,16,MH/PNE/2016/16/089,Maharashtr,Pune,Food Poisoning,114,0,11-04-2016,11-04-2016
+2016,16,MH/STA/2016/16/089,Maharashtr,Satara,Chikungunya,7,0,04-04-2016,04-04-2016
+2016,17,MH/AMR/2016/17/092,Maharashtra,Amravati,Food Poisoning,30,0,27-04-2016,28-04-2016
+2016,17,MH/JGA/2016/17/092,Maharashtra,Jalgaon,Diarrheal,33,0,23-04-2016,27-04-2016
+2016,17,MH/RGD/2016/17/093,Maharashtra,Raigad,Food Poisoning,56,0,26-04-2016,29-04-2016
+2016,17,MH/YVT/2016/17/093,Maharashtra,Yavatmal,Diarrheal,12,0,21-04-2016,27-04-2016
+2016,17,MH/YVT/2016/17/093,Maharashtra,Yavatmal,Food Poisoning,23,0,27-04-2016,29-04-2016
+2016,17,MH/AMN/2016/17/096,Maharashtra,Ahmednagar,Food Poisoning,93,0,20-04-2016,20-04-2016
+2016,17,MH/SGL/2016/17/096,Maharashtra,Sangli,Dengue,25,0,16-04-2016,16-04-2016
+2016,17,MH/SGL/2016/17/097,Maharashtra,Sangli,Dengue,13,0,16-04-2016,16-04-2016
+2016,18,MH/PRB/2016/18/991,Maharashtra,Parbhani,Diarrheal,25,0,06-05-2016,06-05-2016
+2016,18,MH/STA/2016/18/992,Maharashtra,Satara,Food Poisoning,16,0,28-04-2016,04-05-2016
+2016,18,MH/WDH/2016/18/993,Maharashtra,Wardha,Cholera,24,0,02-05-2016,05-05-2016
+2016,18,MH/NAS/2016/18/104,Maharashtra,Nashik,Dengue,20,1,25-04-2016,26-04-2016
+2016,19,MH/AKL/2016/19/107,Maharashtra,Akola,Fever,32,0,10-05-2016,10-05-2016
+2016,19,MH/AMR/2016/19/107,Maharashtra,Amravati,Food Poisoning,4,4,07-05-2016,10-05-2016
+2016,19,MH/NAG/2016/19/108,Maharashtra,Nagpur,Diarrheal,55,0,12-05-2016,13-05-2016
+2016,19,MH/PRB/2016/19/108,Maharashtra,Parbhani,Diarrheal,127,0,12-05-2016,12-05-2016
+2016,19,MH/KOP/2016/19/112,Maharashtra,Kolhapur,Dengue,33,1,04-05-2016,04-05-2016
+2016,19,MH/RGD/2016/19/112,Maharashtra,Raigad,Dengue,26,0,02-05-2016,02-05-2016
+2016,19,MH/SIN/2016/19/112,Maharashtra,Sindhudurg,Dengue,23,0,07-04-2016,07-04-2016
+2016,20,MH/AKL/2016/20/114,Maharashtra,Akola,Cholera,21,1,21-05-2016,21-05-2016
+2016,20,MH/DHL/2016/20/114,Maharashtra,Dhule,Diarrheal,23,0,15-05-2016,16-05-2016
+2016,20,MH/SIN/2016/20/114,Maharashtra,Sindhudurg,Diarrheal,49,0,16-05-2016,16-05-2016
+2016,20,MH/NAS/2016/20/117,Maharashtra,Nashik,Dengue,1,0,10-05-2016,11-05-2016
+2016,21,MH/AGB/2016/21/120,Maharashtra,Aurangabad,Food Poisoning,60,0,23-05-2016,25-05-2016
+2016,21,MH/AKL/2016/21/120,Maharashtra,Akola,Cholera,21,1,23-05-2016,23-05-2016
+2016,21,MH/AMR/2016/21/120,Maharashtra,Amravati,Cholera,62,0,21-05-2016,24-05-2016
+2016,21,MH/JLN/2016/21/120,Maharashtra,Jalna,Food Poisoning,47,0,21-05-2016,23-05-2016
+2016,21,MH/NAG/2016/21/120,Maharashtra,Nagpur,Food Poisoning,194,0,25-05-2016,27-05-2016
+2016,21,MH/NAS/2016/21/121,Maharashtra,Nashik,Food Poisoning,409,0,25-05-2016,27-05-2016
+2016,22,MH/AMN/2016/22/127,Maharashtra,Ahmednagar,Food Poisoning,35,0,28-05-2016,01-06-2016
+2016,22,MH/BED/2016/22/127,Maharashtra,Beed,Food Poisoning,20,0,01-06-2016,02-06-2016
+2016,22,MH/NAG/2016/22/127,Maharashtra,Nagpur,Food Poisoning,208,0,31-05-2016,04-06-2016
+2016,22,MH/RGD/2016/22/131,Maharashtra,Raigad,Chikungunya,9,0,04-05-2016,05-05-2016
+2016,23,MH/JGA/2016/23/134,Maharashtra,Jalgaon,Cholera,53,1,06-06-2016,07-06-2016
+2016,23,MH/NAS/2016/23/134,Maharashtra,Nashik,Food Poisoning,158,0,03-06-2016,07-06-2016
+2016,23,MH/OSM/2016/23/134,Maharashtra,Osmanabad,Food Poisoning,55,0,03-06-2016,06-06-2016
+2016,23,MH/YVT/2016/23/134,Maharashtra,Yavatmal,Food Poisoning,10,0,06-06-2016,07-06-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Chikungunya,137,0,20-05-2016,20-05-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Chikungunya,24,0,19-04-2016,19-04-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Chikungunya,24,0,04-04-2016,04-04-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Dengue,24,0,24-04-2016,24-04-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Dengue,47,0,04-04-2016,04-04-2016
+2016,23,MH/PNE/2016/23/138,Maharashtra,Pune,Diarrheal,32,0,31-05-2016,31-05-2016
+2016,23,MH/UIJ/2016/23/138,Maharashtra,Ujjain,Diarrheal,Food Poisoning,33,01-06-2016,26-05-2016
+2016,24,MH/BED/2016/24/141,Maharashtra,Beed,Food Poisoning,27,1,11-06-2016,13-06-2016
+2016,24,MH/BNR/2016/24/141,Maharashtra,Bhandara,Food Poisoning,26,0,15-06-2016,16-06-2016
+2016,24,MH/GAD/2016/24/141,Maharashtra,Gadchiroli,Food Poisoning,32,0,10-06-2016,14-06-2016
+2016,24,MH/KOP/2016/24/141,Maharashtra,Kolhapur,ViralHepatitis,20,0,11-06-2016,15-06-2016
+2016,24,MH/NAS/2016/24/141,Maharashtra,Nashik,Dengue,20,0,13-06-2016,16-06-2016
+2016,24,MH/NAS/2016/24/141,Maharashtra,Nashik,Dengue,12,0,15-06-2016,18-06-2016
+2016,24,MH/JLN/2016/24/144,Maharashtra,Jalna,Food Poisoning,18,0,07-06-2016,07-06-2016
+2016,24,MH/SHO/2016/24/144,Maharashtra,Solapur,Food Poisoning,23,1,07-06-2016,07-06-2016
+2016,25,MH/AMR/2016/25/146,Maharashtra,Amravati,Food Poisoning,24,0,22-06-2016,24-06-2016
+2016,25,MH/JLN/2016/25/147,Maharashtra,Jalna,Food Poisoning,18,0,19-06-2016,22-06-2016
+2016,25,MH/KOP/2016/25/147,Maharashtra,Kolhapur,Hepatitis,13,0,20-06-2016,23-06-2016
+2016,25,MH/KOP/2016/25/147,Maharashtra,Kolhapur,Food Poisoning,10,0,18-06-2016,20-06-2016
+2016,25,MH/WAS/2016/25/147,Maharashtra,Washim,Food Poisoning,23,1,23-06-2016,27-06-2016
+2016,25,MH/CND/2016/25/150,Maharashtra,Chandrapur,Measles,6,0,15-04-2016,15-04-2016
+2016,25,MH/CND/2016/25/150,Maharashtra,Chandrapur,Malaria,28,1,05-05-2016,05-05-2016
+2016,25,MH/NAG/2016/25/150,Maharashtra,Nagpur,Food Poisoning,16,0,01-06-2016,01-06-2016
+2016,25,MH/SGL/2016/25/150,Maharashtra,Sangli,Food Poisoning,68,0,27-05-2016,27-05-2016
+2016,25,MH/THN/2016/25/150,Maharashtra,Thane,Food Poisoning,389,0,11-06-2016,11-06-2016
+2016,26,MH/JLN/2016/26/154,Maharashtra,Jalna,Food Poisoning,17,0,25-06-2016,29-06-2016
+2016,26,MH/JLN/2016/26/154,Maharashtra,Jalna,Food Poisoning,13,0,28-06-2016,30-06-2016
+2016,26,MH/THN/2016/26/154,Maharashtra,Thane,Food Poisoning,12,0,29-06-2016,29-06-2016
+2016,26,MH/THN/2016/26/154,Maharashtra,Thane,Food Poisoning,23,1,23-06-2016,27-06-2016
+2016,27,MH/AGB/2016/27/159,Maharashtra,Aurangabad,Food Poisoning,20,0,06-07-2016,09-07-2016
+2016,27,MH/AGB/2016/27/159,Maharashtra,Aurangabad,Cholera,9,1,08-07-2016,09-07-2016
+2016,27,MH/NAG/2016/27/159,Maharashtra,Nagpur,Fever,19,1,04-07-2016,07-07-2016
+2016,27,MH/THN/2016/27/159,Maharashtra,Thane,Food Poisoning,25,0,02-07-2016,04-07-2016
+2016,27,MH/MMC/2016/27/162,Maharashtra,Mumbai,Food Poisoning,60,0,28-06-2016,29-06-2016
+2016,28,MH/BNR/2016/28/165,Maharasthra,Bhandara,AES,3,1,10-07-2016,14-07-2016
+2016,28,MH/NAG/2016/28/165,Maharashtra,Nagpur,Cholera,858,2,12-07-2016,13-07-2016
+2016,28,MH/NAS/2016/28/165,Maharashtra,Nashik,Food Poisoning,25,0,09-07-2016,12-07-2016
+2016,28,MH/NAS/2016/28/166,Maharashtra,Nashik,Food Poisoning,62,0,12-07-2016,14-07-2016
+2016,28,MH/YVT/2016/28/166,Maharashtra,Yavatmal,Food Poisoning,28,0,12-07-2016,16-07-2016
+2016,28,MH/PRB/2016/28/167,Maharashtra,Parbhani,Food Poisoning,52,0,03-07-2016,03-07-2016
+2016,29,MH/BNR/2016/29/171,Maharashtra,Bhandara,Food Poisoning,32,0,18-07-2016,18-07-2016
+2016,29,MH/THN/2016/29/171,Maharashtra,Thane,Food Poisoning,11,0,18-07-2016,20-07-2016
+2016,29,MH/THN/2016/29/171,Maharashtra,Thane,Food Poisoning,25,0,19-07-2016,21-07-2016
+2016,29,MH/WDH/2016/29/171,Maharashtra,Wardha,Food Poisoning,26,0,16-07-2016,20-07-2016
+2016,29,MH/NAS/2016/29/174,Maharashtra,Nashik,Fever,11,1,13-07-2016,13-07-2016
+2016,29,MH/NAS/2016/29/174,Maharashtra,Nashik,Food Poisoning,68,0,27-05-2016,27-05-2016
+2016,30,MH/CND/2016/30/177,Maharashtra,Chandrapur,Food Poisoning,16,0,25-07-2016,29-07-2016
+2016,30,MH/CND/2016/30/181,Maharashtra,Chandrapur,Food Poisoning,9,1,01-07-2016,01-07-2016
+2016,31,MH/AMR/2016/31/185,Maharashtra,Amravati,13,0,0,04-08-2016,06-08-2016
+2016,31,MH/SHO/2016/31/185,Maharashtra,Sholapur,160,1,0,31-07-2016,03-08-2016
+2016,31,MH/YVT/2016/31/185,Maharashtra,Yavatmal,5,1,0,29-07-2016,01-08-2016
+2016,31,MH/AMN/2016/31/188,Maharashtra,Chikungunya,15,0,0,24-07-2016,25-07-2016
+2016,31,MH/CND/2016/31/188,Maharashtra,Chandrapur,Diarrheal,68,0,27-07-2016,27-07-2016
+2016,31,MH/JGA/2016/31/188,Maharashtra,Jalgaon,Diarrheal,26,3,27-07-2016,27-07-2016
+2016,31,MH/JLN/2016/31/188,Maharashtra,Jalna,Dengue,12,1,24-07-2016,24-07-2016
+2016,31,MH/NAS/2016/31/188,Maharashtra,Nashik,Fever,42,0,22-07-2016,22-07-2016
+2016,32,MH/JGA/2016/32/190,Maharashtra,Jalgaon,Cholera,46,0,08-08-2016,12-08-2016
+2016,32,MH/KOP/2016/32/191,Maharashtra,Kolhapur,Cholera,50,0,06-08-2016,10-08-2016
+2016,32,MH/GAD/2016/32/193,Maharashtra,Gadchiroli,Malaria,21,1,24-07-2016,24-07-2016
+2016,33,MH/AMN/2016/33/198,Maharashtra,Ahmednagar,Dengue,19,1,08-08-2016,08-08-2016
+2016,33,MH/JLN/2016/33/198,Maharashtra,Jalna,Dengue,12,0,07-08-2016,07-08-2016
+2016,34,MH/AMR/2016/34/201,Maharashtra,Amravati,Food Poisoning,41,0,19-08-2016,22-08-2016
+2016,34,MH/JLN/2016/34/205,Maharashtra,Jalna,Dengue,7,1,15-08-2016,15-08-2016
+2016,34,MH/SGL/2016/34/205,Maharashtra,Sangli,Dengue,9,0,28-07-2016,28-07-2016
+2016,35,MH/AMN/2016/35/208,Maharashtra,Ahmednagar,Chikungunya,20,0,30-08-2016,03-09-2016
+2016,35,MH/AMN/2016/35/208,Maharashtra,Ahmednagar,Viral Fever,26,0,28-08-2016,03-09-2016
+2016,35,MH/AMN/2016/35/208,Maharashtra,Ahmednagar,Fever,10,1,28-08-2016,01-09-2016
+2016,35,MH/AMN/2016/35/208,Maharashtra,Ahmednagar,Chikungunya,182,0,26-08-2016,03-09-2016
+2016,35,MH/CND/2016/35/210,Maharashtra,Chandrapur,Food Poisoning,48,1,03-08-2016,03-08-2016
+2016,35,MH/YVT/2016/35/210,Maharashtra,Yavatmal,Diarrheal,10,1,24-08-2016,24-08-2016
+2016,36,MH/NAG/2016/36/213,Maharashtra,Nagpur,Dengue,37,0,07-09-2016,08-09-2016
+2016,36,MH/WAS/2016/36/213,Maharashtra,Washim,Chikungunya,23,1,09-09-2016,09-09-2016
+2016,36,MH/WAS/2016/36/213,Maharashtra,Washim,Fever,28,1,09-09-2016,09-09-2016
+2016,37,MH/GAD/2016/37/218,Maharashtra,Gadchiroli,Food Poisoning,12,2,15-09-2016,17-09-2016
+2016,37,MH/YVT/2016/37/219,Maharashtra,Yavatmal,Diarrheal,21,1,13-09-2016,17-09-2016
+2016,38,MH/BED/2016/38/223,Maharashtra,Beed,Chikungunya,5,1,14-09-2016,20-09-2016
+2016,38,MH/JGA/2016/38/226,Maharashtra,Jalgaon,Dengue,60,1,10-09-2016,10-09-2016
+2016,38,MH/JGA/2016/38/226,Maharashtra,Jalgaon,Fever,7,1,08-08-2016,08-08-2016
+2016,38,MH/NAS/2016/38/226,Maharashtra,Nashik,Diarrhea,22,0,11-09-2016,11-09-2016
+2016,39,MH/BED/2016/39/228,Maharashtra,Beed,Viral Fever,6,1,22-09-2016,22-09-2016
+2016,39,MH/OSM/2016/39/231,Maharashtra,Sindhudurg,Food Poisoning,18,0,23-09-2016,23-09-2016
+2016,40,MH/KOP/2016/40/232,Maharashtra,Kolhapur,Diarrheal,49,0,08-10-2016,08-10-2016
+2016,40,MH/OSM/2016/40/233,Maharashtra,Osmanabad,Diarrheal,31,0,01-10-2016,03-10-2016
+2016,40,MH/AGB/2016/40/234,Maharashtra,Aurangabad,Dengue,39,0,15-09-2016,15-09-2016
+2016,40,MH/NAS/2016/40/235,Maharashtra,Nashik,Cholera,79,0,24-09-2016,24-09-2016
+2016,40,MH/PNE/2016/40/235,Maharashtra,Pune,Food Poisoning,97,3,24-04-2016,24-04-2016
+2016,40,MH/PNE/2016/40/235,Maharashtra,Pune,Dengue,31,1,19-07-2016,19-07-2016
+2016,40,MH/STA/2016/40/235,Maharashtra,Satara,Dengue,22,0,07-09-2016,07-09-2016
+2016,40,MH/SIN/2016/40/235,Maharashtra,Sindhudurg,Food Poisoning,28,0,26-09-2016,26-09-2016
+2016,40,MH/SGL/2016/34/205,Maharashtra,Sangli,Dengue,13,0,03-08-2016,03-08-2016
+2016,41,MH/DHL/2016/41/237,Maharashtra,Dhule,Diarrheal,24,1,10-10-2016,14-10-2016
+2016,41,MH/OSM/2016/41/237,Maharashtra,Osmanabad,Food Poisoning,17,0,12-10-2016,14-10-2016
+2016,41,MH/AMN/2016/41/239,Maharashtra,Ahmednagar,Chikungun,32,0,27-09-2016,27-09-2016
+2016,41,MH/JGA/2016/41/239,Maharashtra,Jalgaon,Dengue,65,0,20-09-2016,20-09-2016
+2016,41,MH/NAS/2016/41/239,Maharashtra,Nashik,Gastroenter,45,0,05-10-2016,05-10-2016
+2016,42,MH/KOP/2016/42/241,Maharashtra,Kolhapur,Diarrheal,47,0,18-10-2016,20-10-2016
+2016,42,MH/JGA/2016/42/242,Maharashtra,Jalgaon,Measles,12,0,05-10-2016,06-10-2016
+2016,43,MH/JLN/2016/43/243,Maharashtra,Jalna,Fever,6,1,27-10-2016,28-10-2016
+2016,43,MH/NAG/2016/43/244,Maharashtra,Nagpur,Food Poisoning,19,0,26-10-2016,27-10-2016
+2016,43,MH/WAS/2016/43/244,Maharashtra,Washim,Measles,6,0,20-10-2016,26-10-2016
+2016,43,MH/JLN/2016/43/245,Maharashtra,Jalna,Fever,7,1,17-10-2016,18-10-2016
+2016,45,MH/WAS/2016/45/249,Maharashtra,Washim,Measles,7,0,09-11-2016,09-11-2016
+2016,45,MH/PNE/2016/45/250,Maharashtra,Pune,Food Poisoning,6,3,31-10-2016,01-11-2016
+2016,46,MH/BED/2016/46/251,Maharashtra,Beed,Food Poisoning,8,0,15-11-2016,19-11-2016
+2016,46,MH/NDB/2016/46/252,Maharashtra,Nandurbar,Diarrheal,51,0,01-10-2016,02-10-2016
+2016,47,MH/RTG/2016/47/252,Maharashtra,Ratnagiri,Dengue,40,0,18-11-2016,23-11-2016
+2016,47,MH/RGD/2016/47/254,Maharashtra,Raigad,Diarrheal,28,0,03-11-2016,03-11-2016
+2016,47,MH/RGD/2016/47/254,Maharashtra,Raigad,Hepatitis,66,0,27-09-2016,27-09-2016
+2016,47,MH/RGD/2016/47/254,Under,Maharashtra,Raigad,43,2,24-06-2016,24-06-2016
+2016,47,MH/RGD/2016/47/254,Maharashtra,Raigad,Diarrheal,5,1,27-10-2016,27-10-2016
+2016,50,MH/AKL/2016/50/260,Maharashtra,Akola,Chickenpox,6,0,13-12-2016,13-12-2016
+2016,50,MH/DHL/2016/50/260,Maharashtra,Dhule,Diarrheal,25,0,09-12-2016,13-12-2016
+2016,50,MH/NAS/2016/50/262,Maharashtra,Nashik,Chikungunya,9,0,07-12-2016,07-12-2016
+2016,50,MH/STA/2016/50/262,Maharashtra,Satara,Chikungunya,11,0,30-11-2016,30-11-2016
+2016,52,MH/JGA/2016/52/267,Maharashtra,Jalgaon,Fever,24,0,28-12-2016,31-12-2016
+2016,52,MH/NAG/2016/52/267,Maharashtra,Nagpur,Rubella,15,0,23-12-2016,26-12-2016
+2016,52,MH/NAS/2016/52/267,Maharashtra,Nashik,Chikungunya,15,0,20-12-2016,21-12-2016
