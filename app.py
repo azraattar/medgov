@@ -5,7 +5,7 @@ import json
 import os
 import re
 from dotenv import load_dotenv
-import google.genai as genai
+import google.generativeai as genai
 from supabase import create_client, Client
 
 # --------------------- CONFIG ---------------------
@@ -26,8 +26,8 @@ if not GEMINI_API_KEY:
 if not SUPABASE_URL or not SUPABASE_KEY:
     raise RuntimeError("ERROR: SUPABASE_URL or SUPABASE_KEY not found. Add them to .env")
 
-# Initialize clients
-client = genai.Client(api_key=GEMINI_API_KEY)
+# Initialize clients - FIXED for current Gemini API
+genai.configure(api_key=GEMINI_API_KEY)
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 print("Gemini client initialized ✅")
 print("Supabase client initialized ✅")
@@ -244,10 +244,9 @@ USER QUESTION: {user_message}
 
 Provide a clear, factual answer using only the data above:"""
 
-            response = client.models.generate_content(
-                model="gemini-1.5-flash",
-                contents=prompt
-            )
+            # FIXED: Use the correct method for current Gemini API
+            model = genai.GenerativeModel('gemini-1.5-flash')
+            response = model.generate_content(prompt)
             
             bot_reply = response.text if response and response.text else structured_summary[0]
             print(f"🤖 FINAL REPLY: {bot_reply}")
@@ -288,17 +287,17 @@ def get_map_data(year):
 
     return jsonify(map_data_copy)
 
+@app.route('/approve-doctors')
+def approve_doctors():
+    return render_template('approve_doctors.html')
+
+# Debug routes remain the same...
 @app.route('/debug-supabase')
 def debug_supabase():
     """Debug Supabase connection and table access"""
     try:
-        # Test connection first
         response = supabase.table('govdata').select("count", count="exact").execute()
-        print(f"Table count response: {response}")
-        
-        # Try to get first few rows
         response2 = supabase.table('govdata').select("*").limit(3).execute()
-        print(f"Sample data response: {response2}")
             
         return jsonify({
             "connection": "success",
@@ -308,104 +307,12 @@ def debug_supabase():
         })
         
     except Exception as e:
-        print(f"Supabase debug error: {e}")
         return jsonify({
             "connection": "failed", 
             "error": str(e),
             "url": SUPABASE_URL,
             "key_prefix": SUPABASE_KEY[:20] + "..." if SUPABASE_KEY else None
         })
-
-@app.route('/debug-data-validation')
-def debug_data_validation():
-    """Validate loaded data structure and content"""
-    if HEALTH_DATA_CACHE.empty:
-        return jsonify({"error": "No data loaded"})
-    
-    # Check data structure
-    validation = {
-        "total_rows": len(HEALTH_DATA_CACHE),
-        "columns": list(HEALTH_DATA_CACHE.columns),
-        "dtypes": HEALTH_DATA_CACHE.dtypes.to_dict(),
-        "sample_row": HEALTH_DATA_CACHE.iloc[0].to_dict(),
-        "year_range": {
-            "min": int(HEALTH_DATA_CACHE['Year'].min()) if 'Year' in HEALTH_DATA_CACHE.columns else None,
-            "max": int(HEALTH_DATA_CACHE['Year'].max()) if 'Year' in HEALTH_DATA_CACHE.columns else None,
-            "unique_years": sorted(HEALTH_DATA_CACHE['Year'].unique().tolist()) if 'Year' in HEALTH_DATA_CACHE.columns else []
-        },
-        "case_death_summary": {
-            "total_cases": int(pd.to_numeric(HEALTH_DATA_CACHE['No of cases'], errors='coerce').sum()) if 'No of cases' in HEALTH_DATA_CACHE.columns else None,
-            "total_deaths": int(pd.to_numeric(HEALTH_DATA_CACHE['No of deaths'], errors='coerce').sum()) if 'No of deaths' in HEALTH_DATA_CACHE.columns else None,
-            "max_cases": int(pd.to_numeric(HEALTH_DATA_CACHE['No of cases'], errors='coerce').max()) if 'No of cases' in HEALTH_DATA_CACHE.columns else None,
-            "max_deaths": int(pd.to_numeric(HEALTH_DATA_CACHE['No of deaths'], errors='coerce').max()) if 'No of deaths' in HEALTH_DATA_CACHE.columns else None
-        }
-    }
-    
-    return jsonify(validation)
-
-@app.route('/debug-tables')
-def debug_tables():
-    """Check what tables exist in Supabase"""
-    try:
-        # Alternative method - try some common table names
-        common_names = ['govdata', 'health_data', 'csv_import', 'data']
-        existing_tables = []
-        
-        for name in common_names:
-            try:
-                test_response = supabase.table(name).select("*", count="exact").limit(1).execute()
-                existing_tables.append({
-                    "table": name,
-                    "count": test_response.count,
-                    "exists": True
-                })
-            except:
-                existing_tables.append({
-                    "table": name, 
-                    "exists": False
-                })
-        
-        return jsonify({
-            "tables": existing_tables,
-            "error": None
-        })
-        
-    except Exception as e:
-        return jsonify({
-            "tables": [],
-            "error": str(e)
-        })
-
-@app.route('/debug-map-matching/<int:year>')
-def debug_map_matching(year):
-    """Debug district name matching for map"""
-    if HEALTH_DATA_CACHE.empty:
-        return jsonify({"error": "No data"})
-    
-    # Get health data areas for the year
-    year_data = HEALTH_DATA_CACHE[HEALTH_DATA_CACHE["Year"] == year]
-    health_areas = year_data["Area"].unique().tolist()
-    
-    # Get GeoJSON district names
-    geojson_districts = []
-    if GEO_DATA_CACHE:
-        for feature in GEO_DATA_CACHE.get('features', []):
-            district_name = feature.get('properties', {}).get('DTNAME', '')
-            if district_name:
-                geojson_districts.append(district_name)
-    
-    return jsonify({
-        "year": year,
-        "health_data_areas": health_areas,
-        "geojson_districts": geojson_districts[:10],  # First 10
-        "matches_found": len([a for a in health_areas if a.lower() in [d.lower() for d in geojson_districts]]),
-        "total_health_areas": len(health_areas),
-        "total_geojson_districts": len(geojson_districts)
-    })
-
-@app.route('/approve-doctors')
-def approve_doctors():
-    return render_template('approve_doctors.html')
 
 # --------------------- RUN ---------------------
 if __name__ == "__main__":
